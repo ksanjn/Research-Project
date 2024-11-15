@@ -1,0 +1,1001 @@
+id,task,job_role,complexity,task_type,creativity,human_interaction,time_taken,frequency,skill_level,is_automated
+1,Deploying applications,AI/ML Engineer,Low,Development,1,Yes,Short,Rarely,Basic,No
+2,Deploying applications,Frontend Developer,Low,Development,3,No,Long,Monthly,Basic,Yes
+3,Frontend development,AI/ML Engineer,Low,Maintenance,5,Yes,Short,Rarely,Basic,No
+4,API integration,Database Administrator,High,Development,2,No,Medium,Monthly,Basic,Yes
+5,Security auditing,Backend Developer,Medium,Development,4,Yes,Medium,Monthly,Intermediate,Yes
+6,Database optimization,Full Stack Developer,Low,Development,4,No,Short,Daily,Advanced,No
+7,Performance tuning,Database Administrator,Medium,Maintenance,4,No,Medium,Monthly,Intermediate,Yes
+8,Code review,Technical Writer,Medium,Testing,5,No,Medium,Monthly,Intermediate,No
+9,Writing user manuals,Full Stack Developer,Medium,Deployment,4,Yes,Long,Daily,Advanced,Yes
+10,Writing unit tests,Full Stack Developer,Medium,Development,4,Yes,Medium,Rarely,Basic,No
+11,Database optimization,Security Analyst,Medium,Documentation,4,Yes,Short,Weekly,Basic,No
+12,API integration,Database Administrator,High,Testing,4,Yes,Medium,Rarely,Intermediate,Yes
+13,Automated testing script,QA Engineer,High,Deployment,1,Yes,Long,Monthly,Basic,No
+14,Backend maintenance,AI/ML Engineer,High,Development,5,No,Short,Monthly,Intermediate,No
+15,Automated testing script,AI/ML Engineer,Medium,Documentation,1,No,Short,Rarely,Intermediate,No
+16,Designing architecture,Frontend Developer,Low,Deployment,1,No,Short,Rarely,Basic,Yes
+17,Cloud infrastructure management,Software Architect,Low,Maintenance,2,No,Medium,Daily,Advanced,Yes
+18,Automated testing script,Software Architect,High,Documentation,2,No,Short,Monthly,Basic,Yes
+19,Continuous integration setup,Backend Developer,Low,Deployment,3,No,Long,Weekly,Advanced,No
+20,Bug fixing,Frontend Developer,Low,Documentation,1,No,Medium,Weekly,Advanced,No
+21,Automated testing script,Frontend Developer,Low,Deployment,3,Yes,Medium,Daily,Basic,Yes
+22,Frontend development,Backend Developer,Low,Development,4,No,Long,Daily,Advanced,Yes
+23,Bug fixing,Software Architect,Low,Testing,3,Yes,Short,Rarely,Basic,Yes
+24,Backend maintenance,Full Stack Developer,High,Testing,3,No,Medium,Weekly,Intermediate,No
+25,Writing unit tests,Technical Writer,High,Maintenance,3,No,Long,Rarely,Intermediate,Yes
+26,Bug fixing,Software Architect,Medium,Development,4,No,Short,Weekly,Advanced,Yes
+27,Security auditing,Data Engineer,Medium,Development,4,Yes,Short,Rarely,Basic,Yes
+28,Database optimization,Technical Writer,Low,Testing,4,Yes,Short,Monthly,Intermediate,No
+29,Backend maintenance,Security Analyst,Low,Testing,1,No,Short,Rarely,Basic,No
+30,Frontend development,Database Administrator,Low,Testing,1,No,Short,Daily,Intermediate,No
+31,Backend maintenance,Software Architect,Low,Documentation,4,No,Short,Weekly,Intermediate,No
+32,Automated testing script,Data Engineer,Low,Documentation,3,Yes,Short,Weekly,Intermediate,Yes
+33,Designing architecture,DevOps Engineer,High,Deployment,1,No,Short,Daily,Basic,Yes
+34,Code review,Data Engineer,Medium,Deployment,1,Yes,Long,Monthly,Basic,Yes
+35,Cloud infrastructure management,AI/ML Engineer,High,Development,2,No,Medium,Weekly,Intermediate,No
+36,Database optimization,Technical Writer,High,Maintenance,1,Yes,Long,Daily,Basic,Yes
+37,Writing user manuals,Backend Developer,Low,Deployment,5,Yes,Short,Monthly,Advanced,Yes
+38,Automated testing script,Full Stack Developer,High,Documentation,3,No,Long,Daily,Advanced,No
+39,Frontend development,Security Analyst,High,Deployment,1,Yes,Medium,Daily,Intermediate,No
+40,Backend maintenance,Security Analyst,Low,Documentation,5,No,Medium,Monthly,Intermediate,Yes
+41,Writing user manuals,Software Architect,High,Maintenance,4,Yes,Medium,Weekly,Intermediate,No
+42,Frontend development,Frontend Developer,Low,Documentation,4,No,Short,Monthly,Advanced,No
+43,Performance tuning,Software Architect,Low,Testing,1,Yes,Long,Daily,Intermediate,Yes
+44,Security auditing,DevOps Engineer,Medium,Testing,5,No,Long,Monthly,Advanced,Yes
+45,Database optimization,Database Administrator,Medium,Maintenance,5,Yes,Long,Weekly,Intermediate,Yes
+46,Bug fixing,Software Architect,High,Documentation,4,Yes,Medium,Daily,Basic,Yes
+47,Designing architecture,Frontend Developer,High,Documentation,2,Yes,Long,Rarely,Basic,No
+48,Bug fixing,Backend Developer,High,Documentation,3,Yes,Medium,Monthly,Intermediate,No
+49,Bug fixing,QA Engineer,High,Testing,4,Yes,Medium,Rarely,Basic,Yes
+50,Frontend development,Technical Writer,Low,Development,3,No,Short,Rarely,Advanced,Yes
+51,Writing user manuals,AI/ML Engineer,High,Documentation,2,Yes,Long,Monthly,Advanced,Yes
+52,Automated testing script,Software Architect,Low,Deployment,4,No,Long,Daily,Advanced,No
+53,Bug fixing,Software Architect,High,Maintenance,1,No,Long,Weekly,Intermediate,No
+54,Backend maintenance,Database Administrator,Medium,Documentation,4,Yes,Medium,Weekly,Advanced,No
+55,Security auditing,QA Engineer,Low,Documentation,1,Yes,Long,Rarely,Intermediate,Yes
+56,Cloud infrastructure management,Full Stack Developer,Low,Maintenance,4,No,Short,Weekly,Advanced,Yes
+57,Security auditing,Backend Developer,Low,Deployment,4,No,Short,Rarely,Basic,No
+58,Continuous integration setup,Software Architect,High,Deployment,2,Yes,Long,Monthly,Basic,No
+59,Security auditing,DevOps Engineer,Low,Deployment,2,No,Long,Weekly,Advanced,Yes
+60,Code review,Security Analyst,Low,Deployment,4,No,Short,Daily,Advanced,Yes
+61,Backend maintenance,Database Administrator,Medium,Development,4,Yes,Medium,Rarely,Basic,No
+62,Cloud infrastructure management,Data Engineer,Medium,Testing,1,No,Medium,Daily,Advanced,No
+63,Writing unit tests,AI/ML Engineer,Low,Testing,4,Yes,Short,Weekly,Basic,No
+64,Continuous integration setup,Cloud Engineer,Medium,Development,3,No,Medium,Weekly,Basic,Yes
+65,Database optimization,Cloud Engineer,Medium,Maintenance,2,Yes,Long,Monthly,Intermediate,Yes
+66,Code review,Data Engineer,Medium,Development,1,Yes,Long,Rarely,Basic,Yes
+67,Writing unit tests,Software Architect,Low,Documentation,2,Yes,Short,Monthly,Intermediate,Yes
+68,Writing unit tests,Technical Writer,High,Development,2,No,Short,Weekly,Basic,Yes
+69,Writing user manuals,Cloud Engineer,Low,Development,1,Yes,Long,Rarely,Intermediate,No
+70,API integration,Security Analyst,Low,Development,1,No,Short,Rarely,Basic,Yes
+71,Cloud infrastructure management,Frontend Developer,Medium,Maintenance,3,No,Long,Weekly,Intermediate,Yes
+72,Writing unit tests,Database Administrator,High,Maintenance,3,No,Short,Daily,Intermediate,Yes
+73,Backend maintenance,Software Architect,Low,Maintenance,5,Yes,Short,Monthly,Basic,Yes
+74,Writing unit tests,QA Engineer,Medium,Maintenance,4,Yes,Medium,Rarely,Intermediate,No
+75,Database optimization,Security Analyst,Low,Deployment,1,No,Long,Daily,Intermediate,No
+76,Performance tuning,Frontend Developer,Low,Documentation,3,No,Short,Weekly,Basic,Yes
+77,Frontend development,QA Engineer,Medium,Testing,1,No,Medium,Weekly,Basic,Yes
+78,Security auditing,QA Engineer,Low,Testing,3,No,Medium,Monthly,Basic,No
+79,Performance tuning,Software Architect,Low,Maintenance,2,Yes,Long,Monthly,Advanced,No
+80,Automated testing script,Backend Developer,Medium,Development,2,Yes,Medium,Daily,Advanced,No
+81,Automated testing script,Cloud Engineer,Low,Deployment,3,No,Long,Weekly,Advanced,Yes
+82,Writing unit tests,Database Administrator,Low,Deployment,1,Yes,Short,Weekly,Advanced,No
+83,Writing unit tests,Backend Developer,High,Development,1,Yes,Long,Daily,Basic,Yes
+84,API integration,Database Administrator,High,Maintenance,3,Yes,Long,Daily,Advanced,No
+85,Designing architecture,Frontend Developer,High,Development,4,No,Short,Daily,Intermediate,No
+86,Code review,Database Administrator,High,Development,3,No,Long,Rarely,Intermediate,No
+87,Deploying applications,Database Administrator,High,Documentation,5,Yes,Medium,Monthly,Basic,Yes
+88,Continuous integration setup,Database Administrator,Medium,Deployment,1,No,Medium,Monthly,Basic,Yes
+89,API integration,Full Stack Developer,High,Documentation,3,Yes,Medium,Daily,Basic,No
+90,Writing unit tests,Cloud Engineer,High,Deployment,5,No,Long,Rarely,Intermediate,No
+91,Bug fixing,DevOps Engineer,Medium,Deployment,2,Yes,Long,Monthly,Intermediate,No
+92,Deploying applications,DevOps Engineer,Medium,Maintenance,4,Yes,Short,Weekly,Intermediate,Yes
+93,Performance tuning,AI/ML Engineer,Medium,Testing,5,No,Medium,Rarely,Advanced,No
+94,Designing architecture,Software Architect,Low,Deployment,2,Yes,Medium,Rarely,Intermediate,No
+95,Cloud infrastructure management,Technical Writer,Low,Deployment,2,No,Long,Rarely,Intermediate,No
+96,Writing user manuals,AI/ML Engineer,Low,Deployment,2,No,Short,Weekly,Intermediate,No
+97,Bug fixing,Cloud Engineer,Low,Maintenance,2,No,Long,Rarely,Basic,No
+98,Deploying applications,AI/ML Engineer,High,Documentation,4,No,Short,Rarely,Basic,Yes
+99,Automated testing script,Data Engineer,Low,Maintenance,5,Yes,Short,Monthly,Advanced,Yes
+100,Automated testing script,Data Engineer,Low,Maintenance,4,Yes,Medium,Rarely,Basic,No
+101,Continuous integration setup,Database Administrator,Low,Testing,3,Yes,Long,Daily,Intermediate,Yes
+102,Bug fixing,Cloud Engineer,Medium,Deployment,1,No,Medium,Rarely,Intermediate,Yes
+103,Bug fixing,Software Architect,Low,Maintenance,3,Yes,Short,Daily,Basic,Yes
+104,Writing user manuals,Backend Developer,High,Testing,2,No,Medium,Rarely,Advanced,No
+105,Backend maintenance,Frontend Developer,Medium,Maintenance,1,Yes,Long,Monthly,Basic,Yes
+106,Frontend development,Security Analyst,Medium,Deployment,5,Yes,Medium,Rarely,Intermediate,Yes
+107,Automated testing script,AI/ML Engineer,High,Testing,2,Yes,Medium,Monthly,Intermediate,Yes
+108,Backend maintenance,Frontend Developer,Medium,Documentation,3,No,Short,Rarely,Intermediate,Yes
+109,Security auditing,Database Administrator,Low,Development,1,Yes,Short,Monthly,Intermediate,Yes
+110,Automated testing script,Full Stack Developer,Low,Development,3,No,Short,Weekly,Basic,Yes
+111,API integration,Software Architect,Low,Deployment,2,Yes,Short,Daily,Basic,Yes
+112,Cloud infrastructure management,Cloud Engineer,High,Documentation,3,Yes,Short,Monthly,Basic,No
+113,Designing architecture,Frontend Developer,Low,Documentation,5,Yes,Long,Rarely,Intermediate,Yes
+114,Backend maintenance,QA Engineer,Low,Maintenance,4,Yes,Medium,Weekly,Intermediate,No
+115,API integration,Technical Writer,Low,Maintenance,2,No,Medium,Rarely,Intermediate,No
+116,Security auditing,Cloud Engineer,Low,Deployment,4,Yes,Short,Weekly,Basic,Yes
+117,Frontend development,Database Administrator,Medium,Documentation,2,Yes,Long,Monthly,Intermediate,No
+118,Deploying applications,AI/ML Engineer,Low,Testing,5,Yes,Short,Rarely,Advanced,No
+119,Automated testing script,Software Architect,High,Development,1,No,Short,Monthly,Basic,No
+120,Deploying applications,DevOps Engineer,High,Maintenance,5,No,Medium,Daily,Basic,Yes
+121,Deploying applications,Full Stack Developer,High,Deployment,1,Yes,Short,Monthly,Basic,Yes
+122,Continuous integration setup,Frontend Developer,Low,Maintenance,4,Yes,Medium,Daily,Basic,Yes
+123,Code review,DevOps Engineer,Medium,Documentation,4,No,Medium,Weekly,Advanced,No
+124,Writing unit tests,QA Engineer,High,Documentation,1,No,Short,Daily,Basic,Yes
+125,Continuous integration setup,Cloud Engineer,Low,Maintenance,3,No,Long,Weekly,Basic,Yes
+126,Deploying applications,QA Engineer,Medium,Deployment,1,No,Long,Rarely,Advanced,Yes
+127,Frontend development,Backend Developer,Medium,Testing,4,Yes,Medium,Monthly,Basic,Yes
+128,Database optimization,Data Engineer,High,Documentation,1,Yes,Long,Rarely,Basic,Yes
+129,Frontend development,Database Administrator,Medium,Testing,4,Yes,Short,Monthly,Intermediate,No
+130,Continuous integration setup,DevOps Engineer,Medium,Development,3,Yes,Short,Weekly,Advanced,No
+131,Database optimization,QA Engineer,High,Testing,1,No,Long,Daily,Basic,No
+132,Code review,DevOps Engineer,Medium,Testing,1,No,Long,Daily,Basic,No
+133,API integration,Data Engineer,High,Development,1,Yes,Long,Monthly,Intermediate,No
+134,Backend maintenance,Cloud Engineer,Low,Testing,1,No,Medium,Weekly,Basic,Yes
+135,API integration,QA Engineer,High,Testing,4,Yes,Medium,Weekly,Advanced,Yes
+136,Bug fixing,QA Engineer,High,Testing,5,Yes,Long,Daily,Basic,No
+137,Bug fixing,Software Architect,High,Deployment,3,No,Medium,Rarely,Basic,Yes
+138,Performance tuning,Backend Developer,High,Testing,3,Yes,Short,Rarely,Basic,No
+139,Cloud infrastructure management,Database Administrator,Low,Maintenance,2,No,Medium,Monthly,Advanced,No
+140,Writing unit tests,Technical Writer,High,Deployment,1,Yes,Medium,Rarely,Intermediate,No
+141,Performance tuning,Full Stack Developer,High,Testing,3,No,Long,Weekly,Advanced,No
+142,Performance tuning,Database Administrator,Low,Maintenance,5,Yes,Short,Monthly,Intermediate,Yes
+143,Code review,Technical Writer,Medium,Maintenance,1,No,Medium,Daily,Intermediate,Yes
+144,Frontend development,Data Engineer,Low,Development,4,No,Long,Monthly,Basic,Yes
+145,Frontend development,Technical Writer,Medium,Deployment,4,Yes,Medium,Daily,Advanced,No
+146,Writing user manuals,Data Engineer,Low,Deployment,2,Yes,Medium,Monthly,Intermediate,Yes
+147,Database optimization,Full Stack Developer,Low,Documentation,5,Yes,Medium,Rarely,Intermediate,No
+148,Performance tuning,Backend Developer,Medium,Testing,1,Yes,Medium,Rarely,Advanced,No
+149,Code review,Software Architect,High,Maintenance,3,Yes,Short,Daily,Basic,No
+150,Designing architecture,AI/ML Engineer,High,Documentation,4,Yes,Long,Monthly,Basic,No
+151,API integration,Technical Writer,Medium,Testing,1,No,Medium,Weekly,Intermediate,No
+152,Database optimization,QA Engineer,High,Testing,4,Yes,Long,Monthly,Advanced,No
+153,API integration,Technical Writer,High,Deployment,2,No,Short,Rarely,Basic,Yes
+154,Database optimization,Technical Writer,High,Maintenance,5,Yes,Short,Weekly,Intermediate,No
+155,Database optimization,Software Architect,Medium,Documentation,1,Yes,Medium,Daily,Basic,Yes
+156,Security auditing,Full Stack Developer,High,Development,1,No,Long,Rarely,Basic,Yes
+157,Bug fixing,Database Administrator,Low,Testing,1,No,Short,Weekly,Intermediate,Yes
+158,Writing user manuals,Backend Developer,Medium,Testing,1,Yes,Medium,Daily,Basic,No
+159,Security auditing,Data Engineer,High,Deployment,2,No,Long,Monthly,Basic,Yes
+160,Writing unit tests,Frontend Developer,High,Maintenance,2,Yes,Medium,Weekly,Advanced,Yes
+161,Code review,Full Stack Developer,Low,Development,1,Yes,Short,Monthly,Advanced,No
+162,Security auditing,Software Architect,High,Testing,5,No,Short,Rarely,Intermediate,No
+163,Frontend development,Technical Writer,Medium,Deployment,5,Yes,Short,Weekly,Basic,No
+164,Designing architecture,Software Architect,Medium,Deployment,1,No,Short,Monthly,Advanced,No
+165,Security auditing,Technical Writer,Low,Testing,4,Yes,Short,Daily,Basic,No
+166,Designing architecture,Technical Writer,Low,Deployment,5,No,Long,Monthly,Basic,Yes
+167,Continuous integration setup,Cloud Engineer,Medium,Deployment,1,Yes,Medium,Weekly,Intermediate,Yes
+168,Deploying applications,Technical Writer,Medium,Development,2,Yes,Medium,Monthly,Advanced,Yes
+169,Code review,Frontend Developer,High,Documentation,2,Yes,Long,Daily,Advanced,Yes
+170,Designing architecture,Cloud Engineer,Low,Maintenance,3,No,Short,Daily,Intermediate,No
+171,Cloud infrastructure management,Frontend Developer,Low,Deployment,2,Yes,Short,Rarely,Advanced,Yes
+172,Writing user manuals,Database Administrator,Low,Documentation,5,No,Short,Monthly,Advanced,No
+173,Backend maintenance,AI/ML Engineer,Low,Deployment,5,Yes,Short,Monthly,Advanced,No
+174,Cloud infrastructure management,AI/ML Engineer,High,Testing,2,Yes,Short,Daily,Advanced,Yes
+175,Code review,Frontend Developer,High,Development,3,Yes,Medium,Daily,Intermediate,No
+176,Continuous integration setup,AI/ML Engineer,Low,Maintenance,1,No,Long,Weekly,Advanced,No
+177,Backend maintenance,Data Engineer,High,Documentation,5,No,Medium,Monthly,Basic,No
+178,Deploying applications,Security Analyst,Low,Documentation,3,No,Medium,Rarely,Basic,No
+179,Designing architecture,Backend Developer,High,Development,3,Yes,Long,Rarely,Advanced,Yes
+180,Database optimization,DevOps Engineer,High,Deployment,5,Yes,Short,Daily,Advanced,No
+181,Designing architecture,Database Administrator,Low,Documentation,2,No,Medium,Rarely,Intermediate,Yes
+182,Writing user manuals,Cloud Engineer,Low,Testing,3,No,Medium,Monthly,Intermediate,Yes
+183,Database optimization,AI/ML Engineer,Low,Development,4,Yes,Short,Rarely,Basic,No
+184,Designing architecture,Software Architect,Medium,Testing,2,Yes,Short,Weekly,Advanced,No
+185,Performance tuning,Full Stack Developer,Low,Documentation,5,No,Short,Weekly,Intermediate,No
+186,Designing architecture,DevOps Engineer,Medium,Documentation,4,No,Long,Daily,Basic,No
+187,API integration,AI/ML Engineer,High,Deployment,4,Yes,Short,Daily,Intermediate,Yes
+188,Security auditing,AI/ML Engineer,Low,Deployment,4,Yes,Medium,Rarely,Advanced,Yes
+189,Backend maintenance,AI/ML Engineer,High,Development,3,No,Medium,Rarely,Basic,No
+190,Automated testing script,Frontend Developer,Medium,Testing,2,Yes,Long,Rarely,Advanced,No
+191,Writing unit tests,AI/ML Engineer,Medium,Maintenance,4,Yes,Short,Monthly,Advanced,Yes
+192,Bug fixing,QA Engineer,High,Deployment,4,No,Medium,Monthly,Advanced,No
+193,Database optimization,Cloud Engineer,Medium,Maintenance,5,No,Short,Daily,Intermediate,Yes
+194,Security auditing,Backend Developer,Low,Development,1,No,Medium,Weekly,Basic,Yes
+195,Code review,Full Stack Developer,Low,Maintenance,1,Yes,Medium,Daily,Basic,No
+196,Backend maintenance,Software Architect,Low,Deployment,1,Yes,Medium,Monthly,Advanced,No
+197,Database optimization,QA Engineer,Low,Testing,2,No,Medium,Daily,Basic,No
+198,Backend maintenance,Full Stack Developer,Medium,Documentation,5,No,Medium,Rarely,Advanced,No
+199,Backend maintenance,Cloud Engineer,Low,Documentation,3,Yes,Long,Daily,Advanced,Yes
+200,Backend maintenance,Software Architect,High,Development,4,Yes,Short,Rarely,Intermediate,No
+201,API integration,DevOps Engineer,Low,Documentation,1,Yes,Medium,Rarely,Advanced,No
+202,Deploying applications,Software Architect,High,Documentation,2,Yes,Short,Monthly,Advanced,No
+203,Writing unit tests,AI/ML Engineer,Low,Maintenance,3,Yes,Medium,Rarely,Advanced,No
+204,Deploying applications,Database Administrator,Medium,Deployment,5,Yes,Medium,Weekly,Advanced,Yes
+205,Bug fixing,QA Engineer,High,Maintenance,3,Yes,Short,Daily,Basic,Yes
+206,Writing user manuals,Cloud Engineer,High,Testing,4,Yes,Medium,Monthly,Basic,No
+207,Deploying applications,Frontend Developer,High,Maintenance,2,No,Short,Weekly,Intermediate,No
+208,Automated testing script,Full Stack Developer,High,Deployment,3,Yes,Short,Weekly,Basic,No
+209,Security auditing,Backend Developer,Low,Deployment,2,No,Long,Monthly,Intermediate,No
+210,Bug fixing,Cloud Engineer,Low,Development,5,Yes,Medium,Monthly,Intermediate,Yes
+211,Cloud infrastructure management,Frontend Developer,Medium,Testing,3,No,Short,Rarely,Advanced,No
+212,Code review,Frontend Developer,High,Maintenance,3,Yes,Medium,Rarely,Basic,Yes
+213,Code review,Software Architect,High,Maintenance,4,No,Short,Weekly,Advanced,Yes
+214,Writing user manuals,Cloud Engineer,Medium,Development,4,Yes,Long,Weekly,Intermediate,Yes
+215,Deploying applications,Data Engineer,Low,Testing,2,No,Medium,Rarely,Advanced,No
+216,Designing architecture,Technical Writer,High,Documentation,2,Yes,Short,Rarely,Basic,Yes
+217,Writing unit tests,Full Stack Developer,Medium,Documentation,3,Yes,Medium,Daily,Intermediate,Yes
+218,Cloud infrastructure management,DevOps Engineer,Low,Documentation,5,Yes,Medium,Rarely,Advanced,Yes
+219,Performance tuning,Full Stack Developer,Low,Maintenance,5,No,Short,Daily,Advanced,No
+220,Writing user manuals,Security Analyst,Medium,Testing,1,No,Long,Weekly,Intermediate,No
+221,Bug fixing,Backend Developer,High,Documentation,1,Yes,Medium,Daily,Intermediate,Yes
+222,Writing user manuals,Cloud Engineer,High,Documentation,3,Yes,Short,Daily,Advanced,No
+223,Continuous integration setup,Data Engineer,High,Documentation,5,No,Short,Weekly,Intermediate,Yes
+224,API integration,QA Engineer,Low,Testing,1,No,Long,Weekly,Intermediate,Yes
+225,Automated testing script,Software Architect,Medium,Deployment,1,Yes,Short,Monthly,Intermediate,No
+226,Performance tuning,AI/ML Engineer,Low,Documentation,1,No,Long,Monthly,Intermediate,No
+227,Deploying applications,Frontend Developer,Low,Deployment,3,Yes,Medium,Rarely,Intermediate,No
+228,Cloud infrastructure management,Software Architect,Medium,Maintenance,3,Yes,Long,Weekly,Basic,No
+229,Writing unit tests,Software Architect,Medium,Testing,2,Yes,Long,Weekly,Basic,Yes
+230,Cloud infrastructure management,Backend Developer,High,Development,5,Yes,Long,Weekly,Intermediate,Yes
+231,Performance tuning,Backend Developer,Medium,Documentation,5,No,Short,Daily,Advanced,Yes
+232,Database optimization,AI/ML Engineer,Low,Documentation,5,Yes,Long,Monthly,Basic,Yes
+233,Backend maintenance,Security Analyst,High,Deployment,1,Yes,Medium,Daily,Basic,No
+234,Performance tuning,Data Engineer,Medium,Development,5,No,Long,Rarely,Intermediate,Yes
+235,Backend maintenance,QA Engineer,Medium,Documentation,3,Yes,Medium,Rarely,Basic,No
+236,Continuous integration setup,AI/ML Engineer,Low,Development,4,Yes,Long,Rarely,Intermediate,No
+237,Performance tuning,Technical Writer,Low,Maintenance,5,No,Short,Rarely,Intermediate,No
+238,Bug fixing,AI/ML Engineer,Low,Deployment,3,Yes,Short,Monthly,Basic,Yes
+239,Writing unit tests,QA Engineer,Low,Development,3,No,Medium,Weekly,Advanced,Yes
+240,Cloud infrastructure management,Software Architect,Low,Testing,4,No,Long,Daily,Intermediate,No
+241,Database optimization,Software Architect,Medium,Development,2,Yes,Long,Monthly,Advanced,No
+242,Performance tuning,Software Architect,Medium,Testing,2,No,Medium,Rarely,Advanced,Yes
+243,Code review,Software Architect,High,Development,3,No,Long,Rarely,Intermediate,Yes
+244,Deploying applications,Database Administrator,High,Maintenance,2,Yes,Short,Daily,Basic,Yes
+245,Frontend development,Frontend Developer,High,Testing,3,No,Medium,Monthly,Advanced,Yes
+246,Writing unit tests,Technical Writer,Medium,Deployment,4,No,Short,Rarely,Advanced,Yes
+247,Continuous integration setup,QA Engineer,Low,Documentation,4,Yes,Long,Rarely,Basic,No
+248,Frontend development,Frontend Developer,Medium,Deployment,3,Yes,Long,Monthly,Basic,Yes
+249,Writing user manuals,Backend Developer,Medium,Development,3,No,Short,Rarely,Advanced,No
+250,Bug fixing,Data Engineer,Low,Testing,1,Yes,Short,Daily,Intermediate,Yes
+251,Cloud infrastructure management,Software Architect,Medium,Deployment,2,Yes,Long,Weekly,Advanced,Yes
+252,Frontend development,Data Engineer,Low,Maintenance,2,Yes,Long,Weekly,Intermediate,Yes
+253,Bug fixing,Database Administrator,Medium,Testing,1,No,Short,Daily,Basic,No
+254,Automated testing script,Full Stack Developer,High,Development,3,Yes,Short,Daily,Basic,Yes
+255,Designing architecture,Cloud Engineer,Low,Maintenance,4,Yes,Short,Rarely,Advanced,Yes
+256,Database optimization,AI/ML Engineer,Low,Testing,3,No,Long,Weekly,Advanced,Yes
+257,Code review,Technical Writer,Low,Maintenance,3,No,Medium,Rarely,Advanced,No
+258,Performance tuning,Full Stack Developer,Medium,Maintenance,3,Yes,Medium,Weekly,Advanced,Yes
+259,Bug fixing,Security Analyst,High,Development,4,Yes,Long,Rarely,Basic,No
+260,Database optimization,Full Stack Developer,Low,Maintenance,2,No,Short,Daily,Advanced,No
+261,Performance tuning,Technical Writer,Low,Development,3,No,Long,Daily,Basic,No
+262,Writing user manuals,Database Administrator,High,Development,3,Yes,Long,Weekly,Intermediate,No
+263,Designing architecture,Full Stack Developer,Low,Maintenance,5,No,Short,Monthly,Basic,Yes
+264,Deploying applications,Software Architect,High,Development,2,Yes,Medium,Daily,Basic,Yes
+265,Automated testing script,Security Analyst,High,Maintenance,1,Yes,Short,Daily,Advanced,No
+266,Database optimization,QA Engineer,Low,Testing,3,No,Short,Daily,Basic,Yes
+267,Writing unit tests,Software Architect,Medium,Maintenance,1,Yes,Medium,Daily,Intermediate,Yes
+268,Database optimization,AI/ML Engineer,Low,Testing,2,No,Short,Monthly,Advanced,No
+269,Bug fixing,Full Stack Developer,High,Deployment,4,No,Long,Rarely,Intermediate,No
+270,Designing architecture,Full Stack Developer,Medium,Testing,3,No,Short,Rarely,Basic,No
+271,Deploying applications,Database Administrator,Medium,Documentation,3,No,Long,Weekly,Basic,No
+272,Backend maintenance,Database Administrator,High,Testing,2,No,Medium,Weekly,Advanced,No
+273,Bug fixing,Data Engineer,Medium,Documentation,2,Yes,Long,Weekly,Intermediate,No
+274,Designing architecture,Backend Developer,Medium,Deployment,5,No,Medium,Weekly,Advanced,Yes
+275,Database optimization,AI/ML Engineer,High,Testing,3,Yes,Long,Monthly,Intermediate,Yes
+276,Continuous integration setup,Cloud Engineer,Low,Testing,2,Yes,Medium,Daily,Intermediate,No
+277,Database optimization,Software Architect,High,Development,1,No,Medium,Daily,Intermediate,Yes
+278,Designing architecture,Full Stack Developer,Medium,Deployment,5,No,Medium,Weekly,Intermediate,No
+279,Cloud infrastructure management,Technical Writer,High,Documentation,5,No,Long,Monthly,Intermediate,Yes
+280,Code review,Security Analyst,Low,Development,3,No,Long,Weekly,Advanced,Yes
+281,Deploying applications,Backend Developer,Low,Maintenance,2,Yes,Long,Monthly,Basic,Yes
+282,Code review,AI/ML Engineer,High,Deployment,2,Yes,Short,Daily,Advanced,Yes
+283,Performance tuning,DevOps Engineer,Medium,Deployment,4,No,Long,Weekly,Advanced,Yes
+284,API integration,Frontend Developer,Low,Deployment,2,No,Short,Rarely,Intermediate,Yes
+285,Bug fixing,Full Stack Developer,High,Deployment,3,No,Short,Weekly,Advanced,Yes
+286,Deploying applications,Backend Developer,Low,Deployment,1,No,Medium,Rarely,Intermediate,Yes
+287,Database optimization,Backend Developer,High,Deployment,2,Yes,Medium,Weekly,Advanced,Yes
+288,Code review,Cloud Engineer,Low,Documentation,3,Yes,Medium,Daily,Basic,No
+289,Bug fixing,Backend Developer,High,Maintenance,2,No,Medium,Weekly,Intermediate,No
+290,Frontend development,Full Stack Developer,Medium,Maintenance,3,No,Short,Weekly,Basic,Yes
+291,Designing architecture,AI/ML Engineer,Medium,Deployment,2,Yes,Short,Daily,Basic,No
+292,Code review,Frontend Developer,High,Maintenance,3,No,Long,Daily,Intermediate,Yes
+293,Database optimization,Technical Writer,High,Testing,4,Yes,Short,Daily,Intermediate,No
+294,Writing user manuals,Database Administrator,High,Documentation,2,No,Short,Rarely,Basic,No
+295,Designing architecture,Software Architect,Medium,Maintenance,5,Yes,Long,Weekly,Advanced,Yes
+296,Deploying applications,Database Administrator,Medium,Documentation,4,No,Medium,Daily,Basic,Yes
+297,Designing architecture,Cloud Engineer,Low,Documentation,3,No,Medium,Weekly,Basic,No
+298,Continuous integration setup,Full Stack Developer,Medium,Testing,1,No,Short,Monthly,Intermediate,Yes
+299,Backend maintenance,Backend Developer,High,Documentation,1,No,Short,Daily,Basic,No
+300,Designing architecture,Security Analyst,Low,Testing,5,Yes,Long,Monthly,Intermediate,No
+301,Database optimization,Backend Developer,High,Development,3,Yes,Medium,Daily,Basic,No
+302,Designing architecture,Cloud Engineer,Low,Documentation,2,Yes,Short,Rarely,Basic,No
+303,Performance tuning,Software Architect,High,Documentation,3,Yes,Medium,Weekly,Advanced,No
+304,Code review,DevOps Engineer,Low,Deployment,3,No,Short,Rarely,Basic,Yes
+305,Performance tuning,Data Engineer,Low,Development,5,Yes,Long,Daily,Intermediate,Yes
+306,Designing architecture,AI/ML Engineer,Low,Deployment,4,Yes,Short,Monthly,Intermediate,No
+307,API integration,Software Architect,Low,Deployment,5,No,Short,Monthly,Advanced,Yes
+308,Bug fixing,Data Engineer,Low,Documentation,2,Yes,Medium,Daily,Intermediate,No
+309,Writing unit tests,DevOps Engineer,Medium,Testing,4,No,Long,Weekly,Intermediate,No
+310,Writing unit tests,Technical Writer,Low,Testing,4,Yes,Short,Daily,Intermediate,No
+311,Writing unit tests,AI/ML Engineer,Medium,Development,5,No,Short,Daily,Advanced,No
+312,Database optimization,Cloud Engineer,High,Development,5,No,Long,Monthly,Intermediate,Yes
+313,Writing user manuals,Security Analyst,Low,Maintenance,5,No,Long,Monthly,Advanced,Yes
+314,Deploying applications,Frontend Developer,Medium,Testing,1,No,Short,Rarely,Basic,No
+315,Writing unit tests,AI/ML Engineer,Low,Maintenance,1,Yes,Long,Daily,Advanced,Yes
+316,Cloud infrastructure management,DevOps Engineer,Low,Testing,1,No,Short,Rarely,Advanced,Yes
+317,Cloud infrastructure management,Database Administrator,Medium,Deployment,5,No,Short,Daily,Advanced,No
+318,Continuous integration setup,Security Analyst,Medium,Development,1,Yes,Long,Monthly,Intermediate,Yes
+319,Writing user manuals,Security Analyst,Medium,Maintenance,2,No,Short,Daily,Advanced,No
+320,Bug fixing,Cloud Engineer,Low,Maintenance,1,No,Long,Daily,Advanced,No
+321,Bug fixing,Technical Writer,Low,Testing,5,No,Long,Daily,Intermediate,Yes
+322,API integration,Technical Writer,Medium,Development,4,Yes,Short,Daily,Basic,Yes
+323,Backend maintenance,Data Engineer,Low,Development,3,Yes,Medium,Daily,Intermediate,Yes
+324,Deploying applications,DevOps Engineer,Low,Documentation,4,No,Medium,Daily,Advanced,No
+325,Writing user manuals,DevOps Engineer,Low,Deployment,4,No,Medium,Rarely,Intermediate,Yes
+326,Writing user manuals,Technical Writer,High,Development,5,Yes,Medium,Rarely,Basic,Yes
+327,Security auditing,AI/ML Engineer,Medium,Maintenance,1,No,Medium,Daily,Intermediate,Yes
+328,Designing architecture,Security Analyst,High,Maintenance,1,No,Medium,Monthly,Advanced,Yes
+329,Performance tuning,Technical Writer,Medium,Development,1,Yes,Long,Daily,Advanced,No
+330,Automated testing script,Software Architect,Low,Maintenance,2,Yes,Medium,Monthly,Intermediate,Yes
+331,Bug fixing,DevOps Engineer,Medium,Development,3,No,Long,Monthly,Intermediate,No
+332,Writing unit tests,AI/ML Engineer,High,Development,1,Yes,Short,Weekly,Intermediate,No
+333,Security auditing,QA Engineer,High,Maintenance,5,No,Medium,Rarely,Basic,Yes
+334,Designing architecture,Data Engineer,High,Maintenance,2,No,Medium,Weekly,Intermediate,Yes
+335,Automated testing script,Full Stack Developer,Low,Testing,2,No,Short,Rarely,Advanced,No
+336,Continuous integration setup,Database Administrator,High,Documentation,5,Yes,Long,Weekly,Basic,Yes
+337,Designing architecture,Security Analyst,Low,Documentation,4,No,Short,Monthly,Basic,Yes
+338,Writing unit tests,Technical Writer,High,Maintenance,2,No,Short,Monthly,Basic,No
+339,Cloud infrastructure management,AI/ML Engineer,Medium,Maintenance,3,No,Medium,Daily,Advanced,Yes
+340,Deploying applications,Security Analyst,Low,Development,2,No,Long,Daily,Advanced,Yes
+341,Cloud infrastructure management,Full Stack Developer,Low,Testing,3,No,Short,Weekly,Intermediate,No
+342,Designing architecture,Software Architect,Medium,Development,4,Yes,Short,Weekly,Advanced,No
+343,Code review,QA Engineer,High,Deployment,5,No,Short,Monthly,Intermediate,Yes
+344,Writing unit tests,Cloud Engineer,Low,Development,3,Yes,Long,Rarely,Intermediate,Yes
+345,Code review,Software Architect,Medium,Deployment,3,No,Long,Rarely,Intermediate,No
+346,Continuous integration setup,Database Administrator,High,Development,2,No,Long,Weekly,Advanced,Yes
+347,API integration,Backend Developer,Medium,Documentation,5,No,Long,Rarely,Basic,No
+348,Automated testing script,Software Architect,High,Development,4,Yes,Short,Monthly,Intermediate,No
+349,Writing unit tests,Software Architect,High,Development,1,No,Short,Rarely,Intermediate,Yes
+350,Deploying applications,Backend Developer,Medium,Development,5,No,Medium,Daily,Advanced,Yes
+351,Frontend development,Data Engineer,High,Testing,3,No,Medium,Monthly,Intermediate,Yes
+352,Writing user manuals,Frontend Developer,High,Deployment,3,No,Long,Monthly,Intermediate,Yes
+353,Frontend development,AI/ML Engineer,Low,Testing,2,No,Short,Monthly,Basic,No
+354,Performance tuning,Security Analyst,Medium,Documentation,1,No,Long,Monthly,Intermediate,No
+355,Database optimization,QA Engineer,Medium,Maintenance,3,No,Long,Rarely,Basic,Yes
+356,Backend maintenance,Data Engineer,High,Maintenance,5,No,Short,Daily,Advanced,No
+357,API integration,AI/ML Engineer,Medium,Deployment,1,Yes,Medium,Daily,Advanced,Yes
+358,Code review,Cloud Engineer,High,Deployment,3,Yes,Short,Daily,Advanced,Yes
+359,Deploying applications,Data Engineer,Medium,Deployment,4,No,Short,Rarely,Basic,No
+360,Performance tuning,Data Engineer,Medium,Deployment,4,No,Medium,Rarely,Advanced,Yes
+361,Backend maintenance,Data Engineer,High,Development,1,No,Medium,Weekly,Intermediate,Yes
+362,Writing user manuals,Frontend Developer,High,Deployment,4,Yes,Long,Daily,Basic,No
+363,Automated testing script,Frontend Developer,Low,Maintenance,4,Yes,Medium,Weekly,Intermediate,No
+364,API integration,Database Administrator,High,Deployment,5,No,Long,Monthly,Basic,No
+365,Continuous integration setup,Frontend Developer,Medium,Testing,1,Yes,Short,Weekly,Basic,No
+366,Performance tuning,Frontend Developer,High,Testing,3,No,Medium,Daily,Basic,No
+367,Automated testing script,DevOps Engineer,Low,Deployment,2,Yes,Long,Daily,Advanced,No
+368,Designing architecture,Full Stack Developer,Medium,Deployment,5,Yes,Medium,Monthly,Basic,Yes
+369,Automated testing script,Cloud Engineer,High,Deployment,4,Yes,Long,Daily,Intermediate,No
+370,Bug fixing,Backend Developer,High,Development,1,Yes,Short,Daily,Basic,Yes
+371,Security auditing,Software Architect,High,Testing,4,Yes,Medium,Weekly,Intermediate,Yes
+372,Code review,DevOps Engineer,High,Maintenance,1,No,Short,Monthly,Intermediate,Yes
+373,Frontend development,Data Engineer,Medium,Documentation,1,Yes,Short,Monthly,Intermediate,Yes
+374,Automated testing script,DevOps Engineer,Medium,Deployment,4,No,Long,Monthly,Intermediate,No
+375,Writing unit tests,Software Architect,Medium,Documentation,5,No,Long,Rarely,Intermediate,No
+376,Backend maintenance,Technical Writer,Low,Maintenance,2,Yes,Short,Monthly,Basic,Yes
+377,Cloud infrastructure management,Data Engineer,Low,Testing,4,No,Long,Weekly,Intermediate,Yes
+378,Designing architecture,Full Stack Developer,High,Development,3,No,Medium,Daily,Basic,No
+379,Database optimization,Frontend Developer,High,Development,1,Yes,Short,Rarely,Intermediate,No
+380,API integration,Software Architect,Medium,Testing,2,Yes,Long,Daily,Basic,No
+381,Code review,Software Architect,High,Maintenance,4,Yes,Medium,Monthly,Basic,Yes
+382,Frontend development,Technical Writer,High,Maintenance,2,Yes,Long,Rarely,Basic,No
+383,Automated testing script,Technical Writer,Low,Documentation,4,No,Medium,Weekly,Advanced,No
+384,Database optimization,Security Analyst,High,Testing,4,Yes,Medium,Rarely,Intermediate,Yes
+385,Writing user manuals,Full Stack Developer,High,Deployment,2,Yes,Short,Rarely,Basic,No
+386,Cloud infrastructure management,Database Administrator,High,Development,5,No,Long,Rarely,Advanced,No
+387,Code review,QA Engineer,Medium,Testing,4,No,Medium,Rarely,Basic,Yes
+388,Continuous integration setup,Technical Writer,High,Deployment,5,No,Long,Daily,Advanced,Yes
+389,Writing user manuals,Software Architect,High,Documentation,2,No,Long,Daily,Advanced,Yes
+390,Continuous integration setup,Database Administrator,High,Documentation,2,No,Short,Daily,Advanced,No
+391,Writing user manuals,Full Stack Developer,Low,Development,2,No,Medium,Weekly,Intermediate,No
+392,Bug fixing,Backend Developer,Low,Deployment,3,Yes,Short,Rarely,Advanced,Yes
+393,Designing architecture,Technical Writer,High,Maintenance,5,No,Medium,Daily,Basic,Yes
+394,Database optimization,DevOps Engineer,High,Development,3,Yes,Long,Monthly,Intermediate,Yes
+395,Deploying applications,Backend Developer,Medium,Maintenance,3,No,Short,Rarely,Intermediate,Yes
+396,Writing unit tests,Data Engineer,High,Maintenance,2,No,Medium,Daily,Advanced,Yes
+397,Database optimization,Technical Writer,Low,Maintenance,5,Yes,Short,Daily,Intermediate,No
+398,Backend maintenance,Database Administrator,Low,Development,3,Yes,Short,Rarely,Advanced,Yes
+399,Security auditing,Cloud Engineer,High,Documentation,2,No,Long,Weekly,Basic,No
+400,Continuous integration setup,Frontend Developer,High,Development,1,Yes,Medium,Weekly,Basic,No
+401,Bug fixing,Full Stack Developer,High,Development,4,No,Short,Monthly,Advanced,No
+402,Security auditing,Software Architect,High,Deployment,4,No,Short,Monthly,Advanced,No
+403,Security auditing,DevOps Engineer,Low,Development,4,Yes,Long,Monthly,Advanced,Yes
+404,Writing unit tests,Security Analyst,High,Deployment,2,No,Long,Monthly,Basic,Yes
+405,Frontend development,Data Engineer,Medium,Maintenance,4,No,Long,Rarely,Intermediate,No
+406,Performance tuning,DevOps Engineer,Medium,Testing,2,No,Long,Daily,Advanced,Yes
+407,Deploying applications,Security Analyst,Medium,Deployment,4,No,Short,Daily,Basic,Yes
+408,Deploying applications,Security Analyst,Low,Development,1,Yes,Short,Daily,Advanced,Yes
+409,Automated testing script,Software Architect,Low,Documentation,4,Yes,Short,Weekly,Advanced,Yes
+410,Performance tuning,Cloud Engineer,Low,Deployment,3,Yes,Medium,Weekly,Basic,Yes
+411,Backend maintenance,Security Analyst,Medium,Deployment,5,Yes,Medium,Weekly,Basic,No
+412,Cloud infrastructure management,Cloud Engineer,Low,Development,1,No,Short,Daily,Basic,Yes
+413,Backend maintenance,DevOps Engineer,Medium,Development,4,Yes,Short,Daily,Advanced,Yes
+414,Database optimization,DevOps Engineer,High,Maintenance,5,No,Long,Daily,Intermediate,Yes
+415,Performance tuning,Database Administrator,Medium,Deployment,1,No,Long,Weekly,Advanced,Yes
+416,Backend maintenance,Frontend Developer,Low,Development,3,No,Short,Daily,Intermediate,No
+417,Bug fixing,Cloud Engineer,Medium,Development,4,Yes,Medium,Rarely,Advanced,No
+418,API integration,Cloud Engineer,High,Deployment,3,No,Long,Monthly,Advanced,No
+419,Continuous integration setup,AI/ML Engineer,High,Testing,1,No,Short,Weekly,Basic,No
+420,Performance tuning,QA Engineer,High,Maintenance,3,No,Medium,Daily,Basic,Yes
+421,Frontend development,Frontend Developer,Low,Documentation,2,No,Medium,Weekly,Advanced,No
+422,Database optimization,Backend Developer,Medium,Testing,2,Yes,Long,Weekly,Basic,No
+423,Performance tuning,DevOps Engineer,Low,Testing,2,No,Long,Weekly,Advanced,Yes
+424,Designing architecture,QA Engineer,Medium,Maintenance,3,No,Medium,Daily,Intermediate,Yes
+425,Code review,Software Architect,Medium,Development,4,No,Long,Rarely,Basic,No
+426,Deploying applications,Database Administrator,Medium,Testing,2,No,Long,Monthly,Advanced,No
+427,Writing unit tests,Database Administrator,High,Deployment,1,No,Short,Monthly,Basic,No
+428,Deploying applications,Software Architect,Medium,Development,5,No,Short,Weekly,Advanced,No
+429,Security auditing,DevOps Engineer,Low,Deployment,3,Yes,Short,Weekly,Basic,Yes
+430,Cloud infrastructure management,Technical Writer,High,Deployment,2,No,Long,Monthly,Basic,No
+431,Continuous integration setup,Security Analyst,Medium,Documentation,4,No,Medium,Rarely,Advanced,Yes
+432,Cloud infrastructure management,DevOps Engineer,High,Deployment,2,Yes,Medium,Daily,Basic,No
+433,Backend maintenance,Technical Writer,Medium,Maintenance,2,Yes,Medium,Monthly,Advanced,Yes
+434,Writing unit tests,DevOps Engineer,High,Testing,3,No,Short,Monthly,Basic,Yes
+435,API integration,Software Architect,High,Maintenance,5,Yes,Medium,Daily,Intermediate,No
+436,Deploying applications,Software Architect,Medium,Testing,4,Yes,Medium,Monthly,Basic,No
+437,Writing unit tests,DevOps Engineer,High,Testing,2,Yes,Medium,Weekly,Intermediate,Yes
+438,Code review,Cloud Engineer,Low,Deployment,2,Yes,Short,Rarely,Basic,No
+439,Code review,Database Administrator,Low,Documentation,2,No,Short,Monthly,Intermediate,Yes
+440,Cloud infrastructure management,Technical Writer,High,Deployment,5,No,Long,Weekly,Advanced,No
+441,Backend maintenance,Cloud Engineer,Low,Maintenance,2,Yes,Long,Rarely,Basic,No
+442,Frontend development,Backend Developer,High,Deployment,3,No,Short,Weekly,Intermediate,No
+443,Writing user manuals,Data Engineer,High,Deployment,2,Yes,Short,Weekly,Advanced,Yes
+444,Cloud infrastructure management,Data Engineer,Low,Development,5,Yes,Medium,Daily,Advanced,Yes
+445,Code review,Backend Developer,Low,Deployment,1,No,Long,Monthly,Basic,No
+446,Security auditing,AI/ML Engineer,Medium,Documentation,5,No,Short,Monthly,Intermediate,No
+447,Writing unit tests,Frontend Developer,Medium,Development,5,No,Medium,Weekly,Basic,Yes
+448,Writing user manuals,Frontend Developer,Medium,Development,2,Yes,Short,Monthly,Basic,No
+449,Database optimization,QA Engineer,Low,Testing,4,No,Medium,Monthly,Basic,No
+450,Deploying applications,Data Engineer,Low,Testing,4,Yes,Short,Daily,Intermediate,Yes
+451,Deploying applications,Security Analyst,Medium,Development,2,Yes,Short,Daily,Intermediate,No
+452,Automated testing script,Database Administrator,High,Documentation,1,Yes,Short,Rarely,Intermediate,Yes
+453,Bug fixing,AI/ML Engineer,Medium,Testing,1,No,Long,Weekly,Advanced,Yes
+454,Code review,Technical Writer,Medium,Documentation,3,Yes,Short,Rarely,Intermediate,No
+455,Database optimization,Database Administrator,Low,Documentation,3,No,Medium,Weekly,Advanced,No
+456,Performance tuning,Frontend Developer,Low,Maintenance,4,No,Long,Rarely,Intermediate,No
+457,Code review,Full Stack Developer,Low,Deployment,2,No,Long,Rarely,Basic,Yes
+458,Frontend development,Database Administrator,Medium,Maintenance,3,No,Short,Rarely,Advanced,No
+459,Designing architecture,Security Analyst,Medium,Documentation,4,No,Medium,Daily,Advanced,Yes
+460,Bug fixing,Data Engineer,High,Maintenance,2,Yes,Long,Monthly,Intermediate,Yes
+461,Bug fixing,Technical Writer,Medium,Testing,3,No,Short,Rarely,Advanced,No
+462,Database optimization,Backend Developer,High,Development,1,No,Long,Rarely,Basic,No
+463,Performance tuning,Backend Developer,Medium,Testing,1,No,Short,Rarely,Advanced,Yes
+464,Cloud infrastructure management,Full Stack Developer,High,Documentation,5,Yes,Medium,Monthly,Intermediate,No
+465,Deploying applications,QA Engineer,Low,Development,4,Yes,Medium,Weekly,Intermediate,Yes
+466,Writing user manuals,Data Engineer,Medium,Development,1,No,Medium,Weekly,Advanced,No
+467,Designing architecture,DevOps Engineer,High,Testing,2,No,Long,Rarely,Intermediate,Yes
+468,Frontend development,Technical Writer,Low,Development,3,Yes,Long,Rarely,Intermediate,No
+469,Deploying applications,AI/ML Engineer,Low,Deployment,2,No,Short,Monthly,Intermediate,No
+470,Code review,Cloud Engineer,Medium,Testing,5,No,Medium,Weekly,Intermediate,No
+471,Automated testing script,Full Stack Developer,Low,Development,3,No,Short,Monthly,Advanced,Yes
+472,Continuous integration setup,Database Administrator,Low,Deployment,3,Yes,Short,Rarely,Intermediate,Yes
+473,Continuous integration setup,Backend Developer,Low,Deployment,5,Yes,Short,Monthly,Basic,Yes
+474,Security auditing,DevOps Engineer,High,Documentation,3,Yes,Long,Weekly,Advanced,Yes
+475,Deploying applications,DevOps Engineer,Medium,Maintenance,5,Yes,Medium,Daily,Basic,Yes
+476,Security auditing,Data Engineer,Low,Testing,2,No,Medium,Daily,Advanced,Yes
+477,API integration,AI/ML Engineer,Low,Testing,3,Yes,Short,Rarely,Advanced,No
+478,Automated testing script,Frontend Developer,Medium,Maintenance,3,Yes,Long,Rarely,Advanced,Yes
+479,Designing architecture,QA Engineer,Low,Deployment,5,No,Short,Rarely,Advanced,Yes
+480,Performance tuning,QA Engineer,High,Documentation,2,Yes,Long,Monthly,Intermediate,Yes
+481,Database optimization,Database Administrator,High,Documentation,1,Yes,Short,Weekly,Basic,No
+482,Code review,Software Architect,High,Documentation,2,No,Short,Monthly,Advanced,No
+483,Deploying applications,Cloud Engineer,Medium,Documentation,5,Yes,Long,Daily,Advanced,Yes
+484,Performance tuning,Data Engineer,High,Maintenance,2,Yes,Long,Monthly,Intermediate,Yes
+485,Cloud infrastructure management,Software Architect,Low,Documentation,2,No,Long,Daily,Advanced,Yes
+486,Frontend development,Technical Writer,High,Documentation,1,No,Short,Daily,Basic,Yes
+487,Cloud infrastructure management,Data Engineer,Medium,Deployment,3,Yes,Medium,Daily,Intermediate,No
+488,Backend maintenance,Software Architect,Medium,Development,3,No,Medium,Weekly,Basic,Yes
+489,Writing unit tests,Frontend Developer,Low,Documentation,5,No,Long,Weekly,Basic,Yes
+490,Designing architecture,AI/ML Engineer,Medium,Documentation,5,Yes,Long,Weekly,Basic,No
+491,Performance tuning,Software Architect,Low,Development,3,No,Medium,Daily,Intermediate,Yes
+492,Database optimization,Software Architect,Medium,Documentation,3,Yes,Long,Rarely,Basic,Yes
+493,Writing user manuals,Cloud Engineer,High,Development,3,No,Short,Weekly,Basic,No
+494,Performance tuning,Full Stack Developer,Low,Maintenance,2,Yes,Medium,Daily,Basic,Yes
+495,Writing user manuals,DevOps Engineer,Low,Testing,3,Yes,Long,Weekly,Intermediate,No
+496,Security auditing,Data Engineer,Medium,Deployment,5,No,Short,Rarely,Intermediate,No
+497,Backend maintenance,Database Administrator,Low,Development,4,No,Medium,Monthly,Basic,No
+498,API integration,AI/ML Engineer,Low,Development,5,No,Long,Monthly,Basic,No
+499,Frontend development,Frontend Developer,Low,Maintenance,3,Yes,Long,Weekly,Intermediate,No
+500,API integration,Full Stack Developer,High,Documentation,3,No,Short,Weekly,Intermediate,Yes
+501,Designing architecture,QA Engineer,High,Documentation,5,Yes,Medium,Rarely,Intermediate,No
+502,Writing user manuals,Backend Developer,Medium,Deployment,3,No,Short,Weekly,Intermediate,Yes
+503,Frontend development,DevOps Engineer,Low,Development,1,Yes,Medium,Weekly,Intermediate,Yes
+504,Performance tuning,Cloud Engineer,High,Testing,3,Yes,Medium,Monthly,Advanced,No
+505,Database optimization,Database Administrator,Low,Maintenance,3,No,Long,Daily,Intermediate,Yes
+506,Writing unit tests,QA Engineer,Low,Maintenance,3,No,Short,Daily,Basic,No
+507,Code review,DevOps Engineer,High,Development,1,Yes,Long,Weekly,Advanced,No
+508,API integration,Database Administrator,High,Development,4,Yes,Medium,Daily,Basic,No
+509,Bug fixing,Frontend Developer,Medium,Maintenance,3,No,Short,Rarely,Advanced,Yes
+510,Cloud infrastructure management,DevOps Engineer,Medium,Maintenance,2,No,Short,Weekly,Basic,No
+511,Designing architecture,Software Architect,Medium,Development,2,Yes,Medium,Weekly,Basic,Yes
+512,Bug fixing,AI/ML Engineer,High,Testing,5,Yes,Long,Monthly,Basic,Yes
+513,API integration,Frontend Developer,Low,Documentation,4,No,Short,Monthly,Advanced,No
+514,Frontend development,DevOps Engineer,High,Deployment,2,Yes,Long,Monthly,Advanced,Yes
+515,Bug fixing,Security Analyst,Low,Development,2,No,Short,Weekly,Intermediate,No
+516,Automated testing script,Security Analyst,High,Testing,2,Yes,Medium,Monthly,Basic,Yes
+517,API integration,Technical Writer,Medium,Testing,4,No,Short,Rarely,Advanced,No
+518,Deploying applications,AI/ML Engineer,High,Deployment,1,No,Medium,Weekly,Advanced,Yes
+519,Security auditing,Frontend Developer,High,Maintenance,5,Yes,Short,Monthly,Intermediate,Yes
+520,Bug fixing,Security Analyst,Medium,Testing,4,No,Medium,Weekly,Basic,No
+521,Performance tuning,Cloud Engineer,High,Development,5,Yes,Long,Weekly,Intermediate,Yes
+522,Continuous integration setup,Technical Writer,High,Documentation,3,No,Medium,Monthly,Advanced,Yes
+523,Performance tuning,QA Engineer,Low,Testing,4,No,Long,Monthly,Advanced,No
+524,Designing architecture,DevOps Engineer,Low,Deployment,4,No,Short,Weekly,Basic,Yes
+525,Backend maintenance,Software Architect,Medium,Documentation,1,No,Long,Monthly,Advanced,No
+526,Bug fixing,Cloud Engineer,High,Testing,1,No,Long,Daily,Basic,No
+527,Frontend development,QA Engineer,High,Development,4,No,Medium,Weekly,Intermediate,Yes
+528,Database optimization,QA Engineer,High,Development,2,No,Long,Monthly,Basic,Yes
+529,Database optimization,QA Engineer,High,Documentation,5,Yes,Short,Daily,Advanced,No
+530,Bug fixing,Technical Writer,Low,Maintenance,5,No,Short,Rarely,Advanced,No
+531,Cloud infrastructure management,Full Stack Developer,High,Documentation,1,No,Medium,Weekly,Basic,No
+532,Backend maintenance,Backend Developer,Medium,Deployment,4,No,Long,Weekly,Intermediate,Yes
+533,Writing unit tests,QA Engineer,Medium,Maintenance,3,No,Short,Rarely,Advanced,Yes
+534,API integration,Database Administrator,High,Development,3,Yes,Long,Weekly,Intermediate,Yes
+535,Writing user manuals,Cloud Engineer,Low,Deployment,5,No,Short,Monthly,Advanced,Yes
+536,Writing unit tests,AI/ML Engineer,High,Deployment,4,Yes,Long,Rarely,Basic,Yes
+537,Database optimization,Full Stack Developer,High,Documentation,2,No,Long,Rarely,Advanced,Yes
+538,Continuous integration setup,AI/ML Engineer,High,Development,3,Yes,Medium,Rarely,Basic,No
+539,Continuous integration setup,Frontend Developer,Low,Maintenance,2,Yes,Long,Monthly,Intermediate,No
+540,Database optimization,Technical Writer,Low,Testing,1,Yes,Medium,Rarely,Advanced,Yes
+541,Backend maintenance,Backend Developer,Medium,Development,3,Yes,Medium,Monthly,Advanced,Yes
+542,Automated testing script,Backend Developer,High,Documentation,3,No,Long,Weekly,Intermediate,Yes
+543,Security auditing,Backend Developer,Low,Deployment,5,Yes,Medium,Rarely,Basic,No
+544,Bug fixing,Database Administrator,Medium,Deployment,3,Yes,Medium,Monthly,Basic,Yes
+545,Frontend development,Backend Developer,High,Development,1,No,Long,Monthly,Basic,No
+546,Frontend development,Frontend Developer,Low,Development,2,No,Short,Monthly,Intermediate,No
+547,Security auditing,Backend Developer,Low,Development,4,No,Long,Rarely,Advanced,No
+548,Database optimization,Backend Developer,High,Testing,4,Yes,Short,Weekly,Basic,No
+549,API integration,DevOps Engineer,High,Maintenance,2,Yes,Medium,Weekly,Advanced,Yes
+550,Frontend development,Security Analyst,Low,Maintenance,4,No,Long,Daily,Intermediate,No
+551,Frontend development,Frontend Developer,Low,Development,2,No,Short,Daily,Intermediate,Yes
+552,Writing user manuals,DevOps Engineer,Low,Deployment,4,Yes,Medium,Rarely,Intermediate,Yes
+553,Security auditing,QA Engineer,Low,Deployment,2,Yes,Medium,Daily,Intermediate,Yes
+554,Designing architecture,QA Engineer,Medium,Testing,3,No,Short,Rarely,Advanced,Yes
+555,Code review,Cloud Engineer,High,Development,4,Yes,Long,Monthly,Advanced,Yes
+556,Backend maintenance,Technical Writer,Low,Documentation,2,Yes,Long,Monthly,Advanced,No
+557,Designing architecture,Full Stack Developer,Low,Maintenance,4,No,Medium,Rarely,Basic,No
+558,API integration,Database Administrator,Low,Deployment,3,No,Short,Rarely,Basic,Yes
+559,Frontend development,Frontend Developer,Medium,Maintenance,1,No,Long,Monthly,Advanced,Yes
+560,Code review,DevOps Engineer,Low,Deployment,1,No,Long,Daily,Intermediate,No
+561,Writing unit tests,Database Administrator,High,Testing,2,No,Short,Monthly,Intermediate,No
+562,API integration,Full Stack Developer,Low,Documentation,5,Yes,Short,Monthly,Intermediate,Yes
+563,Writing user manuals,Backend Developer,Low,Maintenance,4,No,Long,Weekly,Intermediate,No
+564,Bug fixing,Backend Developer,Medium,Deployment,4,No,Short,Daily,Intermediate,Yes
+565,Performance tuning,Frontend Developer,High,Documentation,1,Yes,Long,Monthly,Basic,Yes
+566,Code review,AI/ML Engineer,Low,Deployment,1,Yes,Short,Daily,Advanced,No
+567,API integration,DevOps Engineer,Low,Deployment,2,Yes,Long,Weekly,Basic,No
+568,Performance tuning,Full Stack Developer,Low,Testing,2,No,Long,Weekly,Advanced,No
+569,API integration,Cloud Engineer,Medium,Testing,2,Yes,Short,Daily,Intermediate,No
+570,Cloud infrastructure management,Full Stack Developer,High,Development,5,Yes,Medium,Monthly,Intermediate,No
+571,Backend maintenance,Software Architect,Low,Maintenance,3,Yes,Short,Monthly,Basic,No
+572,Backend maintenance,Cloud Engineer,Low,Deployment,2,Yes,Long,Weekly,Intermediate,No
+573,Frontend development,Software Architect,High,Maintenance,2,No,Long,Rarely,Basic,No
+574,Backend maintenance,Cloud Engineer,Medium,Maintenance,5,No,Short,Monthly,Intermediate,No
+575,API integration,Database Administrator,High,Maintenance,2,Yes,Medium,Weekly,Basic,No
+576,API integration,Data Engineer,High,Deployment,2,No,Short,Daily,Advanced,Yes
+577,Cloud infrastructure management,Technical Writer,Low,Documentation,3,No,Short,Rarely,Basic,Yes
+578,Writing unit tests,DevOps Engineer,High,Deployment,4,Yes,Medium,Monthly,Advanced,No
+579,Database optimization,Security Analyst,High,Testing,5,No,Medium,Daily,Basic,No
+580,Bug fixing,Database Administrator,High,Deployment,5,No,Short,Daily,Basic,Yes
+581,Writing user manuals,Cloud Engineer,High,Deployment,3,Yes,Medium,Weekly,Basic,No
+582,Database optimization,Data Engineer,Low,Deployment,5,Yes,Long,Rarely,Intermediate,Yes
+583,Security auditing,QA Engineer,Medium,Maintenance,5,No,Medium,Monthly,Advanced,No
+584,API integration,Cloud Engineer,Medium,Documentation,3,No,Medium,Monthly,Intermediate,Yes
+585,Designing architecture,Cloud Engineer,Medium,Testing,1,Yes,Medium,Weekly,Intermediate,Yes
+586,Backend maintenance,Frontend Developer,Medium,Testing,1,No,Long,Rarely,Advanced,Yes
+587,Deploying applications,QA Engineer,Low,Development,5,Yes,Long,Daily,Advanced,Yes
+588,Frontend development,Data Engineer,High,Development,4,No,Medium,Monthly,Advanced,Yes
+589,Writing unit tests,DevOps Engineer,Medium,Deployment,3,Yes,Short,Monthly,Basic,Yes
+590,Backend maintenance,Security Analyst,High,Documentation,3,Yes,Long,Rarely,Advanced,No
+591,Frontend development,QA Engineer,Low,Development,5,No,Short,Weekly,Advanced,Yes
+592,Writing unit tests,Software Architect,Low,Testing,4,No,Long,Daily,Intermediate,Yes
+593,Frontend development,Database Administrator,High,Testing,3,No,Short,Monthly,Basic,Yes
+594,Writing unit tests,QA Engineer,Medium,Development,5,Yes,Long,Weekly,Basic,No
+595,API integration,DevOps Engineer,High,Development,2,No,Medium,Daily,Intermediate,Yes
+596,Backend maintenance,DevOps Engineer,Medium,Deployment,2,No,Short,Daily,Basic,Yes
+597,API integration,Software Architect,High,Deployment,2,Yes,Long,Rarely,Advanced,No
+598,Bug fixing,Backend Developer,Medium,Maintenance,1,Yes,Short,Weekly,Basic,Yes
+599,Continuous integration setup,Backend Developer,High,Deployment,4,No,Medium,Weekly,Intermediate,No
+600,Cloud infrastructure management,Cloud Engineer,Medium,Development,1,Yes,Long,Weekly,Advanced,Yes
+601,API integration,Security Analyst,High,Development,2,No,Short,Weekly,Intermediate,No
+602,Continuous integration setup,Database Administrator,Medium,Deployment,3,No,Medium,Rarely,Advanced,No
+603,Writing unit tests,QA Engineer,High,Maintenance,5,Yes,Medium,Daily,Advanced,Yes
+604,API integration,Software Architect,High,Maintenance,5,No,Medium,Monthly,Intermediate,Yes
+605,Code review,Data Engineer,Medium,Testing,3,Yes,Medium,Rarely,Advanced,Yes
+606,Database optimization,QA Engineer,Medium,Deployment,2,No,Short,Rarely,Intermediate,Yes
+607,API integration,Frontend Developer,High,Testing,3,No,Long,Weekly,Basic,No
+608,Automated testing script,Frontend Developer,High,Documentation,2,No,Long,Monthly,Basic,No
+609,Automated testing script,Software Architect,Low,Testing,1,No,Short,Daily,Advanced,No
+610,Writing user manuals,Full Stack Developer,Low,Development,4,Yes,Long,Rarely,Intermediate,Yes
+611,Writing user manuals,DevOps Engineer,Medium,Deployment,5,No,Long,Daily,Intermediate,No
+612,Deploying applications,Database Administrator,High,Documentation,3,No,Medium,Rarely,Intermediate,Yes
+613,Writing unit tests,Software Architect,Medium,Maintenance,5,Yes,Medium,Monthly,Basic,No
+614,Frontend development,QA Engineer,Low,Testing,2,Yes,Medium,Daily,Intermediate,No
+615,Database optimization,DevOps Engineer,High,Development,4,No,Long,Weekly,Intermediate,No
+616,Cloud infrastructure management,Technical Writer,High,Documentation,2,No,Long,Weekly,Basic,No
+617,Bug fixing,Data Engineer,Medium,Deployment,3,Yes,Long,Rarely,Basic,No
+618,Writing user manuals,Database Administrator,Low,Deployment,3,No,Short,Monthly,Basic,No
+619,Continuous integration setup,DevOps Engineer,Low,Development,2,No,Short,Rarely,Basic,No
+620,Performance tuning,Database Administrator,High,Deployment,1,Yes,Long,Daily,Intermediate,Yes
+621,Performance tuning,Backend Developer,Medium,Testing,5,No,Medium,Monthly,Advanced,Yes
+622,Deploying applications,Data Engineer,Low,Testing,4,No,Long,Monthly,Intermediate,No
+623,Frontend development,Software Architect,Low,Documentation,1,No,Short,Monthly,Basic,No
+624,Security auditing,Database Administrator,Low,Maintenance,5,Yes,Short,Weekly,Advanced,No
+625,Automated testing script,Full Stack Developer,Medium,Development,2,Yes,Medium,Weekly,Advanced,No
+626,Continuous integration setup,Backend Developer,Medium,Documentation,5,Yes,Short,Daily,Advanced,No
+627,Cloud infrastructure management,Full Stack Developer,Low,Maintenance,3,Yes,Medium,Daily,Basic,No
+628,Security auditing,Full Stack Developer,Medium,Development,5,No,Short,Rarely,Basic,No
+629,Backend maintenance,DevOps Engineer,Low,Documentation,3,Yes,Short,Weekly,Basic,No
+630,Performance tuning,Security Analyst,Low,Testing,2,No,Medium,Monthly,Basic,Yes
+631,Code review,Data Engineer,Low,Deployment,1,Yes,Short,Daily,Basic,Yes
+632,API integration,Backend Developer,Low,Maintenance,3,Yes,Short,Daily,Basic,No
+633,Code review,Full Stack Developer,High,Maintenance,1,No,Medium,Rarely,Intermediate,No
+634,Frontend development,Full Stack Developer,High,Testing,1,Yes,Short,Rarely,Basic,Yes
+635,Performance tuning,Security Analyst,Low,Deployment,5,Yes,Short,Weekly,Basic,No
+636,Cloud infrastructure management,QA Engineer,Medium,Maintenance,3,No,Short,Daily,Intermediate,No
+637,Security auditing,Backend Developer,Medium,Deployment,4,Yes,Medium,Weekly,Intermediate,Yes
+638,Code review,DevOps Engineer,Medium,Testing,4,No,Short,Monthly,Intermediate,No
+639,Database optimization,Data Engineer,Medium,Development,5,Yes,Short,Weekly,Intermediate,Yes
+640,Writing user manuals,Software Architect,Medium,Testing,3,Yes,Medium,Monthly,Intermediate,No
+641,Code review,Database Administrator,Low,Development,1,Yes,Medium,Daily,Advanced,No
+642,Backend maintenance,Data Engineer,Medium,Deployment,2,Yes,Medium,Monthly,Intermediate,Yes
+643,API integration,Database Administrator,Medium,Development,2,Yes,Short,Weekly,Basic,No
+644,Cloud infrastructure management,Security Analyst,High,Development,2,Yes,Medium,Daily,Advanced,No
+645,Bug fixing,Data Engineer,High,Development,1,No,Medium,Weekly,Intermediate,Yes
+646,Security auditing,QA Engineer,Low,Testing,4,No,Long,Rarely,Intermediate,Yes
+647,Frontend development,Technical Writer,High,Maintenance,3,Yes,Medium,Monthly,Intermediate,No
+648,Cloud infrastructure management,Backend Developer,Low,Testing,1,Yes,Medium,Monthly,Advanced,Yes
+649,Automated testing script,Technical Writer,Low,Development,5,No,Short,Weekly,Advanced,Yes
+650,Writing unit tests,Technical Writer,Medium,Testing,3,No,Long,Monthly,Intermediate,No
+651,Writing unit tests,AI/ML Engineer,High,Development,4,No,Short,Weekly,Intermediate,Yes
+652,Frontend development,Cloud Engineer,Medium,Testing,1,No,Long,Monthly,Advanced,No
+653,Security auditing,Full Stack Developer,Medium,Deployment,5,No,Long,Daily,Basic,No
+654,Performance tuning,Software Architect,High,Maintenance,5,Yes,Medium,Monthly,Intermediate,No
+655,Frontend development,DevOps Engineer,Low,Development,5,Yes,Medium,Rarely,Basic,No
+656,Performance tuning,Frontend Developer,Low,Maintenance,1,No,Short,Daily,Basic,Yes
+657,Deploying applications,DevOps Engineer,High,Development,2,No,Long,Monthly,Basic,Yes
+658,Designing architecture,Data Engineer,High,Development,4,Yes,Short,Rarely,Intermediate,Yes
+659,Writing user manuals,Database Administrator,Medium,Deployment,2,Yes,Long,Weekly,Advanced,No
+660,Bug fixing,Cloud Engineer,Medium,Maintenance,2,Yes,Medium,Weekly,Advanced,No
+661,Designing architecture,AI/ML Engineer,Low,Deployment,5,Yes,Long,Daily,Intermediate,Yes
+662,Continuous integration setup,Frontend Developer,High,Maintenance,1,No,Short,Monthly,Intermediate,No
+663,Automated testing script,Technical Writer,Medium,Testing,5,No,Short,Daily,Advanced,No
+664,Cloud infrastructure management,AI/ML Engineer,Medium,Deployment,2,Yes,Long,Weekly,Basic,No
+665,Bug fixing,Security Analyst,High,Testing,4,Yes,Long,Rarely,Advanced,Yes
+666,Writing user manuals,AI/ML Engineer,High,Maintenance,4,No,Short,Daily,Advanced,Yes
+667,Automated testing script,Technical Writer,Low,Testing,4,No,Medium,Rarely,Intermediate,Yes
+668,Cloud infrastructure management,Security Analyst,Medium,Deployment,5,Yes,Short,Rarely,Intermediate,No
+669,Security auditing,Software Architect,Medium,Documentation,4,No,Long,Monthly,Intermediate,No
+670,Writing user manuals,Full Stack Developer,Medium,Maintenance,1,Yes,Short,Daily,Advanced,No
+671,Security auditing,AI/ML Engineer,Low,Documentation,4,Yes,Long,Monthly,Advanced,Yes
+672,Automated testing script,Backend Developer,Low,Documentation,4,Yes,Medium,Monthly,Intermediate,No
+673,Writing user manuals,Cloud Engineer,High,Deployment,4,No,Long,Monthly,Advanced,No
+674,Bug fixing,AI/ML Engineer,High,Maintenance,2,No,Medium,Daily,Intermediate,Yes
+675,Database optimization,Software Architect,Low,Development,3,No,Medium,Weekly,Basic,No
+676,API integration,Database Administrator,High,Testing,5,Yes,Medium,Weekly,Advanced,Yes
+677,Designing architecture,Frontend Developer,Low,Documentation,3,Yes,Long,Daily,Basic,No
+678,Security auditing,Cloud Engineer,High,Development,3,No,Short,Rarely,Advanced,Yes
+679,Code review,Software Architect,Low,Maintenance,2,No,Medium,Monthly,Advanced,Yes
+680,Performance tuning,DevOps Engineer,Low,Deployment,2,Yes,Short,Weekly,Intermediate,Yes
+681,Backend maintenance,Database Administrator,Medium,Deployment,5,No,Short,Monthly,Intermediate,No
+682,Bug fixing,AI/ML Engineer,Medium,Documentation,4,No,Medium,Rarely,Intermediate,Yes
+683,Database optimization,Frontend Developer,High,Maintenance,1,Yes,Short,Rarely,Advanced,Yes
+684,Frontend development,AI/ML Engineer,Medium,Deployment,2,Yes,Long,Rarely,Basic,Yes
+685,Designing architecture,DevOps Engineer,Low,Documentation,4,No,Medium,Rarely,Intermediate,No
+686,Cloud infrastructure management,Backend Developer,Low,Maintenance,5,Yes,Short,Daily,Basic,Yes
+687,Backend maintenance,Data Engineer,Low,Deployment,5,No,Long,Monthly,Basic,Yes
+688,Code review,Software Architect,High,Testing,2,No,Short,Daily,Intermediate,Yes
+689,Frontend development,Full Stack Developer,Medium,Deployment,1,No,Long,Rarely,Advanced,Yes
+690,API integration,Security Analyst,Medium,Documentation,2,Yes,Medium,Daily,Basic,No
+691,Frontend development,Backend Developer,High,Deployment,3,Yes,Long,Daily,Intermediate,No
+692,Writing user manuals,Data Engineer,Low,Documentation,5,No,Short,Daily,Advanced,Yes
+693,Continuous integration setup,Frontend Developer,Low,Documentation,2,Yes,Short,Rarely,Advanced,No
+694,Cloud infrastructure management,Technical Writer,High,Documentation,3,Yes,Short,Rarely,Advanced,Yes
+695,Bug fixing,Frontend Developer,High,Testing,5,No,Short,Weekly,Basic,No
+696,Automated testing script,Cloud Engineer,Medium,Documentation,3,No,Medium,Daily,Advanced,No
+697,Performance tuning,Technical Writer,Medium,Documentation,3,Yes,Medium,Monthly,Basic,Yes
+698,API integration,DevOps Engineer,High,Maintenance,4,No,Long,Rarely,Intermediate,Yes
+699,Security auditing,Full Stack Developer,High,Development,2,No,Medium,Weekly,Intermediate,Yes
+700,Designing architecture,DevOps Engineer,Medium,Development,3,No,Medium,Rarely,Basic,Yes
+701,Performance tuning,Backend Developer,Low,Development,5,No,Short,Rarely,Basic,No
+702,Bug fixing,Cloud Engineer,Low,Documentation,2,Yes,Long,Daily,Intermediate,Yes
+703,Designing architecture,Software Architect,Medium,Documentation,2,Yes,Medium,Daily,Advanced,Yes
+704,Deploying applications,Frontend Developer,Low,Deployment,1,Yes,Long,Weekly,Basic,Yes
+705,Continuous integration setup,DevOps Engineer,Medium,Documentation,1,Yes,Medium,Monthly,Intermediate,Yes
+706,Database optimization,QA Engineer,Low,Deployment,5,No,Short,Daily,Advanced,No
+707,Deploying applications,Cloud Engineer,Low,Maintenance,2,Yes,Long,Daily,Basic,No
+708,Code review,QA Engineer,Medium,Development,5,Yes,Short,Rarely,Advanced,No
+709,Continuous integration setup,Technical Writer,Low,Testing,5,Yes,Short,Daily,Basic,No
+710,API integration,Full Stack Developer,Low,Development,4,Yes,Short,Daily,Advanced,Yes
+711,Bug fixing,Full Stack Developer,Medium,Development,5,Yes,Long,Rarely,Advanced,No
+712,Bug fixing,Backend Developer,Low,Testing,5,No,Short,Daily,Intermediate,Yes
+713,Bug fixing,Frontend Developer,Low,Maintenance,4,Yes,Medium,Rarely,Basic,No
+714,Frontend development,Database Administrator,Medium,Maintenance,4,No,Long,Daily,Intermediate,No
+715,Bug fixing,Software Architect,Medium,Testing,2,No,Medium,Daily,Advanced,No
+716,Designing architecture,Data Engineer,Low,Testing,5,No,Medium,Rarely,Advanced,No
+717,Frontend development,Cloud Engineer,High,Maintenance,5,No,Long,Rarely,Advanced,No
+718,Backend maintenance,Database Administrator,High,Maintenance,2,Yes,Short,Rarely,Intermediate,Yes
+719,Code review,Software Architect,High,Development,1,Yes,Medium,Monthly,Intermediate,Yes
+720,Writing user manuals,Technical Writer,High,Deployment,4,No,Long,Weekly,Basic,Yes
+721,Security auditing,Backend Developer,High,Deployment,4,No,Medium,Rarely,Intermediate,Yes
+722,Writing user manuals,Technical Writer,Low,Maintenance,1,No,Short,Daily,Intermediate,No
+723,Writing user manuals,Software Architect,High,Development,3,No,Long,Weekly,Basic,Yes
+724,Frontend development,Database Administrator,Medium,Deployment,2,Yes,Short,Monthly,Intermediate,Yes
+725,API integration,Full Stack Developer,Low,Development,5,Yes,Medium,Rarely,Advanced,No
+726,Automated testing script,QA Engineer,Low,Documentation,3,No,Short,Daily,Basic,Yes
+727,API integration,Technical Writer,Low,Testing,2,Yes,Medium,Monthly,Intermediate,No
+728,Deploying applications,Backend Developer,Medium,Deployment,3,No,Long,Daily,Basic,No
+729,Cloud infrastructure management,Full Stack Developer,Medium,Testing,2,No,Medium,Weekly,Advanced,Yes
+730,Continuous integration setup,Backend Developer,Medium,Maintenance,4,Yes,Short,Weekly,Advanced,Yes
+731,Performance tuning,Backend Developer,Low,Deployment,4,Yes,Long,Weekly,Basic,No
+732,Backend maintenance,Technical Writer,Medium,Maintenance,4,No,Long,Rarely,Advanced,Yes
+733,Security auditing,Database Administrator,Low,Testing,1,Yes,Short,Rarely,Basic,Yes
+734,Writing unit tests,Frontend Developer,Medium,Deployment,4,Yes,Medium,Monthly,Basic,No
+735,Automated testing script,Software Architect,Low,Documentation,5,No,Long,Weekly,Intermediate,No
+736,Backend maintenance,Full Stack Developer,High,Testing,5,Yes,Long,Rarely,Advanced,No
+737,Security auditing,Full Stack Developer,Low,Documentation,3,No,Medium,Rarely,Basic,Yes
+738,Automated testing script,Full Stack Developer,High,Testing,1,No,Medium,Rarely,Advanced,No
+739,Performance tuning,Security Analyst,Low,Documentation,5,No,Long,Rarely,Basic,No
+740,API integration,Cloud Engineer,Low,Development,2,Yes,Short,Rarely,Advanced,No
+741,Continuous integration setup,Software Architect,High,Maintenance,5,No,Long,Monthly,Advanced,No
+742,Performance tuning,DevOps Engineer,Medium,Development,3,Yes,Long,Rarely,Basic,Yes
+743,API integration,Technical Writer,Medium,Testing,4,Yes,Medium,Monthly,Basic,Yes
+744,Continuous integration setup,Backend Developer,High,Documentation,1,No,Medium,Monthly,Advanced,No
+745,Writing unit tests,Frontend Developer,Low,Deployment,2,Yes,Short,Daily,Intermediate,No
+746,Designing architecture,Full Stack Developer,Medium,Testing,2,No,Long,Daily,Intermediate,Yes
+747,Frontend development,Technical Writer,High,Testing,5,Yes,Long,Weekly,Advanced,No
+748,Code review,Cloud Engineer,High,Deployment,4,Yes,Medium,Rarely,Advanced,No
+749,Deploying applications,Cloud Engineer,High,Deployment,1,Yes,Short,Weekly,Basic,Yes
+750,Database optimization,AI/ML Engineer,High,Maintenance,1,Yes,Medium,Monthly,Intermediate,Yes
+751,Bug fixing,Cloud Engineer,Medium,Development,1,Yes,Medium,Rarely,Intermediate,No
+752,Writing user manuals,Full Stack Developer,Medium,Deployment,1,Yes,Short,Daily,Advanced,No
+753,Security auditing,AI/ML Engineer,High,Maintenance,4,No,Long,Monthly,Basic,Yes
+754,Database optimization,Backend Developer,High,Deployment,5,Yes,Short,Monthly,Basic,No
+755,Database optimization,Full Stack Developer,High,Deployment,4,Yes,Medium,Weekly,Intermediate,Yes
+756,Code review,Data Engineer,Medium,Testing,2,Yes,Long,Rarely,Basic,No
+757,Bug fixing,AI/ML Engineer,Medium,Testing,3,No,Long,Daily,Basic,Yes
+758,Frontend development,Backend Developer,Medium,Testing,4,No,Long,Monthly,Intermediate,No
+759,Continuous integration setup,Full Stack Developer,Medium,Documentation,4,No,Medium,Daily,Basic,No
+760,Cloud infrastructure management,Software Architect,Low,Documentation,2,Yes,Medium,Weekly,Intermediate,No
+761,Writing unit tests,Software Architect,High,Maintenance,2,No,Medium,Daily,Intermediate,Yes
+762,Frontend development,Technical Writer,Low,Maintenance,1,Yes,Long,Weekly,Intermediate,Yes
+763,Automated testing script,Security Analyst,High,Development,5,No,Long,Rarely,Intermediate,No
+764,Bug fixing,Software Architect,High,Documentation,1,No,Medium,Daily,Advanced,No
+765,Writing user manuals,Software Architect,Medium,Documentation,1,Yes,Short,Rarely,Basic,No
+766,Performance tuning,DevOps Engineer,Low,Deployment,2,No,Medium,Daily,Advanced,Yes
+767,Writing unit tests,Database Administrator,High,Deployment,1,Yes,Medium,Weekly,Advanced,No
+768,Bug fixing,Full Stack Developer,Medium,Maintenance,3,Yes,Long,Daily,Basic,Yes
+769,Designing architecture,Database Administrator,Low,Maintenance,3,No,Medium,Daily,Intermediate,Yes
+770,Frontend development,Data Engineer,Low,Deployment,3,Yes,Short,Daily,Advanced,Yes
+771,Designing architecture,DevOps Engineer,High,Documentation,5,Yes,Long,Daily,Intermediate,Yes
+772,Writing unit tests,Database Administrator,Medium,Maintenance,5,Yes,Short,Weekly,Intermediate,No
+773,Security auditing,Security Analyst,Low,Maintenance,3,Yes,Long,Weekly,Basic,No
+774,Security auditing,Data Engineer,Medium,Documentation,1,Yes,Long,Weekly,Basic,Yes
+775,Performance tuning,Data Engineer,High,Testing,2,Yes,Medium,Weekly,Intermediate,No
+776,Automated testing script,Technical Writer,Medium,Development,4,Yes,Medium,Rarely,Advanced,No
+777,API integration,Security Analyst,Low,Deployment,4,No,Medium,Monthly,Basic,Yes
+778,Writing unit tests,AI/ML Engineer,Low,Deployment,4,No,Medium,Rarely,Basic,Yes
+779,Designing architecture,Security Analyst,Low,Testing,5,No,Short,Monthly,Intermediate,Yes
+780,Writing user manuals,Frontend Developer,High,Deployment,5,No,Medium,Daily,Advanced,No
+781,Continuous integration setup,Backend Developer,High,Documentation,1,No,Medium,Daily,Advanced,No
+782,Frontend development,Data Engineer,Low,Development,1,Yes,Short,Monthly,Intermediate,Yes
+783,Performance tuning,Database Administrator,High,Testing,3,No,Long,Monthly,Intermediate,No
+784,Deploying applications,AI/ML Engineer,Low,Maintenance,1,Yes,Medium,Weekly,Intermediate,No
+785,API integration,Software Architect,Medium,Deployment,2,Yes,Medium,Rarely,Basic,No
+786,Performance tuning,Database Administrator,High,Deployment,1,No,Medium,Weekly,Advanced,No
+787,Writing user manuals,Security Analyst,Medium,Testing,4,Yes,Medium,Daily,Advanced,Yes
+788,Backend maintenance,Backend Developer,High,Testing,5,Yes,Short,Monthly,Basic,No
+789,Writing user manuals,Security Analyst,High,Documentation,1,No,Long,Daily,Basic,No
+790,Writing user manuals,Full Stack Developer,Medium,Documentation,1,No,Long,Daily,Advanced,No
+791,Continuous integration setup,Full Stack Developer,Medium,Documentation,4,No,Medium,Monthly,Advanced,Yes
+792,Backend maintenance,Security Analyst,Medium,Maintenance,1,No,Short,Weekly,Intermediate,No
+793,Cloud infrastructure management,Backend Developer,Medium,Maintenance,4,No,Medium,Monthly,Basic,No
+794,Automated testing script,Software Architect,Medium,Documentation,4,No,Medium,Monthly,Advanced,Yes
+795,Performance tuning,Technical Writer,Low,Testing,5,No,Medium,Weekly,Intermediate,No
+796,Writing unit tests,DevOps Engineer,Low,Maintenance,3,No,Short,Monthly,Intermediate,Yes
+797,Deploying applications,AI/ML Engineer,High,Documentation,2,Yes,Medium,Monthly,Basic,No
+798,Security auditing,Full Stack Developer,Medium,Maintenance,2,No,Short,Rarely,Intermediate,Yes
+799,Continuous integration setup,Software Architect,Medium,Maintenance,2,No,Short,Monthly,Intermediate,Yes
+800,Security auditing,Technical Writer,Low,Development,1,No,Long,Weekly,Advanced,No
+801,Continuous integration setup,Cloud Engineer,High,Deployment,4,No,Medium,Monthly,Intermediate,Yes
+802,Code review,Technical Writer,Low,Maintenance,3,No,Short,Daily,Advanced,Yes
+803,Frontend development,Data Engineer,Low,Testing,1,No,Medium,Daily,Basic,No
+804,Cloud infrastructure management,AI/ML Engineer,High,Deployment,3,Yes,Short,Rarely,Advanced,No
+805,Frontend development,AI/ML Engineer,High,Testing,5,No,Short,Monthly,Advanced,Yes
+806,Continuous integration setup,Backend Developer,High,Documentation,3,No,Short,Monthly,Basic,No
+807,Cloud infrastructure management,Data Engineer,Medium,Testing,4,No,Short,Rarely,Advanced,No
+808,Security auditing,Data Engineer,Low,Testing,2,No,Long,Monthly,Advanced,Yes
+809,Deploying applications,Data Engineer,Medium,Maintenance,1,Yes,Long,Monthly,Advanced,No
+810,Code review,Frontend Developer,High,Documentation,5,Yes,Medium,Monthly,Advanced,No
+811,Cloud infrastructure management,Backend Developer,High,Maintenance,2,No,Long,Monthly,Advanced,No
+812,Writing unit tests,Cloud Engineer,High,Development,3,Yes,Medium,Rarely,Basic,Yes
+813,Frontend development,Backend Developer,Medium,Deployment,4,No,Medium,Rarely,Basic,No
+814,Writing unit tests,Backend Developer,Low,Development,1,No,Long,Monthly,Intermediate,No
+815,Bug fixing,Database Administrator,Low,Development,1,No,Short,Monthly,Intermediate,No
+816,Writing user manuals,Data Engineer,High,Maintenance,4,Yes,Long,Rarely,Basic,No
+817,Automated testing script,Technical Writer,High,Maintenance,5,Yes,Short,Rarely,Basic,No
+818,API integration,Frontend Developer,High,Documentation,1,Yes,Long,Weekly,Intermediate,No
+819,Performance tuning,Cloud Engineer,High,Testing,2,Yes,Medium,Weekly,Advanced,No
+820,Backend maintenance,Data Engineer,High,Deployment,3,Yes,Short,Rarely,Basic,No
+821,Security auditing,Technical Writer,High,Documentation,3,Yes,Long,Rarely,Basic,No
+822,Performance tuning,Software Architect,Medium,Deployment,1,No,Long,Rarely,Basic,Yes
+823,Database optimization,Technical Writer,Low,Deployment,3,No,Long,Monthly,Intermediate,Yes
+824,Backend maintenance,AI/ML Engineer,High,Deployment,4,Yes,Medium,Daily,Intermediate,No
+825,Performance tuning,Database Administrator,Medium,Documentation,3,No,Long,Monthly,Advanced,No
+826,Writing user manuals,Frontend Developer,Low,Maintenance,5,Yes,Long,Monthly,Advanced,No
+827,Frontend development,Frontend Developer,High,Documentation,2,No,Short,Rarely,Intermediate,Yes
+828,Database optimization,Full Stack Developer,Medium,Maintenance,2,No,Long,Daily,Basic,Yes
+829,Cloud infrastructure management,Cloud Engineer,Medium,Documentation,2,No,Long,Monthly,Basic,No
+830,Cloud infrastructure management,Security Analyst,High,Deployment,5,Yes,Medium,Weekly,Basic,No
+831,Security auditing,Security Analyst,Low,Documentation,1,Yes,Short,Weekly,Intermediate,Yes
+832,Security auditing,Technical Writer,Low,Testing,2,No,Short,Weekly,Advanced,Yes
+833,Frontend development,Software Architect,High,Deployment,2,Yes,Short,Daily,Advanced,No
+834,Security auditing,Security Analyst,Medium,Testing,5,Yes,Medium,Weekly,Advanced,No
+835,API integration,Security Analyst,Low,Maintenance,3,No,Long,Rarely,Advanced,No
+836,Performance tuning,QA Engineer,High,Maintenance,2,No,Short,Rarely,Intermediate,Yes
+837,Cloud infrastructure management,Database Administrator,High,Development,3,No,Medium,Rarely,Advanced,Yes
+838,Writing user manuals,Technical Writer,Medium,Deployment,3,Yes,Short,Monthly,Intermediate,Yes
+839,Deploying applications,Full Stack Developer,Medium,Deployment,2,Yes,Medium,Rarely,Basic,No
+840,Writing unit tests,Software Architect,Medium,Deployment,1,Yes,Short,Daily,Basic,No
+841,Cloud infrastructure management,Cloud Engineer,Low,Deployment,5,Yes,Short,Rarely,Advanced,No
+842,Writing unit tests,Backend Developer,High,Testing,5,No,Medium,Monthly,Advanced,Yes
+843,Bug fixing,Full Stack Developer,Low,Testing,5,No,Medium,Daily,Intermediate,Yes
+844,Database optimization,AI/ML Engineer,Low,Deployment,5,Yes,Long,Monthly,Basic,No
+845,Code review,Frontend Developer,High,Documentation,5,Yes,Medium,Daily,Advanced,Yes
+846,Performance tuning,Full Stack Developer,Low,Testing,3,No,Long,Monthly,Intermediate,Yes
+847,Frontend development,Frontend Developer,Low,Testing,2,No,Medium,Weekly,Advanced,Yes
+848,Database optimization,Security Analyst,Low,Maintenance,3,Yes,Short,Rarely,Intermediate,No
+849,Deploying applications,Database Administrator,Medium,Development,1,No,Short,Rarely,Intermediate,No
+850,Deploying applications,Full Stack Developer,High,Deployment,2,No,Long,Monthly,Advanced,No
+851,Code review,Frontend Developer,Low,Deployment,3,Yes,Short,Weekly,Basic,No
+852,Database optimization,Database Administrator,High,Deployment,5,No,Short,Monthly,Basic,No
+853,Frontend development,Data Engineer,Medium,Maintenance,4,No,Long,Weekly,Basic,Yes
+854,Deploying applications,AI/ML Engineer,Low,Documentation,2,No,Medium,Weekly,Advanced,Yes
+855,Bug fixing,Technical Writer,High,Maintenance,2,Yes,Short,Monthly,Basic,Yes
+856,Bug fixing,Frontend Developer,Low,Testing,1,Yes,Medium,Daily,Basic,Yes
+857,Cloud infrastructure management,QA Engineer,Medium,Documentation,2,No,Long,Weekly,Advanced,Yes
+858,Frontend development,Frontend Developer,Low,Documentation,2,No,Medium,Rarely,Intermediate,Yes
+859,Frontend development,Frontend Developer,High,Documentation,2,Yes,Medium,Monthly,Basic,No
+860,Continuous integration setup,Backend Developer,High,Development,3,No,Long,Monthly,Advanced,No
+861,Security auditing,AI/ML Engineer,Medium,Testing,4,No,Short,Rarely,Intermediate,No
+862,Frontend development,Security Analyst,Medium,Testing,2,No,Medium,Monthly,Basic,Yes
+863,API integration,DevOps Engineer,High,Testing,5,Yes,Long,Rarely,Basic,Yes
+864,Code review,Software Architect,Low,Testing,3,No,Short,Weekly,Basic,No
+865,API integration,QA Engineer,High,Maintenance,2,Yes,Medium,Daily,Basic,No
+866,API integration,Security Analyst,Medium,Documentation,5,Yes,Medium,Daily,Intermediate,No
+867,Bug fixing,Cloud Engineer,Low,Development,1,No,Short,Monthly,Intermediate,Yes
+868,Code review,DevOps Engineer,Medium,Development,3,Yes,Long,Rarely,Advanced,Yes
+869,Performance tuning,Data Engineer,High,Testing,5,No,Short,Monthly,Intermediate,No
+870,API integration,AI/ML Engineer,Medium,Development,5,No,Long,Weekly,Basic,No
+871,Continuous integration setup,Technical Writer,Low,Maintenance,2,Yes,Long,Weekly,Advanced,No
+872,Database optimization,Security Analyst,Medium,Development,4,Yes,Medium,Daily,Advanced,No
+873,Security auditing,AI/ML Engineer,Low,Deployment,5,Yes,Medium,Weekly,Basic,No
+874,Automated testing script,Software Architect,High,Maintenance,5,No,Medium,Rarely,Basic,Yes
+875,Designing architecture,AI/ML Engineer,Medium,Development,2,No,Short,Weekly,Basic,Yes
+876,Performance tuning,Data Engineer,Medium,Maintenance,2,Yes,Long,Rarely,Advanced,No
+877,Cloud infrastructure management,Backend Developer,Low,Testing,5,No,Short,Monthly,Advanced,No
+878,Writing user manuals,Frontend Developer,Low,Documentation,3,Yes,Medium,Monthly,Basic,Yes
+879,Security auditing,DevOps Engineer,Medium,Development,3,No,Medium,Monthly,Intermediate,No
+880,Cloud infrastructure management,QA Engineer,High,Development,4,No,Long,Monthly,Advanced,Yes
+881,API integration,Full Stack Developer,Low,Deployment,4,Yes,Short,Monthly,Basic,Yes
+882,Performance tuning,Frontend Developer,Low,Documentation,2,Yes,Long,Daily,Advanced,No
+883,Deploying applications,DevOps Engineer,Low,Documentation,5,Yes,Short,Rarely,Advanced,Yes
+884,Automated testing script,QA Engineer,Low,Maintenance,4,No,Long,Weekly,Advanced,Yes
+885,Bug fixing,Frontend Developer,High,Testing,5,Yes,Medium,Monthly,Advanced,No
+886,Backend maintenance,Full Stack Developer,Low,Deployment,4,Yes,Long,Daily,Basic,Yes
+887,Automated testing script,Cloud Engineer,Low,Development,3,No,Short,Daily,Basic,Yes
+888,Backend maintenance,DevOps Engineer,High,Documentation,3,No,Medium,Weekly,Basic,Yes
+889,API integration,Database Administrator,Low,Deployment,3,Yes,Short,Weekly,Intermediate,No
+890,Cloud infrastructure management,Frontend Developer,High,Development,1,No,Medium,Daily,Basic,No
+891,Continuous integration setup,Technical Writer,Medium,Testing,4,No,Short,Monthly,Advanced,No
+892,Code review,Cloud Engineer,High,Testing,2,No,Short,Rarely,Basic,No
+893,Continuous integration setup,Software Architect,Medium,Development,2,Yes,Short,Weekly,Intermediate,No
+894,Writing unit tests,Software Architect,High,Deployment,3,No,Medium,Monthly,Advanced,Yes
+895,API integration,QA Engineer,High,Documentation,1,Yes,Short,Rarely,Intermediate,No
+896,Writing unit tests,DevOps Engineer,Low,Deployment,2,No,Medium,Rarely,Intermediate,No
+897,Deploying applications,Cloud Engineer,Low,Deployment,1,Yes,Medium,Daily,Basic,No
+898,Continuous integration setup,DevOps Engineer,Medium,Testing,2,Yes,Medium,Weekly,Basic,Yes
+899,Writing unit tests,QA Engineer,Low,Documentation,4,Yes,Medium,Rarely,Advanced,No
+900,Security auditing,DevOps Engineer,Medium,Development,2,Yes,Short,Weekly,Advanced,Yes
+901,Writing user manuals,Data Engineer,Low,Development,5,No,Medium,Weekly,Advanced,Yes
+902,Continuous integration setup,Full Stack Developer,Medium,Documentation,4,No,Short,Monthly,Basic,Yes
+903,Writing unit tests,Frontend Developer,Low,Development,4,No,Long,Weekly,Basic,No
+904,Automated testing script,Data Engineer,Medium,Testing,5,Yes,Medium,Weekly,Intermediate,Yes
+905,Performance tuning,DevOps Engineer,Low,Documentation,3,Yes,Medium,Weekly,Basic,Yes
+906,Cloud infrastructure management,Full Stack Developer,Low,Development,4,Yes,Short,Rarely,Advanced,No
+907,Deploying applications,Database Administrator,High,Deployment,4,No,Short,Rarely,Intermediate,No
+908,Writing user manuals,Technical Writer,High,Testing,3,Yes,Medium,Daily,Intermediate,No
+909,Designing architecture,AI/ML Engineer,Low,Development,3,No,Medium,Weekly,Basic,No
+910,Designing architecture,Full Stack Developer,High,Deployment,2,Yes,Medium,Monthly,Intermediate,Yes
+911,Continuous integration setup,Technical Writer,Low,Maintenance,1,No,Long,Monthly,Basic,No
+912,API integration,QA Engineer,Low,Development,4,Yes,Long,Weekly,Intermediate,Yes
+913,Writing user manuals,Backend Developer,Medium,Deployment,2,Yes,Long,Rarely,Basic,No
+914,Cloud infrastructure management,Data Engineer,Medium,Deployment,5,No,Long,Rarely,Advanced,No
+915,Designing architecture,Frontend Developer,High,Maintenance,4,Yes,Short,Rarely,Basic,Yes
+916,Database optimization,Full Stack Developer,Low,Documentation,2,No,Long,Rarely,Basic,No
+917,Continuous integration setup,Cloud Engineer,Medium,Testing,2,Yes,Medium,Monthly,Basic,Yes
+918,API integration,Security Analyst,High,Testing,2,Yes,Medium,Weekly,Intermediate,Yes
+919,Writing user manuals,Technical Writer,Medium,Testing,2,No,Long,Monthly,Basic,Yes
+920,Continuous integration setup,Software Architect,Low,Development,4,No,Short,Rarely,Intermediate,No
+921,Performance tuning,Data Engineer,High,Deployment,1,No,Long,Rarely,Intermediate,Yes
+922,Database optimization,Frontend Developer,Low,Documentation,4,Yes,Long,Rarely,Intermediate,No
+923,Automated testing script,Full Stack Developer,Low,Deployment,5,Yes,Long,Monthly,Basic,Yes
+924,Writing user manuals,Database Administrator,Low,Development,3,No,Medium,Daily,Basic,Yes
+925,Automated testing script,Full Stack Developer,High,Maintenance,3,Yes,Long,Daily,Advanced,Yes
+926,Continuous integration setup,QA Engineer,High,Deployment,1,Yes,Long,Rarely,Basic,Yes
+927,Writing unit tests,Cloud Engineer,High,Deployment,5,No,Long,Daily,Intermediate,No
+928,Frontend development,Security Analyst,Low,Development,3,No,Short,Weekly,Basic,Yes
+929,Writing unit tests,Cloud Engineer,Medium,Maintenance,1,Yes,Medium,Monthly,Intermediate,Yes
+930,Automated testing script,QA Engineer,Medium,Documentation,3,No,Long,Monthly,Basic,No
+931,Cloud infrastructure management,Software Architect,Medium,Maintenance,3,No,Short,Monthly,Advanced,Yes
+932,Deploying applications,Full Stack Developer,Low,Development,3,No,Short,Rarely,Advanced,No
+933,Deploying applications,Technical Writer,Medium,Maintenance,4,Yes,Long,Rarely,Advanced,Yes
+934,Frontend development,AI/ML Engineer,High,Maintenance,2,Yes,Medium,Weekly,Advanced,No
+935,Bug fixing,Full Stack Developer,Medium,Testing,1,No,Short,Rarely,Basic,Yes
+936,Database optimization,Backend Developer,Low,Development,1,No,Short,Daily,Advanced,No
+937,Automated testing script,QA Engineer,High,Testing,1,No,Short,Daily,Advanced,Yes
+938,Bug fixing,Frontend Developer,High,Documentation,4,Yes,Short,Monthly,Advanced,No
+939,Code review,DevOps Engineer,High,Documentation,4,Yes,Short,Daily,Advanced,Yes
+940,Database optimization,Full Stack Developer,High,Testing,4,No,Short,Daily,Advanced,No
+941,Designing architecture,Full Stack Developer,Medium,Documentation,2,No,Medium,Rarely,Advanced,No
+942,Bug fixing,DevOps Engineer,High,Documentation,4,Yes,Long,Monthly,Basic,No
+943,Code review,Cloud Engineer,High,Development,4,Yes,Medium,Weekly,Advanced,No
+944,Cloud infrastructure management,Security Analyst,Low,Testing,4,Yes,Short,Rarely,Advanced,Yes
+945,Performance tuning,DevOps Engineer,Medium,Maintenance,1,Yes,Short,Daily,Basic,Yes
+946,Continuous integration setup,Frontend Developer,High,Deployment,1,No,Long,Daily,Advanced,Yes
+947,Database optimization,Frontend Developer,Medium,Deployment,2,Yes,Short,Daily,Advanced,Yes
+948,API integration,Backend Developer,High,Deployment,4,No,Long,Weekly,Advanced,Yes
+949,Code review,Full Stack Developer,Medium,Documentation,4,No,Long,Daily,Basic,No
+950,Bug fixing,Cloud Engineer,Low,Testing,4,Yes,Long,Rarely,Advanced,Yes
+951,Writing unit tests,Database Administrator,Low,Deployment,4,Yes,Short,Daily,Advanced,Yes
+952,Cloud infrastructure management,Software Architect,High,Documentation,1,No,Medium,Rarely,Basic,Yes
+953,Bug fixing,Security Analyst,High,Documentation,5,No,Long,Weekly,Intermediate,Yes
+954,Code review,Software Architect,High,Documentation,2,No,Short,Weekly,Intermediate,No
+955,Deploying applications,AI/ML Engineer,Medium,Documentation,2,Yes,Medium,Weekly,Intermediate,Yes
+956,Bug fixing,Technical Writer,High,Testing,2,Yes,Long,Rarely,Advanced,Yes
+957,Writing unit tests,QA Engineer,Medium,Testing,3,No,Medium,Rarely,Basic,No
+958,Code review,Data Engineer,High,Maintenance,2,No,Long,Monthly,Advanced,Yes
+959,Security auditing,Cloud Engineer,Medium,Deployment,3,Yes,Medium,Rarely,Basic,No
+960,Writing user manuals,DevOps Engineer,Medium,Development,4,No,Long,Daily,Basic,Yes
+961,Database optimization,Frontend Developer,Medium,Documentation,2,No,Long,Weekly,Basic,No
+962,Deploying applications,Database Administrator,Low,Testing,3,Yes,Long,Weekly,Intermediate,No
+963,Continuous integration setup,AI/ML Engineer,High,Development,1,Yes,Medium,Rarely,Intermediate,No
+964,Continuous integration setup,Frontend Developer,Medium,Testing,1,No,Short,Weekly,Basic,Yes
+965,Writing unit tests,Full Stack Developer,Medium,Documentation,4,No,Short,Rarely,Intermediate,No
+966,Database optimization,Cloud Engineer,High,Maintenance,5,No,Short,Monthly,Advanced,No
+967,Security auditing,Data Engineer,Low,Deployment,5,Yes,Short,Rarely,Basic,No
+968,Designing architecture,DevOps Engineer,High,Documentation,3,Yes,Long,Weekly,Advanced,Yes
+969,Bug fixing,Data Engineer,Medium,Testing,2,No,Medium,Daily,Basic,No
+970,Performance tuning,Technical Writer,High,Development,1,No,Short,Daily,Basic,Yes
+971,Writing unit tests,Full Stack Developer,High,Testing,4,Yes,Short,Weekly,Basic,No
+972,Performance tuning,Technical Writer,High,Development,5,Yes,Medium,Monthly,Basic,No
+973,Security auditing,Data Engineer,Medium,Documentation,3,Yes,Medium,Rarely,Basic,No
+974,API integration,Backend Developer,Low,Deployment,3,No,Short,Monthly,Intermediate,No
+975,API integration,Database Administrator,Medium,Testing,4,No,Long,Rarely,Basic,No
+976,Writing unit tests,Full Stack Developer,High,Development,5,Yes,Short,Monthly,Advanced,Yes
+977,Database optimization,QA Engineer,Medium,Development,5,No,Short,Daily,Advanced,Yes
+978,Writing unit tests,Full Stack Developer,Low,Maintenance,5,No,Short,Weekly,Advanced,Yes
+979,Performance tuning,Frontend Developer,High,Maintenance,2,Yes,Short,Daily,Basic,Yes
+980,Deploying applications,DevOps Engineer,High,Deployment,4,Yes,Long,Monthly,Advanced,No
+981,Deploying applications,QA Engineer,High,Documentation,1,No,Medium,Weekly,Advanced,No
+982,API integration,Software Architect,Medium,Development,1,No,Medium,Weekly,Basic,No
+983,Database optimization,Backend Developer,High,Maintenance,5,No,Short,Rarely,Basic,Yes
+984,Automated testing script,Frontend Developer,High,Deployment,1,No,Long,Daily,Advanced,Yes
+985,Code review,AI/ML Engineer,Low,Documentation,3,No,Long,Monthly,Intermediate,No
+986,Deploying applications,DevOps Engineer,Medium,Development,2,No,Medium,Rarely,Advanced,Yes
+987,Code review,Full Stack Developer,Low,Deployment,3,No,Medium,Weekly,Intermediate,Yes
+988,Automated testing script,QA Engineer,Low,Testing,1,Yes,Medium,Monthly,Advanced,No
+989,Security auditing,Database Administrator,High,Documentation,4,No,Long,Rarely,Basic,Yes
+990,Frontend development,Technical Writer,High,Deployment,2,Yes,Medium,Monthly,Intermediate,Yes
+991,Backend maintenance,AI/ML Engineer,Medium,Testing,1,Yes,Medium,Daily,Intermediate,Yes
+992,Cloud infrastructure management,AI/ML Engineer,High,Development,1,No,Long,Daily,Intermediate,Yes
+993,Automated testing script,Data Engineer,Low,Development,4,Yes,Long,Weekly,Advanced,Yes
+994,Database optimization,QA Engineer,Low,Development,1,Yes,Long,Monthly,Advanced,No
+995,Frontend development,Data Engineer,Medium,Deployment,5,No,Long,Monthly,Basic,No
+996,Designing architecture,Cloud Engineer,High,Documentation,1,No,Long,Monthly,Basic,Yes
+997,Writing unit tests,Software Architect,Low,Development,1,No,Long,Monthly,Intermediate,Yes
+998,Writing unit tests,AI/ML Engineer,Medium,Deployment,5,Yes,Medium,Daily,Basic,Yes
+999,Performance tuning,Cloud Engineer,Medium,Deployment,1,No,Medium,Monthly,Advanced,No
+1000,Automated testing script,DevOps Engineer,High,Development,3,No,Long,Monthly,Advanced,No
