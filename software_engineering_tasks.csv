@@ -1,0 +1,541 @@
+Role,Task,Currently Automated by AI
+Frontend Developer,Designing responsive UI layouts,No
+Frontend Developer,"Writing modular and reusable HTML, CSS, and JavaScript code",No
+Frontend Developer,Debugging browser compatibility issues,Partially
+Frontend Developer,Ensuring accessibility compliance,No
+Frontend Developer,Integrating UI designs from tools like Figma,No
+Frontend Developer,Creating animations and transitions,No
+Frontend Developer,Optimizing front-end performance,No
+Frontend Developer,Implementing client-side validations,No
+Frontend Developer,Collaborating with UX/UI designers,No
+Frontend Developer,Testing frontend applications on multiple devices,No
+Frontend Developer,Writing style guides for UI components,No
+Frontend Developer,Managing state using Redux,No
+Frontend Developer,Using browser developer tools for debugging,Partially
+Frontend Developer,Applying SEO optimizations,No
+Frontend Developer,Implementing WebSocket connections,No
+Frontend Developer,Using APIs to fetch and display data,No
+Frontend Developer,Debugging rendering issues,Partially
+Frontend Developer,Migrating older designs to modern frameworks,No
+Frontend Developer,Maintaining frontend documentation,No
+Frontend Developer,Integrating third-party libraries,No
+Frontend Developer,Building Progressive Web Apps (PWAs),No
+Frontend Developer,Conducting user feedback sessions,No
+Frontend Developer,Implementing dark mode features,No
+Frontend Developer,Testing and implementing A/B tests,No
+Frontend Developer,Managing static assets like images and fonts,No
+Frontend Developer,Optimizing front-end assets using Webpack,No
+Frontend Developer,Implementing localization for multi-language support,No
+Frontend Developer,Ensuring pixel-perfect UI designs,No
+Frontend Developer,Keeping up with frontend framework updates,No
+Frontend Developer,Writing unit tests for UI components,No
+Backend Developer,Designing and developing server-side logic,No
+Backend Developer,Writing secure APIs,No
+Backend Developer,Implementing authentication and authorization mechanisms,No
+Backend Developer,Managing database connections,No
+Backend Developer,Writing efficient queries for relational databases,No
+Backend Developer,Debugging server errors,Partially
+Backend Developer,Configuring middleware for request handling,Partially
+Backend Developer,Optimizing server-side performance,No
+Backend Developer,Developing microservices,No
+Backend Developer,Implementing caching mechanisms,No
+Backend Developer,Writing data models and schemas,No
+Backend Developer,Configuring file upload handlers,Partially
+Backend Developer,Managing API rate limiting,No
+Backend Developer,Handling asynchronous tasks,No
+Backend Developer,Writing server logs for debugging,Partially
+Backend Developer,Implementing email notifications from the server,No
+Backend Developer,Setting up and maintaining session management,No
+Backend Developer,Managing third-party API integrations,No
+Backend Developer,Developing WebSocket-based communication,No
+Backend Developer,Implementing data validation at the backend,No
+Backend Developer,Writing backend unit tests,No
+Backend Developer,Setting up application-level monitoring,No
+Backend Developer,Managing cloud-based server deployments,No
+Backend Developer,Debugging slow server response times,Partially
+Backend Developer,Setting up and managing CI/CD pipelines,No
+Backend Developer,Migrating databases,No
+Backend Developer,Writing scripts for scheduled tasks,No
+Backend Developer,Configuring and maintaining load balancers,Partially
+Backend Developer,Handling error reporting tools,No
+Backend Developer,Documenting backend endpoints,No
+Full-Stack Developer,Designing end-to-end application architecture,No
+Full-Stack Developer,Writing both frontend and backend code,No
+Full-Stack Developer,Ensuring data consistency between frontend and backend,Partially
+Full-Stack Developer,Implementing dynamic forms that interact with APIs,Partially
+Full-Stack Developer,Debugging issues across the stack,Partially
+Full-Stack Developer,Maintaining code repositories,No
+Full-Stack Developer,Handling server deployments,Partially
+Full-Stack Developer,Creating reusable components for frontend and backend,No
+Full-Stack Developer,Managing user sessions end-to-end,Partially
+Full-Stack Developer,Integrating payment gateways,Partially
+Full-Stack Developer,Setting up logging mechanisms across the stack,Partially
+Full-Stack Developer,Writing integration tests,Partially
+Full-Stack Developer,Optimizing database queries for better UI responsiveness,Partially
+Full-Stack Developer,Debugging API errors and response issues,Partially
+Full-Stack Developer,Configuring domain settings and SSL certificates,Partially
+Full-Stack Developer,Implementing real-time features,Partially
+Full-Stack Developer,Building features for role-based access control,No
+Full-Stack Developer,Managing shared state between frontend and backend,Partially
+Full-Stack Developer,Writing comprehensive application documentation,No
+Full-Stack Developer,Developing secure data storage mechanisms,No
+Full-Stack Developer,Monitoring server performance,Partially
+Full-Stack Developer,Configuring client-side error reporting,Partially
+Full-Stack Developer,Setting up third-party integrations end-to-end,Partially
+Full-Stack Developer,Conducting code reviews for both layers,No
+Full-Stack Developer,Optimizing frontend assets on server-side rendering,Partially
+Full-Stack Developer,Troubleshooting cross-origin resource sharing (CORS) issues,Partially
+Full-Stack Developer,Writing reusable templates,No
+Full-Stack Developer,Creating multi-tenant application features,No
+Full-Stack Developer,Managing deployment pipelines for full-stack projects,Partially
+Full-Stack Developer,Keeping both frontend and backend updated with new frameworks,No
+Mobile Application Developer,Designing mobile-friendly user interfaces,No
+Mobile Application Developer,Developing cross-platform applications using tools like Flutter or React Native,Partially
+Mobile Application Developer,Implementing device-specific features like GPS and camera integration,Partially
+Mobile Application Developer,Debugging app crashes using logs from mobile devices,Partially
+Mobile Application Developer,Optimizing app performance for low-resource devices,Partially
+Mobile Application Developer,Publishing apps on Google Play Store and Apple App Store,Partially
+Mobile Application Developer,Writing secure storage mechanisms for sensitive data,No
+Mobile Application Developer,Implementing push notification features,Partially
+Mobile Application Developer,Testing applications on different screen sizes and resolutions,Partially
+Mobile Application Developer,"Managing app lifecycle states (e.g., foreground, background)",No
+Mobile Application Developer,Using analytics tools like Firebase for app insights,Partially
+Mobile Application Developer,Writing platform-specific code for advanced features,No
+Mobile Application Developer,Integrating social media APIs,Partially
+Mobile Application Developer,Developing offline-first features using local storage,Partially
+Mobile Application Developer,Setting up in-app purchases and subscriptions,Partially
+Mobile Application Developer,Implementing biometric authentication,No
+Mobile Application Developer,Managing app permissions dynamically,Partially
+Mobile Application Developer,Debugging network-related issues,Partially
+Mobile Application Developer,Building UI animations for mobile interactions,No
+Mobile Application Developer,Implementing app versioning and update mechanisms,Partially
+Mobile Application Developer,Writing unit and integration tests for mobile apps,Partially
+Mobile Application Developer,Using simulators/emulators for testing,Partially
+Mobile Application Developer,Configuring mobile app CI/CD pipelines,Partially
+Mobile Application Developer,Managing dependencies using tools like Gradle or CocoaPods,Partially
+Mobile Application Developer,Developing custom widgets/components,No
+Mobile Application Developer,Resolving memory leaks and optimizing resource usage,Partially
+Mobile Application Developer,Ensuring compliance with app store guidelines,No
+Mobile Application Developer,Implementing deep linking for app navigation,Partially
+Mobile Application Developer,Handling app data synchronization with cloud services,Partially
+Mobile Application Developer,Collaborating with backend teams for API requirements,No
+Game Developer,Designing game mechanics and rules,No
+Game Developer,Building 2D/3D environments using game engines like Unity,Partially
+Game Developer,Writing shaders for rendering effects,No
+Game Developer,Developing character movement and AI behaviors,Partially
+Game Developer,Optimizing game performance for various platforms,Partially
+Game Developer,Creating particle effects for dynamic visuals,No
+Game Developer,Testing gameplay for bugs and improvements,Partially
+Game Developer,Implementing multiplayer networking features,Partially
+Game Developer,Writing scripts for game logic and events,No
+Game Developer,Creating in-game physics simulations,Partially
+Game Developer,Designing user interfaces for games,No
+Game Developer,Integrating in-app purchases or ads,Partially
+Game Developer,"Managing asset pipelines for textures, models, and audio",Partially
+Game Developer,Writing procedural content generation algorithms,No
+Game Developer,Creating audio-visual synchronization,No
+Game Developer,Debugging frame rate issues,Partially
+Game Developer,Developing level progression systems,No
+Game Developer,Testing cross-platform compatibility,Partially
+Game Developer,Writing tools for in-house game development,No
+Game Developer,Implementing cloud saves for player data,Partially
+Game Developer,Designing game tutorials or onboarding flows,No
+Game Developer,Collaborating with designers for gameplay adjustments,No
+Game Developer,Writing AI algorithms for NPCs,Partially
+Game Developer,Optimizing graphics for mobile devices,Partially
+Game Developer,Developing virtual reality (VR) or augmented reality (AR) features,Partially
+Game Developer,Debugging collision and hit detection issues,Partially
+Game Developer,Implementing leaderboards and achievements,Partially
+Game Developer,Writing game analytics for player behavior insights,Partially
+Game Developer,Implementing anti-cheat mechanisms,Partially
+Game Developer,Conducting playtesting sessions and collecting feedback,No
+QA Engineer,Designing test cases based on user requirements,No
+QA Engineer,Executing manual testing of software features,Partially
+QA Engineer,Identifying and reporting software bugs,Partially
+QA Engineer,Writing test plans for new product releases,No
+QA Engineer,Performing regression testing after bug fixes,Partially
+QA Engineer,Validating software against business requirements,No
+QA Engineer,Conducting cross-browser testing,Partially
+QA Engineer,Performing load and stress testing,Partially
+QA Engineer,Testing API endpoints for functionality,Partially
+QA Engineer,Validating database updates during testing,No
+QA Engineer,Tracking bugs using tools like JIRA,Partially
+QA Engineer,Writing test scripts for automation frameworks,Partially
+QA Engineer,Testing mobile app functionality on various devices,Partially
+QA Engineer,Conducting usability testing,No
+QA Engineer,Ensuring compliance with software accessibility standards,No
+QA Engineer,Setting up test environments,Partially
+QA Engineer,Performing integration testing for interconnected systems,Partially
+QA Engineer,Analyzing software logs for issues,Partially
+QA Engineer,Creating test data for specific scenarios,No
+QA Engineer,Participating in sprint planning meetings,No
+QA Engineer,Performing security testing for vulnerabilities,Partially
+QA Engineer,Testing software compatibility with third-party tools,Partially
+QA Engineer,Validating installation processes,No
+QA Engineer,Monitoring system behavior during peak loads,Partially
+QA Engineer,Writing detailed bug reports,No
+QA Engineer,Reviewing software documentation for accuracy,No
+QA Engineer,Verifying resolved issues,No
+QA Engineer,Conducting exploratory testing,No
+QA Engineer,Writing performance metrics for tests,No
+QA Engineer,Providing test summary reports to stakeholders,No
+DevOps Engineer,Setting up CI/CD pipelines,Partially
+DevOps Engineer,Automating infrastructure provisioning with tools like Terraform,Partially
+DevOps Engineer,Configuring containerization using Docker,Partially
+DevOps Engineer,Managing Kubernetes clusters,Partially
+DevOps Engineer,Monitoring application performance using tools like Prometheus,Partially
+DevOps Engineer,Ensuring high availability of applications,Partially
+DevOps Engineer,Writing shell scripts for task automation,No
+DevOps Engineer,Implementing load balancing for distributed systems,Partially
+DevOps Engineer,Managing version control systems like Git,No
+DevOps Engineer,Debugging deployment issues,Partially
+DevOps Engineer,Setting up infrastructure as code (IaC) practices,Partially
+DevOps Engineer,"Managing cloud services on AWS, Azure, or GCP",Partially
+DevOps Engineer,Automating application deployments,Partially
+DevOps Engineer,Implementing logging and monitoring tools,Partially
+DevOps Engineer,Performing incident response and root cause analysis,No
+DevOps Engineer,Managing server scaling during peak loads,Partially
+DevOps Engineer,Setting up application monitoring dashboards,Partially
+DevOps Engineer,Conducting regular security checks for infrastructure,Partially
+DevOps Engineer,Managing backup and disaster recovery plans,No
+DevOps Engineer,Troubleshooting system downtimes,Partially
+DevOps Engineer,Writing playbooks for operational procedures,No
+DevOps Engineer,Configuring network settings for cloud resources,Partially
+DevOps Engineer,Implementing rolling updates and rollbacks,Partially
+DevOps Engineer,Maintaining database backups and restores,No
+DevOps Engineer,Configuring service mesh architectures,Partially
+DevOps Engineer,Optimizing cloud resource costs,Partially
+DevOps Engineer,Managing API gateway configurations,Partially
+DevOps Engineer,Implementing blue-green deployments,Partially
+DevOps Engineer,Setting up network firewalls and security groups,Partially
+DevOps Engineer,Documenting infrastructure configurations,No
+Site Reliability Engineer,Developing scripts for system automation,Partially
+Site Reliability Engineer,Monitoring system uptime and availability,Partially
+Site Reliability Engineer,Performing root cause analysis for outages,No
+Site Reliability Engineer,Managing incident response protocols,No
+Site Reliability Engineer,Setting up system alerts using tools like PagerDuty,Partially
+Site Reliability Engineer,Writing postmortem reports after incidents,No
+Site Reliability Engineer,Optimizing server performance and resource usage,Partially
+Site Reliability Engineer,Automating routine maintenance tasks,Partially
+Site Reliability Engineer,Collaborating with development teams for reliability improvements,No
+Site Reliability Engineer,Testing failover and disaster recovery mechanisms,No
+Site Reliability Engineer,Managing distributed tracing for debugging performance issues,Partially
+Site Reliability Engineer,Setting up dashboards for monitoring,Partially
+Site Reliability Engineer,Managing SLA (Service Level Agreement) metrics,No
+Site Reliability Engineer,Configuring autoscaling for cloud systems,Partially
+Site Reliability Engineer,Debugging database performance bottlenecks,Partially
+Site Reliability Engineer,Writing custom monitoring plugins,No
+Site Reliability Engineer,Handling service capacity planning,No
+Site Reliability Engineer,Ensuring secure data transfer protocols,Partially
+Site Reliability Engineer,Managing log aggregation systems,Partially
+Site Reliability Engineer,Testing network latency across regions,Partially
+Site Reliability Engineer,Optimizing application deployment times,Partially
+Site Reliability Engineer,Implementing chaos engineering practices,No
+Site Reliability Engineer,Performing system backups and recovery tests,No
+Site Reliability Engineer,Managing certificates and key rotations,Partially
+Site Reliability Engineer,Automating release rollbacks during failures,Partially
+Site Reliability Engineer,Conducting regular security assessments,Partially
+Site Reliability Engineer,Building tools to improve developer productivity,No
+Site Reliability Engineer,Debugging API gateway performance issues,Partially
+Site Reliability Engineer,Validating software releases against performance metrics,No
+Site Reliability Engineer,Maintaining up-to-date incident documentation,No
+Data Engineer,"Designing ETL (Extract, Transform, Load) pipelines",Partially
+Data Engineer,Building data warehouses using platforms like Snowflake,Partially
+Data Engineer,Writing SQL queries for data extraction,Partially
+Data Engineer,Managing real-time data ingestion using tools like Kafka,Partially
+Data Engineer,Debugging pipeline failures,Partially
+Data Engineer,Developing data validation checks,Partially
+Data Engineer,Implementing data deduplication processes,Partially
+Data Engineer,Optimizing database performance,Partially
+Data Engineer,Creating data transformation scripts in Python or Scala,No
+Data Engineer,Managing data lake architectures,No
+Data Engineer,Integrating APIs for external data sources,Partially
+Data Engineer,Automating pipeline monitoring systems,Partially
+Data Engineer,Writing unit tests for data workflows,Partially
+Data Engineer,Setting up data versioning systems,Partially
+Data Engineer,Ensuring data pipeline scalability,Partially
+Data Engineer,Managing schema changes for evolving data needs,Partially
+Data Engineer,Implementing data governance policies,No
+Data Engineer,Creating data lineage documentation,No
+Data Engineer,Monitoring pipeline latency metrics,Partially
+Data Engineer,Handling sensitive data encryption,No
+Data Engineer,Writing scripts for ad hoc data extraction,No
+Data Engineer,Debugging cloud storage issues,Partially
+Data Engineer,Setting up data streaming frameworks,Partially
+Data Engineer,Documenting pipeline workflows for stakeholders,No
+Data Engineer,Managing cloud-based storage costs,Partially
+Data Engineer,Ensuring compliance with data regulations like GDPR,No
+Data Engineer,Building APIs for data access,Partially
+Data Engineer,Validating data accuracy in production systems,Partially
+Data Engineer,Collaborating with data scientists for model-ready datasets,No
+Data Engineer,Implementing error-handling mechanisms in pipelines,Partially
+Machine Learning Engineer,Preprocessing datasets for machine learning models,Partially
+Machine Learning Engineer,Training ML models using TensorFlow or PyTorch,Partially
+Machine Learning Engineer,Debugging model convergence issues,No
+Machine Learning Engineer,Writing feature extraction pipelines,Partially
+Machine Learning Engineer,Tuning hyperparameters for optimal model performance,Partially
+Machine Learning Engineer,Managing model deployment in production environments,Partially
+Machine Learning Engineer,Creating real-time prediction APIs,Partially
+Machine Learning Engineer,Evaluating model accuracy and precision metrics,Partially
+Machine Learning Engineer,Implementing model explainability techniques,No
+Machine Learning Engineer,Debugging GPU resource utilization issues,No
+Machine Learning Engineer,Automating model retraining workflows,Partially
+Machine Learning Engineer,Using cloud ML services for scalability,Partially
+Machine Learning Engineer,Developing custom loss functions for models,No
+Machine Learning Engineer,Handling imbalanced datasets,Partially
+Machine Learning Engineer,Documenting model architectures for teams,No
+Machine Learning Engineer,Managing ML pipeline orchestration tools like Kubeflow,Partially
+Machine Learning Engineer,Deploying models with serverless architecture,Partially
+Machine Learning Engineer,Writing custom ML evaluation scripts,No
+Machine Learning Engineer,Optimizing models for edge devices,Partially
+Machine Learning Engineer,Validating model predictions with stakeholders,No
+Machine Learning Engineer,Building data augmentation pipelines,Partially
+Machine Learning Engineer,Conducting model drift analysis,No
+Machine Learning Engineer,Managing model versioning systems,Partially
+Machine Learning Engineer,Collaborating with data engineers for data requirements,No
+Machine Learning Engineer,Conducting performance benchmarking for models,No
+Machine Learning Engineer,Writing end-to-end ML workflows,No
+Machine Learning Engineer,Debugging issues in multi-model ensembles,No
+Machine Learning Engineer,Implementing transfer learning techniques,Partially
+Machine Learning Engineer,Writing detailed user guides for ML applications,No
+Machine Learning Engineer,Ensuring compliance with ethical AI guidelines,No
+Cloud Engineer,Configuring virtual machines in cloud environments,Partially
+Cloud Engineer,Managing cloud storage services like S3 or Azure Blob,Partially
+Cloud Engineer,Setting up virtual private networks (VPNs),Partially
+Cloud Engineer,Deploying applications on serverless platforms,Partially
+Cloud Engineer,Configuring IAM roles for secure access,Partially
+Cloud Engineer,Setting up auto-scaling groups for applications,Partially
+Cloud Engineer,Debugging cloud resource connectivity issues,Partially
+Cloud Engineer,Managing cloud billing and cost optimizations,Partially
+Cloud Engineer,Creating cloud infrastructure using IaC tools,Partially
+Cloud Engineer,Configuring API gateways for microservices,Partially
+Cloud Engineer,Writing backup and restore scripts for cloud resources,No
+Cloud Engineer,Deploying containerized applications,Partially
+Cloud Engineer,Setting up logging and monitoring for cloud resources,Partially
+Cloud Engineer,Configuring CDNs for improved content delivery,Partially
+Cloud Engineer,Managing DNS settings in cloud environments,Partially
+Cloud Engineer,Implementing disaster recovery strategies,No
+Cloud Engineer,Writing cloud policy configurations,No
+Cloud Engineer,Optimizing cloud databases for performance,Partially
+Cloud Engineer,Setting up hybrid cloud solutions,No
+Cloud Engineer,Testing multi-region failover configurations,No
+Cloud Engineer,Managing encrypted cloud data transfers,Partially
+Cloud Engineer,Writing detailed cloud architecture diagrams,No
+Cloud Engineer,Automating deployments with CI/CD pipelines,Partially
+Cloud Engineer,Implementing zero-downtime deployments,Partially
+Cloud Engineer,Troubleshooting cloud API rate limits,Partially
+Cloud Engineer,Ensuring regulatory compliance in cloud setups,No
+Cloud Engineer,Collaborating with developers for cloud-ready applications,No
+Cloud Engineer,Writing scripts to monitor cloud resource utilization,No
+Cloud Engineer,Migrating on-premise applications to the cloud,Partially
+Cloud Engineer,Reviewing and updating cloud security policies,No
+Technical Lead,Reviewing code contributions for quality and adherence to standards,No
+Technical Lead,Designing high-level architecture for new projects,No
+Technical Lead,Leading technical discussions during sprint planning,No
+Technical Lead,Mentoring junior developers on best practices,No
+Technical Lead,Evaluating new tools and technologies for team adoption,No
+Technical Lead,Debugging complex system issues that span multiple components,Partially
+Technical Lead,Writing technical documentation for critical modules,No
+Technical Lead,Collaborating with product managers to define technical requirements,No
+Technical Lead,Planning and assigning development tasks to team members,No
+Technical Lead,Monitoring codebase health and addressing technical debt,No
+Technical Lead,Ensuring consistent usage of coding patterns across the team,No
+Technical Lead,Prototyping solutions for high-risk features,No
+Technical Lead,Managing cross-team technical dependencies,No
+Technical Lead,Conducting regular one-on-one meetings with team members,No
+Technical Lead,Analyzing performance bottlenecks and recommending improvements,Partially
+Technical Lead,Designing database schemas for scalable applications,No
+Technical Lead,Reviewing CI/CD pipeline configurations for efficiency,Partially
+Technical Lead,Preparing presentations for technical demos or reviews,No
+Technical Lead,Collaborating with stakeholders to resolve conflicting requirements,No
+Technical Lead,Conducting root cause analysis for major incidents,Partially
+Technical Lead,Organizing team-wide training sessions,No
+Technical Lead,Participating in hiring interviews for technical roles,No
+Technical Lead,Balancing short-term delivery goals with long-term technical strategies,No
+Technical Lead,Researching industry trends and keeping the team updated,No
+Technical Lead,Setting up processes for incident management,No
+Technical Lead,Resolving merge conflicts during code reviews,Partially
+Technical Lead,Auditing third-party dependencies for security risks,Partially
+Technical Lead,Approving architectural changes proposed by team members,No
+Technical Lead,Facilitating retrospectives to address technical challenges,No
+Technical Lead,Documenting lessons learned from project implementations,No
+Security Engineer,Performing penetration testing on applications and networks,Partially
+Security Engineer,Writing secure authentication mechanisms,No
+Security Engineer,Conducting threat modeling for applications,No
+Security Engineer,Managing vulnerability scans and prioritizing issues,Partially
+Security Engineer,Implementing encryption for sensitive data,No
+Security Engineer,Monitoring systems for suspicious activities,Partially
+Security Engineer,Debugging firewall configurations,Partially
+Security Engineer,Writing intrusion detection rules,No
+Security Engineer,Managing public and private keys for secure communication,No
+Security Engineer,Setting up two-factor authentication systems,No
+Security Engineer,Validating third-party libraries for security risks,Partially
+Security Engineer,Conducting regular security awareness training sessions,No
+Security Engineer,Implementing secure API communication protocols,No
+Security Engineer,Reviewing application logs for unusual patterns,Partially
+Security Engineer,Managing security patches across systems,Partially
+Security Engineer,Developing security policies for the organization,No
+Security Engineer,Debugging cloud security misconfigurations,Partially
+Security Engineer,Writing scripts to automate security monitoring tasks,Partially
+Security Engineer,Designing secure architecture for new systems,No
+Security Engineer,Auditing compliance with standards like GDPR or PCI DSS,No
+Security Engineer,Responding to incidents and preparing forensic reports,No
+Security Engineer,Testing system backups for ransomware recovery,No
+Security Engineer,Evaluating the security posture of vendors,No
+Security Engineer,Managing access control systems,Partially
+Security Engineer,Performing static and dynamic code analysis,Partially
+Security Engineer,Writing secure session management mechanisms,No
+Security Engineer,Reviewing deployment pipelines for security gaps,Partially
+Security Engineer,Debugging web application vulnerabilities like XSS or CSRF,Partially
+Security Engineer,Collaborating with legal teams for breach response,No
+Security Engineer,Conducting red team exercises to test system defenses,No
+Database Administrator,Managing database performance tuning,Partially
+Database Administrator,Writing complex SQL queries for reporting,Partially
+Database Administrator,Monitoring database usage and optimizing indexes,Partially
+Database Administrator,Configuring database backups and recovery plans,Partially
+Database Administrator,Debugging slow-running queries,Partially
+Database Administrator,Designing database schemas for new applications,No
+Database Administrator,Managing database security policies,No
+Database Administrator,Upgrading and patching database software,Partially
+Database Administrator,Ensuring high availability through replication,Partially
+Database Administrator,Monitoring database server health,Partially
+Database Administrator,Writing stored procedures for business logic,No
+Database Administrator,Debugging data corruption issues,No
+Database Administrator,Managing database access permissions,No
+Database Administrator,Setting up data archiving strategies,Partially
+Database Administrator,Migrating databases between servers,Partially
+Database Administrator,Auditing database activity for compliance,No
+Database Administrator,Configuring clustering for fault tolerance,Partially
+Database Administrator,Writing automated scripts for maintenance tasks,Partially
+Database Administrator,Implementing partitioning strategies for large datasets,Partially
+Database Administrator,Debugging deadlock issues,Partially
+Database Administrator,Monitoring database growth and forecasting needs,Partially
+Database Administrator,Documenting database configurations,No
+Database Administrator,Resolving connectivity issues between applications and databases,Partially
+Database Administrator,Implementing encryption for sensitive data,No
+Database Administrator,Performing database normalization and denormalization,No
+Database Administrator,Writing ETL processes for data transformation,Partially
+Database Administrator,Validating data integrity across systems,Partially
+Database Administrator,Optimizing database for read-heavy or write-heavy loads,Partially
+Database Administrator,Managing legacy database systems,Partially
+Database Administrator,Collaborating with developers for query optimization,No
+Solution Architect,Designing end-to-end solutions for complex projects,No
+Solution Architect,Analyzing business requirements to propose technical architectures,No
+Solution Architect,Evaluating existing systems for scalability and integration potential,No
+Solution Architect,Preparing high-level design documents,No
+Solution Architect,Selecting technology stacks based on project needs,No
+Solution Architect,Creating proof-of-concept implementations for critical components,Partially
+Solution Architect,Collaborating with product managers to refine requirements,No
+Solution Architect,Presenting architectural recommendations to stakeholders,No
+Solution Architect,Managing system interoperability with third-party solutions,No
+Solution Architect,Identifying risks and proposing mitigation strategies,No
+Solution Architect,Evaluating cloud platforms for deployment strategies,Partially
+Solution Architect,Conducting technical feasibility studies,No
+Solution Architect,Defining data flow between systems,No
+Solution Architect,Managing technical constraints like latency and storage,No
+Solution Architect,Reviewing project plans for alignment with architectural goals,No
+Solution Architect,Auditing codebases for adherence to architectural guidelines,Partially
+Solution Architect,Designing secure access mechanisms for system integrations,No
+Solution Architect,Managing API contracts between microservices,No
+Solution Architect,Identifying opportunities for automation within workflows,No
+Solution Architect,Writing detailed documentation for proposed solutions,No
+Solution Architect,Reviewing and approving significant system changes,No
+Solution Architect,Estimating cost and resource requirements for projects,No
+Solution Architect,Analyzing trade-offs between performance and cost,No
+Solution Architect,Leading workshops to explain architectures to teams,No
+Solution Architect,Managing communication between technical and non-technical stakeholders,No
+Solution Architect,Proposing modernization strategies for legacy systems,No
+Solution Architect,Reviewing compliance with organizational policies,No
+Solution Architect,Monitoring implementation progress to align with architecture,No
+Solution Architect,Identifying and eliminating single points of failure in designs,No
+Solution Architect,Keeping up with emerging technologies and trends,No
+Data Scientist,Collecting raw data from various sources,Partially
+Data Scientist,Cleaning and preprocessing data for analysis,Partially
+Data Scientist,Exploratory data analysis to uncover trends,Partially
+Data Scientist,Building predictive models using machine learning,Partially
+Data Scientist,Validating the accuracy of models,Partially
+Data Scientist,Deploying machine learning models to production,Partially
+Data Scientist,Writing scripts for data transformations,No
+Data Scientist,Performing feature engineering to enhance datasets,Partially
+Data Scientist,Handling missing or imbalanced data,Partially
+Data Scientist,Creating dashboards for data visualization,Partially
+Data Scientist,Collaborating with stakeholders to define data-driven solutions,No
+Data Scientist,Communicating findings through reports and presentations,No
+Data Scientist,Optimizing algorithms for better performance,Partially
+Data Scientist,Implementing deep learning models,Partially
+Data Scientist,Developing recommendation systems,Partially
+Data Scientist,Performing statistical analysis for hypothesis testing,Partially
+Data Scientist,Tracking and preventing model drift in production,Partially
+Data Scientist,Analyzing user behavior for business insights,Partially
+Data Scientist,Performing A/B testing for product improvements,Partially
+Data Scientist,Using natural language processing for text analysis,Partially
+Data Scientist,Collaborating with data engineers to create data pipelines,No
+Data Scientist,Automating data workflows with Python or R,Partially
+Data Scientist,Managing big data with distributed computing tools,Partially
+Data Scientist,Performing anomaly detection on time-series data,Partially
+Data Scientist,Documenting data analysis processes,No
+Data Scientist,Building tools to automate repetitive analysis tasks,Partially
+Data Scientist,Ensuring ethical usage of data in projects,No
+Data Scientist,Evaluating third-party datasets for suitability,No
+Data Scientist,Designing experiments to validate data models,No
+Data Scientist,Presenting data-driven recommendations to decision-makers,No
+UI/UX Designer,Conducting user research to understand user needs,No
+UI/UX Designer,Creating user personas and scenarios,No
+UI/UX Designer,Designing wireframes for web and mobile applications,Partially
+UI/UX Designer,Creating interactive prototypes for usability testing,Partially
+UI/UX Designer,Collaborating with stakeholders to define project goals,No
+UI/UX Designer,Designing user flows and navigation structures,No
+UI/UX Designer,Developing design systems and style guides,No
+UI/UX Designer,Conducting usability testing sessions,No
+UI/UX Designer,Analyzing feedback to refine designs,No
+UI/UX Designer,Creating high-fidelity mockups,Partially
+UI/UX Designer,Designing responsive layouts for different devices,Partially
+UI/UX Designer,Ensuring designs are accessible and inclusive,No
+UI/UX Designer,Collaborating with developers for design implementation,No
+UI/UX Designer,Managing design tools and libraries,No
+UI/UX Designer,Presenting design concepts to stakeholders,No
+UI/UX Designer,Iterating on designs based on user feedback,No
+UI/UX Designer,Developing visual assets for branding and marketing,Partially
+UI/UX Designer,Creating animations for improved user interactions,Partially
+UI/UX Designer,Designing intuitive onboarding experiences,No
+UI/UX Designer,Performing competitor analysis for design improvements,No
+UI/UX Designer,Conducting A/B testing for design variations,Partially
+UI/UX Designer,Using heatmaps to analyze user behavior,Partially
+UI/UX Designer,Optimizing design elements for performance,No
+UI/UX Designer,Implementing feedback loops for continuous improvement,No
+UI/UX Designer,Ensuring compliance with design guidelines,No
+UI/UX Designer,Creating user journey maps,No
+UI/UX Designer,Designing for localization and multi-language support,Partially
+UI/UX Designer,Documenting design processes for team reference,No
+UI/UX Designer,Keeping up with design trends and best practices,No
+UI/UX Designer,Collaborating with product managers to align designs with business goals,No
+Technical Support Engineer,Responding to customer inquiries via email or chat,Partially
+Technical Support Engineer,Troubleshooting technical issues for customers,Partially
+Technical Support Engineer,Logging and tracking support tickets,Partially
+Technical Support Engineer,Escalating unresolved issues to higher-level teams,No
+Technical Support Engineer,Providing step-by-step solutions for common problems,Partially
+Technical Support Engineer,Documenting new issues and their resolutions,No
+Technical Support Engineer,Testing customer-reported issues in test environments,No
+Technical Support Engineer,Assisting with software installations and configurations,No
+Technical Support Engineer,Creating and updating knowledge base articles,Partially
+Technical Support Engineer,Monitoring system alerts and proactively addressing issues,Partially
+Technical Support Engineer,Performing root cause analysis for recurring problems,No
+Technical Support Engineer,Training customers on software usage,No
+Technical Support Engineer,Collaborating with development teams to resolve bugs,No
+Technical Support Engineer,Providing remote desktop support,Partially
+Technical Support Engineer,Handling hardware-related troubleshooting,Partially
+Technical Support Engineer,Ensuring timely follow-ups with customers,No
+Technical Support Engineer,Analyzing logs to identify system issues,Partially
+Technical Support Engineer,Documenting steps for resolving complex issues,No
+Technical Support Engineer,Providing feedback to product teams based on customer issues,No
+Technical Support Engineer,Assisting with network connectivity troubleshooting,Partially
+Technical Support Engineer,Monitoring customer satisfaction scores,No
+Technical Support Engineer,Conducting system health checks for customers,Partially
+Technical Support Engineer,Managing user account issues and permissions,Partially
+Technical Support Engineer,Setting up software for new users,No
+Technical Support Engineer,Collaborating with IT teams for infrastructure issues,No
+Technical Support Engineer,Providing insights into frequently reported issues,No
+Technical Support Engineer,Testing software patches before release,Partially
+Technical Support Engineer,Advising customers on best practices for software usage,No
+Technical Support Engineer,Guiding customers through system upgrades,No
+Technical Support Engineer,Maintaining detailed records of support interactions,Partially
