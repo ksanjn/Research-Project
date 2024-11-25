@@ -1,0 +1,1001 @@
+id,task,job_role,complexity,task_type,creativity,human_interaction,time_taken,frequency,skill_level,Associated_Skills,Tools,Technologies
+1,Optimize algorithms,Machine Learning Engineer,Low,Technical,Moderate,High,<1 hour,Monthly,Beginner,"TensorFlow, Node.js, Python, SQL, React",VS Code,Cloud Computing
+2,Conduct user research,Backend Developer,High,Managerial,High,None,Full-day,Monthly,Advanced,"Git, TensorFlow, Node.js, React","MongoDB, Jira, Slack",Web Development
+3,Train and fine-tune models,Software Engineer,Low,Creative,High,Moderate,<1 hour,Daily,Beginner,"SQL, TensorFlow, Agile, Docker, JavaScript","Jira, MySQL","Cloud Computing, Big Data"
+4,Automate infrastructure,Product Manager,Medium,Technical,High,Moderate,1-3 hours,Weekly,Intermediate,"Python, SQL","Tableau, MySQL, MongoDB",Cloud Computing
+5,Design wireframes and prototypes,Product Manager,Medium,Managerial,Moderate,None,1-3 hours,Daily,Advanced,"Docker, JavaScript, TensorFlow, SQL","Tableau, MongoDB","AI, Web Development"
+6,Build predictive models,Full Stack Developer,Medium,Managerial,Moderate,None,Full-day,Monthly,Beginner,"Agile, Docker, Git, TensorFlow",MySQL,"AI, Big Data, DevOps"
+7,Define product roadmaps,Data Scientist,High,Creative,Moderate,Moderate,Half-day,Weekly,Advanced,"React, Agile, SQL, Git, Python","AWS, Tableau","Web Development, AI"
+8,Manage database operations,Data Scientist,Low,Technical,Low,Moderate,1-3 hours,Daily,Intermediate,"TensorFlow, React, Node.js","Slack, Tableau, Jira",Big Data
+9,Conduct user research,QA Engineer,High,Technical,High,None,<1 hour,Daily,Advanced,"TensorFlow, JavaScript, React, Git","MySQL, MongoDB, AWS","Web Development, DevOps, AI"
+10,Design wireframes and prototypes,Software Engineer,High,Managerial,Moderate,Moderate,Half-day,Occasionally,Advanced,"SQL, Agile, Node.js",MongoDB,"DevOps, Big Data"
+11,Develop user interfaces,Machine Learning Engineer,Low,Technical,Moderate,Moderate,1-3 hours,Daily,Intermediate,"SQL, Agile",AWS,"Cloud Computing, DevOps, Web Development"
+12,Automate infrastructure,Product Manager,Medium,Creative,Moderate,Low,Half-day,Occasionally,Advanced,"Docker, SQL","AWS, Postman","Cloud Computing, AI, Big Data"
+13,Define product roadmaps,Full Stack Developer,Low,Creative,Low,None,<1 hour,Occasionally,Advanced,"React, Docker, Agile, SQL","VS Code, MongoDB, Tableau","Cloud Computing, AI"
+14,Train and fine-tune models,Data Scientist,High,Creative,Low,Moderate,<1 hour,Occasionally,Beginner,"Agile, Git, SQL, Docker","Jira, Postman",Cloud Computing
+15,Define product roadmaps,Product Manager,Low,Managerial,Low,Low,1-3 hours,Occasionally,Intermediate,"Agile, React","AWS, MongoDB, MySQL",Big Data
+16,Write and debug code,Machine Learning Engineer,High,Technical,Moderate,Low,Half-day,Monthly,Beginner,"Agile, Docker, Python, TensorFlow, Git","MongoDB, Slack","Web Development, AI, DevOps"
+17,Write and execute test cases,Data Scientist,Low,Technical,Low,Low,Full-day,Occasionally,Advanced,"Python, JavaScript","MySQL, Tableau, AWS","Big Data, Cloud Computing"
+18,Manage database operations,DevOps Engineer,Medium,Managerial,High,Moderate,<1 hour,Daily,Intermediate,"Docker, Python, Agile","VS Code, Slack, Tableau",AI
+19,Design APIs,Full Stack Developer,Medium,Creative,High,Moderate,<1 hour,Monthly,Advanced,"SQL, Git, Agile, JavaScript",MongoDB,DevOps
+20,Train and fine-tune models,QA Engineer,High,Managerial,Moderate,None,Half-day,Weekly,Beginner,"Node.js, Python, JavaScript, React","Jira, VS Code, MySQL","Big Data, Web Development"
+21,Develop user interfaces,Machine Learning Engineer,Medium,Creative,Low,High,Full-day,Daily,Beginner,"Git, Docker, Node.js, React","AWS, Postman, MySQL","Web Development, Cloud Computing, DevOps"
+22,Train and fine-tune models,Backend Developer,High,Creative,Moderate,Moderate,Full-day,Weekly,Beginner,"JavaScript, Agile, TensorFlow, SQL, Python",Postman,"AI, DevOps, Big Data"
+23,Perform code reviews,Machine Learning Engineer,Medium,Creative,Moderate,Moderate,<1 hour,Monthly,Intermediate,"JavaScript, Python, SQL, Git, Node.js",Slack,"Web Development, AI, Cloud Computing"
+24,Automate infrastructure,DevOps Engineer,High,Managerial,Low,Moderate,1-3 hours,Daily,Advanced,"TensorFlow, Git, JavaScript, Agile",MySQL,DevOps
+25,Monitor system performance,Frontend Developer,Low,Managerial,High,Moderate,Full-day,Monthly,Beginner,"Docker, SQL, JavaScript, React, Agile","MongoDB, Postman","Cloud Computing, AI, Big Data"
+26,Manage database operations,Data Scientist,Low,Managerial,Low,Moderate,Half-day,Monthly,Beginner,"Docker, Python","Jira, MySQL, Tableau","DevOps, AI, Big Data"
+27,Optimize algorithms,Data Scientist,High,Managerial,Moderate,None,1-3 hours,Daily,Beginner,"Agile, JavaScript",MongoDB,"DevOps, AI, Big Data"
+28,Optimize algorithms,Frontend Developer,Medium,Technical,High,High,<1 hour,Weekly,Beginner,"Node.js, Docker","Jira, Slack","DevOps, Big Data, Cloud Computing"
+29,Optimize algorithms,Full Stack Developer,Medium,Managerial,Low,Moderate,Full-day,Monthly,Intermediate,"Git, Python, Docker, Agile, React",MySQL,Web Development
+30,Design APIs,Backend Developer,High,Creative,High,None,1-3 hours,Weekly,Beginner,"JavaScript, Python","MongoDB, Tableau, AWS","Big Data, AI"
+31,Write and execute test cases,Full Stack Developer,Medium,Managerial,High,None,Half-day,Daily,Intermediate,"JavaScript, React, Node.js, TensorFlow, Agile","Postman, MongoDB, VS Code",Big Data
+32,Develop user interfaces,Machine Learning Engineer,High,Technical,Low,High,Full-day,Occasionally,Intermediate,"JavaScript, Agile, TensorFlow, React, Python","Tableau, AWS",Web Development
+33,Automate infrastructure,Product Manager,High,Technical,Moderate,None,Half-day,Daily,Beginner,"JavaScript, Agile",VS Code,"Big Data, AI, DevOps"
+34,Conduct user research,Software Engineer,Low,Technical,Low,Moderate,<1 hour,Weekly,Intermediate,"JavaScript, TensorFlow, SQL, React, Git","VS Code, Slack","Cloud Computing, Big Data, AI"
+35,Write and debug code,DevOps Engineer,High,Creative,Moderate,Moderate,<1 hour,Weekly,Intermediate,"Docker, React, Git, JavaScript","MySQL, Slack",AI
+36,Monitor system performance,QA Engineer,Low,Creative,Moderate,Moderate,Half-day,Monthly,Beginner,"Agile, Node.js",AWS,AI
+37,Optimize algorithms,DevOps Engineer,Medium,Technical,Moderate,Low,Full-day,Occasionally,Advanced,"SQL, Agile, Docker",Jira,"Web Development, Cloud Computing, AI"
+38,Monitor system performance,Backend Developer,High,Managerial,Low,High,Full-day,Monthly,Beginner,"JavaScript, Python","Tableau, MongoDB","Web Development, DevOps, Big Data"
+39,Write and debug code,Backend Developer,Low,Technical,Low,Low,<1 hour,Daily,Beginner,"Node.js, Python","Jira, Slack",DevOps
+40,Write and debug code,Full Stack Developer,Low,Managerial,High,High,Half-day,Monthly,Advanced,"JavaScript, Docker",Tableau,Cloud Computing
+41,Develop user interfaces,UI/UX Designer,Medium,Technical,Moderate,Moderate,Half-day,Monthly,Advanced,"JavaScript, Git, Python, Docker","VS Code, AWS","DevOps, AI, Web Development"
+42,Design wireframes and prototypes,Backend Developer,High,Managerial,Moderate,Low,1-3 hours,Weekly,Beginner,"SQL, JavaScript, Git",MySQL,Big Data
+43,Conduct user research,Machine Learning Engineer,Medium,Technical,Low,Moderate,<1 hour,Occasionally,Advanced,"JavaScript, TensorFlow, Agile","Tableau, MySQL","Cloud Computing, AI, Big Data"
+44,Train and fine-tune models,Software Engineer,Medium,Managerial,Moderate,Moderate,<1 hour,Occasionally,Intermediate,"Agile, SQL",MySQL,AI
+45,Write and debug code,Software Engineer,Medium,Creative,Low,None,<1 hour,Occasionally,Advanced,"Agile, React, JavaScript, TensorFlow","Jira, VS Code, Slack",Cloud Computing
+46,Monitor system performance,Frontend Developer,Medium,Technical,High,Low,1-3 hours,Monthly,Beginner,"Git, Python",Postman,Big Data
+47,Design APIs,DevOps Engineer,Low,Technical,Moderate,Moderate,<1 hour,Monthly,Beginner,"Git, JavaScript, React, TensorFlow","Slack, MySQL","Web Development, AI"
+48,Manage database operations,UI/UX Designer,High,Technical,Low,High,1-3 hours,Monthly,Intermediate,"React, Git, Node.js","VS Code, Tableau","Web Development, AI"
+49,Perform code reviews,Frontend Developer,Low,Creative,Low,High,Half-day,Daily,Beginner,"Node.js, Docker","AWS, Jira, Tableau",DevOps
+50,Write and execute test cases,UI/UX Designer,Low,Managerial,Low,Low,Half-day,Daily,Advanced,"Python, Docker, React, Agile, TensorFlow","Tableau, Jira","Big Data, Cloud Computing"
+51,Build predictive models,QA Engineer,Low,Technical,Moderate,None,1-3 hours,Daily,Beginner,"Git, Node.js","Tableau, AWS","DevOps, Web Development, Cloud Computing"
+52,Test applications end-to-end,UI/UX Designer,Low,Managerial,Low,Moderate,1-3 hours,Monthly,Intermediate,"Git, JavaScript","Postman, Jira, Tableau","Big Data, AI, Cloud Computing"
+53,Train and fine-tune models,QA Engineer,Medium,Managerial,Low,Low,1-3 hours,Weekly,Intermediate,"SQL, TensorFlow, Docker, React","Jira, MySQL","DevOps, Web Development"
+54,Design APIs,UI/UX Designer,High,Technical,Moderate,Moderate,<1 hour,Daily,Beginner,"JavaScript, Node.js, Git",Tableau,Cloud Computing
+55,Design APIs,Product Manager,High,Technical,Moderate,None,<1 hour,Weekly,Advanced,"Python, SQL, Docker","Postman, Tableau",DevOps
+56,Build predictive models,QA Engineer,High,Technical,Moderate,None,Full-day,Weekly,Beginner,"SQL, Python, TensorFlow, Node.js, Git","VS Code, Jira","AI, Big Data, DevOps"
+57,Monitor system performance,Machine Learning Engineer,Medium,Managerial,High,High,1-3 hours,Occasionally,Advanced,"Python, Docker",MongoDB,DevOps
+58,Perform code reviews,UI/UX Designer,High,Technical,Moderate,High,1-3 hours,Weekly,Intermediate,"Node.js, Python","Postman, Jira, MongoDB","DevOps, AI"
+59,Test applications end-to-end,Data Scientist,High,Creative,Low,Low,Half-day,Occasionally,Beginner,"SQL, Node.js, Python, Git",VS Code,"AI, Big Data"
+60,Design wireframes and prototypes,QA Engineer,Medium,Creative,Low,None,<1 hour,Weekly,Intermediate,"Node.js, React, TensorFlow",Tableau,"DevOps, AI, Big Data"
+61,Write and execute test cases,Product Manager,High,Managerial,Moderate,Low,Half-day,Weekly,Intermediate,"Node.js, Agile, Docker, SQL, Python","VS Code, Slack","Web Development, AI"
+62,Conduct user research,QA Engineer,Medium,Managerial,Moderate,Moderate,Half-day,Daily,Advanced,"Docker, Node.js, Git","Jira, AWS, Slack",Big Data
+63,Conduct user research,Full Stack Developer,Low,Technical,High,None,Full-day,Weekly,Beginner,"JavaScript, Node.js, Git, Python","Jira, Tableau, Postman","Cloud Computing, Big Data"
+64,Analyze and clean data,UI/UX Designer,High,Technical,Low,Low,1-3 hours,Daily,Advanced,"React, SQL, JavaScript","MySQL, Jira","Web Development, DevOps, Big Data"
+65,Monitor system performance,QA Engineer,Low,Creative,High,Low,Full-day,Weekly,Beginner,"Node.js, TensorFlow","Slack, Postman",Big Data
+66,Automate infrastructure,Backend Developer,Low,Creative,Moderate,None,Half-day,Weekly,Beginner,"Docker, Agile, TensorFlow, React, Node.js","Tableau, VS Code, Postman","Big Data, DevOps, Web Development"
+67,Manage database operations,Data Scientist,High,Creative,Low,High,<1 hour,Weekly,Beginner,"JavaScript, Docker, React, Node.js, Agile","Postman, MySQL, VS Code","Big Data, AI, DevOps"
+68,Write and debug code,Backend Developer,High,Creative,Moderate,None,Full-day,Monthly,Advanced,"JavaScript, Git","VS Code, Postman, Tableau",Big Data
+69,Develop user interfaces,UI/UX Designer,High,Technical,High,None,<1 hour,Occasionally,Intermediate,"SQL, Git",VS Code,"AI, Big Data, Cloud Computing"
+70,Build predictive models,QA Engineer,Medium,Managerial,Moderate,None,Full-day,Monthly,Advanced,"JavaScript, Node.js, Git, TensorFlow, SQL",Slack,"Big Data, DevOps"
+71,Design APIs,Data Scientist,Medium,Creative,Low,None,1-3 hours,Monthly,Beginner,"Node.js, JavaScript, TensorFlow","VS Code, AWS, Tableau","Big Data, Web Development, Cloud Computing"
+72,Design wireframes and prototypes,Backend Developer,Low,Technical,Low,Moderate,Half-day,Monthly,Advanced,"Docker, SQL, Node.js","Jira, VS Code, AWS",DevOps
+73,Develop user interfaces,QA Engineer,Low,Creative,Low,None,Full-day,Occasionally,Intermediate,"Git, Agile","Tableau, Slack","Web Development, Cloud Computing, AI"
+74,Build predictive models,Software Engineer,Medium,Technical,Low,High,Half-day,Occasionally,Intermediate,"Agile, JavaScript, TensorFlow, SQL","Slack, Jira, MongoDB","Cloud Computing, DevOps, Big Data"
+75,Write and execute test cases,Machine Learning Engineer,Low,Technical,Moderate,Moderate,Half-day,Occasionally,Beginner,"Docker, Node.js, JavaScript","AWS, MySQL, MongoDB","Big Data, Cloud Computing, DevOps"
+76,Perform code reviews,UI/UX Designer,Medium,Creative,Moderate,None,Half-day,Daily,Advanced,"React, Python, Git, TensorFlow, Docker","VS Code, MongoDB","Web Development, DevOps"
+77,Conduct user research,Backend Developer,Low,Technical,Low,High,1-3 hours,Daily,Advanced,"Python, Agile, Docker","Postman, AWS, MongoDB","Big Data, AI"
+78,Automate infrastructure,Machine Learning Engineer,Low,Technical,Low,Low,1-3 hours,Weekly,Advanced,"TensorFlow, SQL","AWS, MySQL","Big Data, Web Development, AI"
+79,Design APIs,Data Scientist,Medium,Creative,Moderate,None,1-3 hours,Daily,Intermediate,"TensorFlow, SQL, Python",Slack,Web Development
+80,Build predictive models,Frontend Developer,Medium,Technical,Moderate,Low,Full-day,Monthly,Intermediate,"Docker, React","Jira, Tableau, AWS",Cloud Computing
+81,Perform code reviews,Full Stack Developer,Low,Creative,Moderate,High,1-3 hours,Daily,Beginner,"Docker, JavaScript, Agile, Node.js, Git",VS Code,"AI, Web Development, Big Data"
+82,Conduct user research,Frontend Developer,Low,Technical,High,Low,<1 hour,Monthly,Intermediate,"Git, JavaScript, TensorFlow, Node.js","AWS, VS Code, Postman","Big Data, Web Development"
+83,Design wireframes and prototypes,Machine Learning Engineer,Medium,Technical,Moderate,None,1-3 hours,Weekly,Beginner,"Python, Agile","Postman, Jira, Slack","DevOps, Cloud Computing"
+84,Build predictive models,Software Engineer,Low,Managerial,Low,Low,<1 hour,Monthly,Advanced,"Python, Agile, Docker","AWS, Postman","Big Data, AI, Web Development"
+85,Train and fine-tune models,UI/UX Designer,Low,Managerial,Moderate,Moderate,Half-day,Occasionally,Beginner,"Docker, JavaScript, Python, Git",MySQL,AI
+86,Manage database operations,UI/UX Designer,High,Creative,Moderate,High,<1 hour,Occasionally,Advanced,"Agile, Git, JavaScript, Python",Tableau,AI
+87,Analyze and clean data,QA Engineer,Medium,Managerial,Low,None,<1 hour,Occasionally,Intermediate,"TensorFlow, React, Git, JavaScript, Node.js","AWS, Slack, Jira","Big Data, Cloud Computing, AI"
+88,Write and execute test cases,Frontend Developer,Low,Managerial,High,High,1-3 hours,Weekly,Intermediate,"Node.js, Python, JavaScript",Jira,Big Data
+89,Automate infrastructure,Machine Learning Engineer,Medium,Technical,Low,None,<1 hour,Monthly,Beginner,"Docker, JavaScript","MySQL, MongoDB, AWS","Cloud Computing, Web Development"
+90,Automate infrastructure,UI/UX Designer,High,Creative,High,None,<1 hour,Weekly,Intermediate,"React, Python, Docker, JavaScript",AWS,"DevOps, Cloud Computing, Big Data"
+91,Design APIs,Software Engineer,High,Creative,Moderate,Low,<1 hour,Weekly,Advanced,"JavaScript, Docker, React, Python, Agile","MySQL, AWS","DevOps, Cloud Computing"
+92,Optimize algorithms,DevOps Engineer,High,Managerial,Moderate,High,Half-day,Daily,Intermediate,"Agile, SQL, JavaScript, Docker","AWS, MongoDB, Jira",Web Development
+93,Perform code reviews,Software Engineer,Low,Managerial,High,Low,Full-day,Monthly,Advanced,"TensorFlow, Node.js, Agile, JavaScript","AWS, MongoDB, Slack","Web Development, Big Data"
+94,Manage database operations,Data Scientist,High,Technical,High,Moderate,<1 hour,Occasionally,Beginner,"Python, Docker, JavaScript, Git","Tableau, MySQL",Big Data
+95,Monitor system performance,QA Engineer,High,Managerial,Low,None,1-3 hours,Weekly,Intermediate,"SQL, Git, Docker","Tableau, MySQL, MongoDB",Cloud Computing
+96,Develop user interfaces,Software Engineer,High,Managerial,Moderate,High,<1 hour,Monthly,Advanced,"Node.js, SQL","AWS, MongoDB, Slack","Web Development, Cloud Computing"
+97,Design APIs,DevOps Engineer,High,Technical,High,Low,Half-day,Weekly,Advanced,"JavaScript, Agile, Node.js","Tableau, AWS",AI
+98,Write and debug code,Backend Developer,Medium,Technical,High,High,1-3 hours,Weekly,Intermediate,"Python, Docker, TensorFlow, React, Node.js",MySQL,"Cloud Computing, DevOps, Big Data"
+99,Train and fine-tune models,Product Manager,High,Managerial,Moderate,Low,<1 hour,Weekly,Beginner,"Git, SQL, TensorFlow, Docker",MongoDB,DevOps
+100,Write and execute test cases,QA Engineer,Medium,Technical,Low,High,1-3 hours,Occasionally,Intermediate,"SQL, Node.js, React","Jira, AWS","DevOps, AI"
+101,Manage database operations,Software Engineer,Low,Managerial,Moderate,None,<1 hour,Monthly,Intermediate,"Agile, TensorFlow","Postman, MongoDB","AI, DevOps"
+102,Develop user interfaces,Backend Developer,High,Managerial,Moderate,High,1-3 hours,Monthly,Beginner,"Git, Docker, React","Postman, AWS","Web Development, AI"
+103,Develop user interfaces,Software Engineer,Low,Managerial,Moderate,None,Half-day,Daily,Advanced,"Python, Git, TensorFlow, SQL",VS Code,"AI, Big Data"
+104,Build predictive models,Data Scientist,Medium,Technical,Low,None,1-3 hours,Weekly,Advanced,"JavaScript, React, Git, Python","MySQL, Jira, AWS","Cloud Computing, DevOps"
+105,Design wireframes and prototypes,Backend Developer,Medium,Technical,Moderate,None,1-3 hours,Daily,Beginner,"Git, TensorFlow",MongoDB,"Web Development, DevOps, AI"
+106,Test applications end-to-end,UI/UX Designer,Low,Technical,High,None,<1 hour,Weekly,Advanced,"Python, JavaScript, Git",MySQL,Web Development
+107,Build predictive models,Frontend Developer,Medium,Technical,Low,High,Half-day,Weekly,Beginner,"SQL, React","Slack, Postman, MongoDB","DevOps, AI"
+108,Conduct user research,Full Stack Developer,High,Creative,High,High,Full-day,Monthly,Beginner,"Git, TensorFlow, React, Node.js, Docker","Postman, MongoDB, VS Code","Cloud Computing, AI, Web Development"
+109,Monitor system performance,Software Engineer,Low,Technical,High,Low,Full-day,Monthly,Beginner,"TensorFlow, Python, SQL","AWS, Slack, VS Code","Big Data, AI, Cloud Computing"
+110,Write and debug code,Backend Developer,Medium,Technical,Low,High,Full-day,Daily,Beginner,"Python, Node.js, Git, React, Docker",VS Code,"Web Development, Big Data, AI"
+111,Automate infrastructure,Backend Developer,High,Managerial,Moderate,None,Half-day,Daily,Intermediate,"React, Python","VS Code, MySQL","AI, DevOps, Web Development"
+112,Train and fine-tune models,DevOps Engineer,Medium,Managerial,High,Low,<1 hour,Weekly,Advanced,"SQL, TensorFlow, JavaScript, React, Docker",VS Code,"Web Development, Big Data"
+113,Design APIs,DevOps Engineer,Medium,Creative,Low,Low,Half-day,Monthly,Beginner,"SQL, JavaScript, Node.js, Agile, Python",AWS,"Web Development, DevOps, AI"
+114,Conduct user research,Machine Learning Engineer,Low,Creative,High,Moderate,Full-day,Daily,Beginner,"Git, Node.js, Python",MongoDB,"AI, DevOps"
+115,Design APIs,Backend Developer,Medium,Technical,High,Moderate,Half-day,Occasionally,Intermediate,"React, Git, JavaScript","VS Code, Postman, MySQL","AI, DevOps, Big Data"
+116,Optimize algorithms,Product Manager,Low,Technical,High,None,Full-day,Occasionally,Advanced,"SQL, React, Docker, Agile, Git","MongoDB, Postman",Web Development
+117,Define product roadmaps,Software Engineer,High,Technical,High,High,<1 hour,Weekly,Intermediate,"React, JavaScript, SQL, Git, Docker",Slack,DevOps
+118,Manage database operations,Frontend Developer,Medium,Creative,High,None,<1 hour,Occasionally,Advanced,"Docker, TensorFlow","Postman, Jira, MySQL",AI
+119,Monitor system performance,Frontend Developer,Medium,Technical,High,High,1-3 hours,Occasionally,Advanced,"Git, Docker, React, Agile, Python","Tableau, Jira, AWS","DevOps, AI, Cloud Computing"
+120,Design wireframes and prototypes,DevOps Engineer,Low,Technical,Moderate,High,Full-day,Daily,Intermediate,"JavaScript, React, Docker",Jira,"Cloud Computing, DevOps"
+121,Analyze and clean data,UI/UX Designer,Low,Technical,Moderate,Low,Full-day,Monthly,Beginner,"JavaScript, Docker, React, Node.js",Postman,"AI, Cloud Computing"
+122,Perform code reviews,Data Scientist,Low,Managerial,High,High,1-3 hours,Monthly,Beginner,"TensorFlow, Docker, Python, Agile, SQL",MongoDB,"Web Development, Cloud Computing, DevOps"
+123,Write and debug code,Software Engineer,Low,Technical,High,None,Half-day,Occasionally,Beginner,"Git, JavaScript, Python, Node.js",MongoDB,"Web Development, DevOps, AI"
+124,Write and debug code,QA Engineer,Low,Creative,Moderate,High,Half-day,Daily,Intermediate,"TensorFlow, JavaScript, Agile, SQL",Postman,Big Data
+125,Perform code reviews,Machine Learning Engineer,Low,Managerial,Moderate,Moderate,<1 hour,Occasionally,Intermediate,"Node.js, SQL, JavaScript","MongoDB, AWS, Jira","Web Development, Big Data, Cloud Computing"
+126,Write and execute test cases,Full Stack Developer,Medium,Creative,Low,High,1-3 hours,Occasionally,Beginner,"JavaScript, Docker, React","Tableau, AWS","DevOps, Cloud Computing, Web Development"
+127,Conduct user research,Software Engineer,High,Technical,Low,Moderate,<1 hour,Weekly,Advanced,"TensorFlow, Agile","Slack, Jira","DevOps, AI"
+128,Design wireframes and prototypes,Frontend Developer,Low,Managerial,Low,Low,<1 hour,Daily,Intermediate,"React, Git, Node.js, Python, Agile",Postman,DevOps
+129,Analyze and clean data,Backend Developer,Low,Creative,Moderate,None,1-3 hours,Daily,Advanced,"Node.js, SQL, React, JavaScript, Docker","Slack, MongoDB, Postman","DevOps, Cloud Computing"
+130,Analyze and clean data,Machine Learning Engineer,Low,Technical,Moderate,Low,Full-day,Monthly,Advanced,"Node.js, Docker, JavaScript, Python","Slack, Postman","AI, Big Data"
+131,Design APIs,Machine Learning Engineer,High,Technical,Moderate,Moderate,Half-day,Monthly,Advanced,"React, Python, Node.js, Docker","Slack, Jira",Web Development
+132,Automate infrastructure,Full Stack Developer,High,Managerial,High,High,1-3 hours,Daily,Intermediate,"Node.js, Git, TensorFlow",VS Code,DevOps
+133,Develop user interfaces,Machine Learning Engineer,Medium,Managerial,Low,Low,<1 hour,Weekly,Beginner,"Python, Docker",MongoDB,"Cloud Computing, Web Development, AI"
+134,Build predictive models,Full Stack Developer,High,Technical,Low,Moderate,1-3 hours,Daily,Beginner,"SQL, Python, Git, Docker, JavaScript","Slack, AWS, MongoDB","Big Data, Web Development"
+135,Test applications end-to-end,Machine Learning Engineer,Medium,Creative,Moderate,None,Half-day,Monthly,Beginner,"Node.js, Docker","Tableau, Jira",AI
+136,Train and fine-tune models,Data Scientist,Medium,Managerial,High,Low,Full-day,Occasionally,Advanced,"Agile, SQL, TensorFlow","Jira, VS Code, Tableau","Web Development, Cloud Computing, DevOps"
+137,Design APIs,Software Engineer,Low,Creative,High,Low,1-3 hours,Weekly,Intermediate,"JavaScript, TensorFlow, SQL","VS Code, Slack","Web Development, Big Data, AI"
+138,Conduct user research,Frontend Developer,Medium,Managerial,Low,Moderate,1-3 hours,Weekly,Beginner,"Git, Python, React","VS Code, MySQL","Web Development, DevOps, Cloud Computing"
+139,Write and execute test cases,Frontend Developer,High,Managerial,Moderate,Moderate,Half-day,Monthly,Intermediate,"Python, TensorFlow, JavaScript, Agile, SQL","AWS, Postman, MongoDB","Cloud Computing, AI"
+140,Write and debug code,Machine Learning Engineer,High,Creative,Moderate,High,1-3 hours,Monthly,Intermediate,"Node.js, SQL, Agile, Git, React","MongoDB, Postman, AWS","Cloud Computing, Web Development, DevOps"
+141,Optimize algorithms,Frontend Developer,Medium,Creative,High,High,1-3 hours,Occasionally,Advanced,"TensorFlow, Docker, Agile, JavaScript, SQL","Slack, Tableau, MongoDB","Big Data, DevOps"
+142,Write and execute test cases,Software Engineer,Low,Technical,Moderate,None,Half-day,Daily,Advanced,"Git, Docker, JavaScript","Postman, Jira, MySQL","Big Data, Cloud Computing"
+143,Analyze and clean data,Frontend Developer,High,Managerial,High,High,1-3 hours,Monthly,Intermediate,"React, Agile, Node.js, Git, TensorFlow",MongoDB,"Big Data, Web Development"
+144,Define product roadmaps,Data Scientist,Low,Managerial,Moderate,High,Half-day,Monthly,Advanced,"Agile, JavaScript, React, TensorFlow","AWS, Postman","Big Data, DevOps"
+145,Write and debug code,Frontend Developer,Low,Managerial,High,Low,Half-day,Daily,Intermediate,"Git, React","Postman, AWS, VS Code","AI, Cloud Computing"
+146,Build predictive models,Frontend Developer,Medium,Creative,High,Low,<1 hour,Weekly,Advanced,"React, Git, Python","Jira, AWS, VS Code","Cloud Computing, DevOps, Big Data"
+147,Automate infrastructure,Frontend Developer,Medium,Technical,Moderate,Low,1-3 hours,Daily,Intermediate,"Node.js, Git","MySQL, VS Code","Cloud Computing, DevOps"
+148,Analyze and clean data,Full Stack Developer,Low,Technical,Low,Moderate,1-3 hours,Monthly,Intermediate,"Docker, TensorFlow, SQL, Python","MySQL, Tableau, MongoDB",Cloud Computing
+149,Build predictive models,Data Scientist,High,Managerial,Low,High,<1 hour,Weekly,Intermediate,"React, TensorFlow","Jira, MySQL",Cloud Computing
+150,Manage database operations,Data Scientist,High,Creative,Moderate,None,<1 hour,Occasionally,Advanced,"JavaScript, Git","VS Code, Postman","DevOps, Cloud Computing"
+151,Manage database operations,Data Scientist,Low,Creative,Low,High,<1 hour,Weekly,Advanced,"Agile, Python, Git, React","Jira, Tableau","Cloud Computing, Big Data"
+152,Write and execute test cases,Full Stack Developer,Medium,Creative,High,Moderate,<1 hour,Weekly,Intermediate,"JavaScript, React",MongoDB,"DevOps, Cloud Computing"
+153,Test applications end-to-end,Data Scientist,High,Technical,High,Moderate,Half-day,Weekly,Advanced,"Agile, JavaScript, Git, TensorFlow, SQL",MongoDB,"DevOps, Cloud Computing"
+154,Manage database operations,Data Scientist,Low,Technical,High,Low,1-3 hours,Daily,Beginner,"Agile, Python",Tableau,"Big Data, Web Development, DevOps"
+155,Write and debug code,Frontend Developer,Low,Technical,Moderate,High,<1 hour,Occasionally,Advanced,"Git, Agile, Docker, JavaScript","AWS, Tableau","Cloud Computing, DevOps"
+156,Test applications end-to-end,Data Scientist,Medium,Technical,Low,Low,Half-day,Daily,Intermediate,"TensorFlow, Agile",Slack,Web Development
+157,Define product roadmaps,Frontend Developer,Low,Managerial,Moderate,Moderate,Full-day,Occasionally,Intermediate,"Agile, Python, React, TensorFlow, Docker","Jira, AWS, Slack","Cloud Computing, AI, Big Data"
+158,Optimize algorithms,Backend Developer,Medium,Managerial,Low,Moderate,1-3 hours,Weekly,Advanced,"Agile, Python, JavaScript","Tableau, Postman","DevOps, AI"
+159,Train and fine-tune models,Machine Learning Engineer,High,Managerial,High,Moderate,1-3 hours,Monthly,Advanced,"Node.js, React, Git",VS Code,Cloud Computing
+160,Design wireframes and prototypes,Software Engineer,High,Managerial,Low,Low,Full-day,Daily,Intermediate,"SQL, Docker, TensorFlow","Postman, MongoDB, VS Code","Cloud Computing, AI"
+161,Conduct user research,Frontend Developer,Medium,Creative,Moderate,Low,Half-day,Weekly,Beginner,"JavaScript, Docker, Git",Slack,"AI, Big Data"
+162,Analyze and clean data,Machine Learning Engineer,High,Creative,High,Moderate,Full-day,Daily,Advanced,"Node.js, Agile, React, Python","AWS, MySQL","Cloud Computing, AI"
+163,Train and fine-tune models,Full Stack Developer,Medium,Managerial,Low,Low,Full-day,Occasionally,Advanced,"Git, Agile","MySQL, VS Code","Big Data, DevOps, Web Development"
+164,Define product roadmaps,Frontend Developer,Medium,Creative,Moderate,High,1-3 hours,Occasionally,Intermediate,"TensorFlow, Node.js, SQL","VS Code, Jira",Big Data
+165,Analyze and clean data,Backend Developer,Medium,Managerial,Moderate,Low,Half-day,Daily,Intermediate,"Node.js, SQL","MongoDB, Slack, AWS","DevOps, Web Development, AI"
+166,Conduct user research,Backend Developer,Low,Managerial,High,High,Half-day,Daily,Intermediate,"JavaScript, Python, React, Agile","VS Code, Postman, Tableau","Big Data, DevOps, Web Development"
+167,Conduct user research,Frontend Developer,Low,Creative,Low,Low,1-3 hours,Monthly,Advanced,"Python, Git",Postman,"Big Data, Cloud Computing"
+168,Perform code reviews,Data Scientist,Medium,Creative,High,None,1-3 hours,Daily,Advanced,"Agile, Python, SQL, JavaScript",Postman,AI
+169,Build predictive models,DevOps Engineer,High,Creative,Low,None,<1 hour,Occasionally,Advanced,"Node.js, React","AWS, Postman, MongoDB","Web Development, Big Data"
+170,Define product roadmaps,QA Engineer,High,Managerial,Low,High,Full-day,Monthly,Advanced,"TensorFlow, SQL, Docker",Postman,"Cloud Computing, DevOps, Big Data"
+171,Build predictive models,Machine Learning Engineer,Low,Creative,Moderate,High,Full-day,Monthly,Intermediate,"TensorFlow, Agile",Jira,Cloud Computing
+172,Develop user interfaces,DevOps Engineer,Low,Creative,Moderate,Moderate,Half-day,Occasionally,Beginner,"Agile, SQL","VS Code, Slack, AWS","Big Data, Cloud Computing, DevOps"
+173,Build predictive models,Software Engineer,High,Technical,Low,Moderate,Full-day,Monthly,Intermediate,"Node.js, Python","Postman, AWS, MySQL",AI
+174,Train and fine-tune models,QA Engineer,Low,Creative,Moderate,Low,<1 hour,Occasionally,Intermediate,"JavaScript, Git, Node.js","Jira, Tableau, VS Code","Web Development, Big Data"
+175,Manage database operations,Full Stack Developer,Medium,Creative,Moderate,High,Full-day,Daily,Beginner,"SQL, Agile, Git, JavaScript",Tableau,"Cloud Computing, AI, DevOps"
+176,Optimize algorithms,Software Engineer,Low,Technical,Low,High,<1 hour,Occasionally,Beginner,"Node.js, TensorFlow, JavaScript",Postman,"AI, Web Development, Cloud Computing"
+177,Design APIs,Machine Learning Engineer,Low,Managerial,Moderate,High,<1 hour,Occasionally,Beginner,"TensorFlow, Node.js","Jira, MongoDB, Slack",Cloud Computing
+178,Design APIs,Full Stack Developer,Medium,Creative,High,High,1-3 hours,Weekly,Beginner,"Node.js, Python","Jira, MongoDB, Tableau",Cloud Computing
+179,Conduct user research,Backend Developer,High,Managerial,High,Moderate,Full-day,Weekly,Beginner,"Git, JavaScript, React, Docker, SQL",Slack,"DevOps, Cloud Computing"
+180,Design APIs,Machine Learning Engineer,Medium,Managerial,Low,Moderate,1-3 hours,Daily,Advanced,"TensorFlow, React, Python",Slack,"DevOps, Big Data"
+181,Write and execute test cases,Backend Developer,Low,Creative,Moderate,High,1-3 hours,Daily,Advanced,"Node.js, TensorFlow, JavaScript, React","MongoDB, Jira","AI, Big Data"
+182,Optimize algorithms,Machine Learning Engineer,High,Creative,Low,High,<1 hour,Occasionally,Intermediate,"TensorFlow, Python, Agile","MongoDB, VS Code","Big Data, Web Development"
+183,Design wireframes and prototypes,Frontend Developer,High,Creative,High,Low,Full-day,Daily,Intermediate,"Git, SQL, Agile, Python",Postman,"Web Development, AI"
+184,Optimize algorithms,QA Engineer,Medium,Managerial,Low,Low,<1 hour,Daily,Intermediate,"Docker, Python, Agile",MySQL,"Web Development, DevOps, AI"
+185,Test applications end-to-end,Product Manager,Low,Creative,Low,Moderate,Full-day,Daily,Beginner,"Node.js, TensorFlow, Agile","AWS, MySQL, Postman","DevOps, Cloud Computing, Web Development"
+186,Monitor system performance,Frontend Developer,High,Creative,High,Moderate,Full-day,Occasionally,Beginner,"React, Node.js","MySQL, Tableau, Jira",DevOps
+187,Train and fine-tune models,Full Stack Developer,High,Creative,Moderate,Moderate,Full-day,Occasionally,Beginner,"SQL, TensorFlow, Node.js","VS Code, Tableau","AI, Big Data"
+188,Write and debug code,Data Scientist,Low,Creative,Moderate,High,Full-day,Daily,Intermediate,"Python, Docker, SQL, Git",AWS,"AI, DevOps"
+189,Develop user interfaces,Machine Learning Engineer,Low,Technical,Moderate,None,Half-day,Occasionally,Intermediate,"Python, JavaScript",Postman,"AI, Big Data"
+190,Monitor system performance,Software Engineer,High,Managerial,Moderate,Low,Half-day,Weekly,Advanced,"TensorFlow, Python","AWS, Postman, MySQL","Web Development, Big Data"
+191,Build predictive models,Backend Developer,Medium,Managerial,Low,High,Full-day,Weekly,Intermediate,"SQL, React, Python","MongoDB, MySQL, Postman","AI, Big Data, DevOps"
+192,Analyze and clean data,Backend Developer,High,Creative,Moderate,Moderate,Full-day,Monthly,Advanced,"Node.js, Docker, Git, React","Postman, VS Code","Big Data, AI"
+193,Conduct user research,QA Engineer,Low,Creative,Low,Moderate,<1 hour,Daily,Intermediate,"Git, SQL, Agile, React, Docker","Postman, Slack","Big Data, Web Development"
+194,Define product roadmaps,Backend Developer,High,Technical,Moderate,Low,1-3 hours,Monthly,Beginner,"SQL, Git, Agile, TensorFlow","Slack, MongoDB","Cloud Computing, DevOps"
+195,Write and execute test cases,Product Manager,Medium,Technical,Low,Low,Half-day,Weekly,Advanced,"React, Node.js, SQL","Postman, MySQL","DevOps, Cloud Computing"
+196,Conduct user research,Machine Learning Engineer,High,Technical,High,None,<1 hour,Daily,Beginner,"SQL, Docker",AWS,"AI, Web Development"
+197,Train and fine-tune models,Machine Learning Engineer,High,Managerial,Low,None,Half-day,Monthly,Intermediate,"Docker, TensorFlow, SQL, Python","MongoDB, Slack, Tableau","DevOps, Cloud Computing, Web Development"
+198,Manage database operations,QA Engineer,Medium,Creative,Low,Low,Half-day,Occasionally,Intermediate,"JavaScript, Python",Postman,AI
+199,Build predictive models,Product Manager,High,Technical,Low,Low,Half-day,Monthly,Beginner,"Docker, TensorFlow","MongoDB, Slack, Tableau","AI, DevOps, Big Data"
+200,Optimize algorithms,Software Engineer,Low,Technical,Low,Low,<1 hour,Monthly,Beginner,"Agile, SQL, Python","Slack, MySQL","Web Development, AI"
+201,Perform code reviews,Frontend Developer,Medium,Creative,Moderate,None,Full-day,Daily,Advanced,"React, Python, Git",VS Code,DevOps
+202,Monitor system performance,UI/UX Designer,Medium,Creative,Low,High,<1 hour,Daily,Intermediate,"Docker, SQL, Python, Agile",AWS,"AI, DevOps, Web Development"
+203,Develop user interfaces,Frontend Developer,Low,Managerial,Moderate,Low,1-3 hours,Occasionally,Intermediate,"TensorFlow, Python, Agile, Docker, SQL",Tableau,"DevOps, AI"
+204,Design wireframes and prototypes,Software Engineer,Medium,Creative,Moderate,Moderate,1-3 hours,Monthly,Advanced,"Node.js, SQL, Python",MySQL,"Web Development, Cloud Computing, AI"
+205,Train and fine-tune models,Product Manager,High,Creative,Moderate,Low,1-3 hours,Daily,Beginner,"Agile, Docker, Python, React, Git","Slack, Tableau, AWS","Web Development, DevOps"
+206,Manage database operations,DevOps Engineer,Medium,Managerial,Moderate,High,Half-day,Monthly,Beginner,"Agile, Python, Node.js","Tableau, Postman, MongoDB",Cloud Computing
+207,Write and debug code,Full Stack Developer,Medium,Managerial,Low,Moderate,Half-day,Daily,Advanced,"Agile, Node.js, Git, Python, SQL","VS Code, AWS","Cloud Computing, AI, Big Data"
+208,Conduct user research,DevOps Engineer,Low,Creative,Moderate,Low,Half-day,Weekly,Beginner,"TensorFlow, SQL, Node.js, Agile, Git","MongoDB, MySQL, Tableau",Cloud Computing
+209,Write and execute test cases,Machine Learning Engineer,Low,Creative,Moderate,Low,Full-day,Daily,Intermediate,"Node.js, Docker, React, TensorFlow",MySQL,"AI, DevOps, Web Development"
+210,Test applications end-to-end,Product Manager,Low,Creative,High,Moderate,1-3 hours,Daily,Beginner,"Node.js, Python, Git","MySQL, MongoDB, Slack","AI, Web Development"
+211,Analyze and clean data,Full Stack Developer,Medium,Managerial,High,None,<1 hour,Daily,Intermediate,"Git, TensorFlow, SQL, React, Docker","AWS, Slack, Tableau",AI
+212,Design wireframes and prototypes,UI/UX Designer,High,Technical,Moderate,High,<1 hour,Monthly,Advanced,"TensorFlow, Docker, SQL","Postman, Slack","AI, Web Development, DevOps"
+213,Test applications end-to-end,Product Manager,High,Creative,High,Low,Half-day,Monthly,Advanced,"SQL, React, Git, Python","MongoDB, MySQL, VS Code",DevOps
+214,Define product roadmaps,UI/UX Designer,High,Technical,High,None,Half-day,Monthly,Intermediate,"Node.js, Agile, Git, React","MySQL, AWS",AI
+215,Write and execute test cases,Product Manager,Medium,Technical,Moderate,Moderate,Half-day,Monthly,Beginner,"Git, Node.js, Docker","Jira, Slack, Postman","Web Development, Big Data"
+216,Monitor system performance,Data Scientist,Low,Creative,Moderate,None,Half-day,Daily,Beginner,"JavaScript, Node.js, React, Agile, TensorFlow","MySQL, Postman","AI, Big Data, DevOps"
+217,Optimize algorithms,Data Scientist,Medium,Managerial,High,None,Full-day,Daily,Advanced,"Docker, Git","Slack, MongoDB","Web Development, Big Data, Cloud Computing"
+218,Write and execute test cases,Frontend Developer,Low,Creative,Low,None,1-3 hours,Weekly,Beginner,"Docker, SQL, React",MySQL,Big Data
+219,Analyze and clean data,DevOps Engineer,Low,Technical,High,Low,Full-day,Occasionally,Intermediate,"Git, SQL, Node.js, Python, Agile","Slack, Jira, MySQL",Cloud Computing
+220,Develop user interfaces,Backend Developer,Medium,Creative,High,None,1-3 hours,Daily,Advanced,"TensorFlow, SQL, Agile, JavaScript, React",AWS,Cloud Computing
+221,Automate infrastructure,Backend Developer,Medium,Technical,High,Low,Full-day,Monthly,Intermediate,"JavaScript, Git, Node.js","Postman, AWS, VS Code","DevOps, AI"
+222,Write and execute test cases,Data Scientist,High,Creative,Moderate,None,1-3 hours,Occasionally,Beginner,"SQL, Agile, JavaScript, Node.js, Git","Slack, MongoDB","Web Development, Big Data, Cloud Computing"
+223,Write and debug code,Product Manager,High,Technical,High,High,Half-day,Daily,Beginner,"Agile, Docker, TensorFlow, SQL","MongoDB, Jira, VS Code",Web Development
+224,Optimize algorithms,Full Stack Developer,Low,Technical,High,High,Half-day,Occasionally,Advanced,"Git, React",MySQL,"DevOps, Web Development, Big Data"
+225,Analyze and clean data,DevOps Engineer,Medium,Creative,High,High,Full-day,Monthly,Beginner,"Git, Docker, TensorFlow","MongoDB, Tableau, Jira",Big Data
+226,Test applications end-to-end,Machine Learning Engineer,High,Creative,Moderate,Low,Half-day,Occasionally,Intermediate,"TensorFlow, SQL, Node.js, Python",MongoDB,DevOps
+227,Design wireframes and prototypes,UI/UX Designer,Medium,Technical,Low,Low,Half-day,Monthly,Advanced,"TensorFlow, React, Git, Python, Node.js","Slack, AWS","Web Development, DevOps, Big Data"
+228,Design wireframes and prototypes,DevOps Engineer,Medium,Technical,High,Moderate,<1 hour,Daily,Intermediate,"TensorFlow, Python, Agile, React","AWS, Postman, MongoDB","Cloud Computing, DevOps, Web Development"
+229,Optimize algorithms,Machine Learning Engineer,Medium,Managerial,Low,Moderate,Full-day,Occasionally,Beginner,"Node.js, Python, Git, Agile, JavaScript",MongoDB,Web Development
+230,Write and execute test cases,Full Stack Developer,Low,Technical,Moderate,Moderate,Full-day,Weekly,Advanced,"React, Python","MySQL, Jira, VS Code",AI
+231,Optimize algorithms,Data Scientist,High,Creative,Moderate,Moderate,Full-day,Daily,Beginner,"Git, Agile, SQL, TensorFlow","Jira, Postman, MongoDB","AI, Cloud Computing"
+232,Define product roadmaps,Software Engineer,Low,Technical,Low,Low,Half-day,Daily,Beginner,"Agile, Python, React",VS Code,"DevOps, Cloud Computing"
+233,Write and debug code,Backend Developer,Low,Managerial,Low,Low,Full-day,Weekly,Intermediate,"Docker, SQL, React, Git, TensorFlow",Slack,AI
+234,Build predictive models,Software Engineer,Low,Technical,Low,None,<1 hour,Weekly,Intermediate,"Python, Docker, React, Git, TensorFlow","Jira, Slack, MongoDB","Web Development, Cloud Computing"
+235,Design APIs,Product Manager,Medium,Technical,Low,Moderate,1-3 hours,Monthly,Beginner,"Docker, Git, Python, Node.js, Agile",Tableau,"Big Data, DevOps, Web Development"
+236,Perform code reviews,Software Engineer,Medium,Technical,High,Low,Half-day,Monthly,Beginner,"Node.js, Docker","Slack, MongoDB, Jira","AI, Cloud Computing, Big Data"
+237,Analyze and clean data,Machine Learning Engineer,Medium,Technical,Moderate,Low,Half-day,Monthly,Intermediate,"Node.js, Docker, Python, React","Postman, MySQL","DevOps, Web Development"
+238,Manage database operations,QA Engineer,Low,Technical,High,Low,Full-day,Monthly,Beginner,"Agile, SQL, Docker","Postman, AWS, MySQL","Cloud Computing, DevOps, AI"
+239,Conduct user research,Backend Developer,Low,Managerial,High,Low,Half-day,Monthly,Advanced,"Agile, SQL, Docker, TensorFlow","MongoDB, AWS, Jira","AI, Cloud Computing"
+240,Optimize algorithms,Software Engineer,High,Technical,High,Low,Half-day,Occasionally,Intermediate,"Docker, Python, React",Slack,Big Data
+241,Automate infrastructure,Product Manager,Low,Managerial,Low,High,<1 hour,Daily,Beginner,"TensorFlow, Docker, Python",MongoDB,Cloud Computing
+242,Optimize algorithms,Machine Learning Engineer,Low,Managerial,Low,Low,Full-day,Monthly,Beginner,"JavaScript, TensorFlow",VS Code,"AI, DevOps, Big Data"
+243,Automate infrastructure,DevOps Engineer,Medium,Technical,Low,Low,<1 hour,Monthly,Beginner,"TensorFlow, Node.js, Docker",MySQL,"AI, DevOps"
+244,Design wireframes and prototypes,DevOps Engineer,High,Managerial,High,None,<1 hour,Monthly,Intermediate,"Python, JavaScript, React","Slack, MongoDB","Big Data, AI, Cloud Computing"
+245,Design wireframes and prototypes,Software Engineer,Medium,Creative,Moderate,None,1-3 hours,Monthly,Intermediate,"Docker, Python, Git","Tableau, Slack","DevOps, Cloud Computing"
+246,Manage database operations,QA Engineer,Low,Creative,Moderate,Moderate,1-3 hours,Weekly,Advanced,"JavaScript, SQL, Git, React, Agile","Tableau, VS Code, MongoDB","Big Data, DevOps, Cloud Computing"
+247,Design APIs,Software Engineer,Medium,Technical,Low,None,1-3 hours,Occasionally,Beginner,"Python, JavaScript, SQL, Agile","Slack, Jira, VS Code",AI
+248,Analyze and clean data,Backend Developer,Low,Creative,Low,High,Full-day,Occasionally,Advanced,"SQL, Git, Python, Agile, JavaScript",AWS,"Big Data, AI, DevOps"
+249,Monitor system performance,Software Engineer,Low,Managerial,High,Low,1-3 hours,Monthly,Advanced,"Docker, JavaScript","MongoDB, Slack, MySQL","Web Development, Cloud Computing"
+250,Optimize algorithms,Backend Developer,Low,Managerial,High,Low,<1 hour,Daily,Advanced,"Git, Node.js","Jira, Slack","DevOps, Big Data"
+251,Write and execute test cases,Frontend Developer,Medium,Managerial,Moderate,Low,1-3 hours,Daily,Intermediate,"Git, Agile, JavaScript, Docker, TensorFlow",Slack,"Cloud Computing, AI"
+252,Monitor system performance,Product Manager,High,Technical,Low,Moderate,Full-day,Monthly,Advanced,"Agile, React, Docker, SQL, Node.js","AWS, MongoDB, Tableau","AI, DevOps"
+253,Perform code reviews,Full Stack Developer,High,Creative,Low,None,1-3 hours,Monthly,Advanced,"TensorFlow, React, JavaScript","MongoDB, VS Code, Jira","Cloud Computing, Big Data, DevOps"
+254,Write and execute test cases,Machine Learning Engineer,High,Creative,Moderate,Moderate,<1 hour,Weekly,Advanced,"Docker, SQL","Tableau, AWS","AI, Web Development, Cloud Computing"
+255,Develop user interfaces,Data Scientist,High,Creative,High,Low,Full-day,Occasionally,Advanced,"Docker, React, JavaScript, Git, SQL","AWS, VS Code, Slack","DevOps, AI, Web Development"
+256,Monitor system performance,DevOps Engineer,Low,Managerial,Moderate,None,<1 hour,Occasionally,Intermediate,"SQL, Git",MongoDB,"Web Development, Big Data, AI"
+257,Manage database operations,UI/UX Designer,Medium,Creative,Moderate,Low,Full-day,Occasionally,Intermediate,"Git, Agile, Docker","Postman, AWS, Slack","DevOps, Cloud Computing, Web Development"
+258,Conduct user research,DevOps Engineer,Low,Creative,Moderate,None,Full-day,Occasionally,Beginner,"Node.js, Git, React, SQL","Tableau, Jira",AI
+259,Write and debug code,UI/UX Designer,Medium,Technical,High,High,Half-day,Weekly,Advanced,"Node.js, Git, React",MongoDB,"Big Data, AI"
+260,Develop user interfaces,Full Stack Developer,Low,Creative,Moderate,High,<1 hour,Daily,Intermediate,"TensorFlow, SQL, Docker, Python, Agile","MySQL, MongoDB, Tableau","Big Data, Cloud Computing, DevOps"
+261,Monitor system performance,QA Engineer,High,Managerial,High,Low,<1 hour,Daily,Intermediate,"TensorFlow, React, JavaScript, SQL","Postman, Slack, Tableau",Cloud Computing
+262,Define product roadmaps,Product Manager,Medium,Technical,Moderate,None,<1 hour,Weekly,Advanced,"Node.js, Docker, JavaScript","Postman, Tableau","AI, Cloud Computing, Web Development"
+263,Design APIs,Software Engineer,Medium,Technical,Low,None,Full-day,Monthly,Intermediate,"Agile, React, TensorFlow","AWS, MySQL, Postman",Big Data
+264,Design APIs,Software Engineer,High,Technical,High,Low,1-3 hours,Weekly,Advanced,"React, JavaScript, Node.js, SQL","Slack, VS Code, Postman","Cloud Computing, Web Development"
+265,Automate infrastructure,Data Scientist,Low,Technical,Low,None,1-3 hours,Daily,Intermediate,"Agile, Python",MongoDB,AI
+266,Write and debug code,Software Engineer,High,Creative,Moderate,None,<1 hour,Weekly,Beginner,"Agile, TensorFlow","Postman, Slack, AWS","Big Data, DevOps, Cloud Computing"
+267,Optimize algorithms,DevOps Engineer,Low,Managerial,Moderate,High,Full-day,Weekly,Advanced,"React, Node.js, JavaScript, Git, Docker","AWS, MySQL","Big Data, Web Development"
+268,Monitor system performance,Full Stack Developer,High,Technical,Moderate,None,Half-day,Weekly,Advanced,"Python, TensorFlow, JavaScript, Docker, Node.js","Postman, VS Code",Web Development
+269,Test applications end-to-end,Software Engineer,High,Creative,Low,Low,Half-day,Monthly,Intermediate,"TensorFlow, Git, Python",AWS,"Cloud Computing, Web Development"
+270,Automate infrastructure,Data Scientist,Low,Managerial,Low,Moderate,Half-day,Occasionally,Beginner,"Node.js, SQL, React","MySQL, Slack",DevOps
+271,Automate infrastructure,Data Scientist,Medium,Creative,Low,High,1-3 hours,Weekly,Intermediate,"TensorFlow, SQL, Agile, Python, Git","Tableau, MongoDB, AWS",Cloud Computing
+272,Optimize algorithms,Frontend Developer,High,Managerial,Moderate,None,<1 hour,Occasionally,Intermediate,"JavaScript, Agile, SQL","VS Code, Postman",Web Development
+273,Write and debug code,DevOps Engineer,Medium,Creative,High,None,1-3 hours,Monthly,Beginner,"React, Python, SQL, JavaScript",MongoDB,"DevOps, Big Data"
+274,Conduct user research,Product Manager,High,Managerial,High,Low,<1 hour,Weekly,Intermediate,"Node.js, React",Slack,"DevOps, Web Development, AI"
+275,Build predictive models,Software Engineer,High,Creative,High,Low,Full-day,Monthly,Advanced,"JavaScript, SQL, Node.js","MongoDB, Slack",DevOps
+276,Analyze and clean data,Backend Developer,Low,Creative,High,None,1-3 hours,Daily,Beginner,"React, Git, Agile, TensorFlow",AWS,"Web Development, DevOps"
+277,Design wireframes and prototypes,Full Stack Developer,Medium,Creative,Low,None,<1 hour,Monthly,Intermediate,"SQL, Docker, Git, TensorFlow","Jira, Postman, Slack","Cloud Computing, Big Data"
+278,Manage database operations,Machine Learning Engineer,Medium,Technical,High,Low,<1 hour,Daily,Intermediate,"React, Agile, JavaScript, Git, SQL",MySQL,AI
+279,Train and fine-tune models,Frontend Developer,Medium,Managerial,High,Low,Half-day,Daily,Advanced,"JavaScript, Git, React, Node.js","Tableau, MongoDB, VS Code",Web Development
+280,Write and execute test cases,DevOps Engineer,High,Managerial,Moderate,None,1-3 hours,Occasionally,Beginner,"JavaScript, Docker, Agile, Git, Python",MySQL,Cloud Computing
+281,Manage database operations,UI/UX Designer,High,Technical,High,High,1-3 hours,Monthly,Beginner,"React, Python, SQL, Docker, TensorFlow","VS Code, Jira, Slack",Cloud Computing
+282,Automate infrastructure,Software Engineer,Low,Technical,High,Low,Half-day,Monthly,Advanced,"SQL, Docker, JavaScript",Slack,"DevOps, Web Development, Big Data"
+283,Design wireframes and prototypes,DevOps Engineer,Low,Creative,Low,Low,Half-day,Weekly,Advanced,"Agile, React, Node.js, Python, TensorFlow","VS Code, Jira, AWS",Cloud Computing
+284,Manage database operations,Data Scientist,High,Technical,Moderate,High,<1 hour,Weekly,Advanced,"Agile, JavaScript",Slack,"AI, Cloud Computing, Big Data"
+285,Design wireframes and prototypes,UI/UX Designer,High,Creative,Moderate,Moderate,Full-day,Weekly,Advanced,"React, JavaScript, TensorFlow","MySQL, Jira, Postman","Big Data, AI, DevOps"
+286,Perform code reviews,Backend Developer,Medium,Creative,High,Low,<1 hour,Daily,Beginner,"React, SQL",MySQL,"Web Development, DevOps, AI"
+287,Train and fine-tune models,DevOps Engineer,Low,Creative,Low,None,Half-day,Weekly,Beginner,"Agile, React, Python, JavaScript","AWS, Postman","Cloud Computing, DevOps, Big Data"
+288,Build predictive models,Software Engineer,Low,Managerial,High,Low,1-3 hours,Occasionally,Advanced,"Agile, Docker, React, JavaScript","MySQL, Slack, Postman",AI
+289,Perform code reviews,Product Manager,High,Creative,Moderate,High,Full-day,Daily,Advanced,"Docker, Agile, JavaScript",MongoDB,Web Development
+290,Build predictive models,Full Stack Developer,Medium,Managerial,High,High,Full-day,Occasionally,Beginner,"React, Docker, Node.js, TensorFlow, SQL","Slack, MongoDB","AI, Web Development, Cloud Computing"
+291,Write and execute test cases,DevOps Engineer,Medium,Creative,High,High,Full-day,Daily,Beginner,"Node.js, JavaScript, React, Git",Tableau,"DevOps, AI, Big Data"
+292,Conduct user research,Product Manager,Low,Creative,High,None,Full-day,Monthly,Advanced,"Python, Node.js, Docker, Agile, SQL","AWS, Tableau, MongoDB","AI, DevOps"
+293,Perform code reviews,Product Manager,High,Managerial,Moderate,None,1-3 hours,Daily,Advanced,"JavaScript, React, TensorFlow",Tableau,Cloud Computing
+294,Define product roadmaps,Software Engineer,Medium,Technical,Moderate,Moderate,Full-day,Daily,Advanced,"SQL, Python, Git, Node.js",Postman,"Web Development, Big Data, Cloud Computing"
+295,Monitor system performance,QA Engineer,Low,Managerial,Moderate,Moderate,<1 hour,Daily,Advanced,"TensorFlow, React, Agile",Tableau,"DevOps, AI"
+296,Manage database operations,QA Engineer,Low,Creative,Low,High,<1 hour,Monthly,Intermediate,"Node.js, Docker, React","Jira, MySQL","Big Data, AI"
+297,Design wireframes and prototypes,Product Manager,Low,Technical,Low,High,Half-day,Monthly,Beginner,"Agile, TensorFlow, Node.js","Slack, AWS","Big Data, DevOps, Web Development"
+298,Build predictive models,Software Engineer,Medium,Technical,Low,Moderate,Full-day,Daily,Advanced,"Docker, TensorFlow, React, Agile",MongoDB,"DevOps, Web Development, Big Data"
+299,Train and fine-tune models,Frontend Developer,Medium,Creative,Low,Low,Half-day,Weekly,Intermediate,"Python, Node.js, JavaScript, Docker, Git","Jira, AWS","Cloud Computing, Web Development, Big Data"
+300,Monitor system performance,QA Engineer,High,Managerial,Moderate,Moderate,Full-day,Occasionally,Beginner,"React, Agile, Python","AWS, MongoDB",AI
+301,Test applications end-to-end,Machine Learning Engineer,Medium,Managerial,Low,None,<1 hour,Monthly,Beginner,"SQL, Python, Git, TensorFlow","VS Code, Slack",DevOps
+302,Optimize algorithms,Full Stack Developer,Medium,Technical,Low,High,<1 hour,Occasionally,Intermediate,"Python, TensorFlow","MongoDB, Tableau","Big Data, DevOps, Cloud Computing"
+303,Write and debug code,DevOps Engineer,Medium,Technical,Low,High,Full-day,Daily,Beginner,"Git, Docker, React, TensorFlow, Python",Slack,"AI, DevOps, Big Data"
+304,Define product roadmaps,Full Stack Developer,Medium,Managerial,Low,Low,<1 hour,Occasionally,Advanced,"Git, JavaScript, TensorFlow",MongoDB,Web Development
+305,Test applications end-to-end,Backend Developer,Low,Technical,High,Moderate,<1 hour,Monthly,Beginner,"SQL, Git, Python",MongoDB,"DevOps, Cloud Computing, Web Development"
+306,Design APIs,UI/UX Designer,High,Technical,Moderate,Moderate,<1 hour,Monthly,Intermediate,"TensorFlow, Docker","VS Code, Slack","Cloud Computing, DevOps, Big Data"
+307,Define product roadmaps,Backend Developer,High,Managerial,Moderate,Low,<1 hour,Monthly,Beginner,"SQL, Docker, Python","Slack, Jira, AWS",AI
+308,Conduct user research,Backend Developer,Medium,Technical,High,None,Full-day,Monthly,Intermediate,"Git, Docker, Node.js, SQL","Jira, Tableau",Cloud Computing
+309,Write and debug code,Machine Learning Engineer,High,Managerial,Low,High,1-3 hours,Monthly,Intermediate,"Docker, TensorFlow, React, Node.js, Agile",Postman,AI
+310,Build predictive models,QA Engineer,High,Technical,Moderate,Moderate,Full-day,Monthly,Beginner,"Agile, Docker, SQL, Git, JavaScript","Tableau, AWS, Slack","DevOps, Big Data, AI"
+311,Test applications end-to-end,Product Manager,High,Technical,High,High,<1 hour,Weekly,Beginner,"Node.js, JavaScript","Slack, MySQL","AI, Web Development, Big Data"
+312,Build predictive models,QA Engineer,Low,Managerial,Moderate,None,Full-day,Daily,Beginner,"Node.js, Git, Agile",VS Code,Big Data
+313,Write and execute test cases,Frontend Developer,Medium,Managerial,High,High,1-3 hours,Monthly,Intermediate,"Git, JavaScript, TensorFlow",MongoDB,AI
+314,Write and execute test cases,Product Manager,Low,Creative,Moderate,None,Half-day,Weekly,Advanced,"Docker, Node.js, Python",VS Code,Big Data
+315,Define product roadmaps,Machine Learning Engineer,High,Managerial,Low,Moderate,<1 hour,Weekly,Advanced,"Python, SQL","Tableau, MySQL","Web Development, DevOps"
+316,Conduct user research,Data Scientist,Medium,Managerial,High,Low,Half-day,Monthly,Intermediate,"JavaScript, Docker, SQL","Postman, MongoDB, AWS","DevOps, Big Data, Web Development"
+317,Monitor system performance,Full Stack Developer,Low,Managerial,Moderate,High,1-3 hours,Daily,Advanced,"Python, TensorFlow","Tableau, AWS, Postman","Cloud Computing, Big Data, AI"
+318,Perform code reviews,UI/UX Designer,Low,Technical,Moderate,Moderate,1-3 hours,Daily,Intermediate,"Docker, JavaScript, React, TensorFlow",MongoDB,"AI, Cloud Computing"
+319,Optimize algorithms,QA Engineer,High,Technical,High,Low,Half-day,Occasionally,Intermediate,"Python, JavaScript, React","VS Code, Tableau",Web Development
+320,Optimize algorithms,Frontend Developer,High,Technical,Moderate,Moderate,Full-day,Weekly,Advanced,"JavaScript, Agile, Git, React, Node.js","VS Code, AWS, Jira","Big Data, Web Development"
+321,Manage database operations,Software Engineer,High,Technical,High,None,Full-day,Daily,Beginner,"SQL, Agile","MongoDB, Jira",Web Development
+322,Automate infrastructure,UI/UX Designer,Low,Creative,High,High,1-3 hours,Occasionally,Beginner,"JavaScript, Agile, React","AWS, MySQL","Web Development, AI"
+323,Analyze and clean data,QA Engineer,Low,Technical,Low,High,1-3 hours,Daily,Beginner,"Git, TensorFlow, Agile, JavaScript, React","Jira, Postman, Tableau","Web Development, AI, DevOps"
+324,Optimize algorithms,Product Manager,Low,Creative,Low,Moderate,1-3 hours,Weekly,Advanced,"Node.js, SQL","Tableau, AWS, MySQL",Big Data
+325,Write and execute test cases,UI/UX Designer,Medium,Creative,High,High,Full-day,Monthly,Advanced,"SQL, Git, JavaScript","MySQL, MongoDB, VS Code",Big Data
+326,Write and execute test cases,UI/UX Designer,High,Managerial,High,Low,<1 hour,Weekly,Beginner,"React, Agile, Node.js, TensorFlow","MongoDB, Slack, VS Code","Big Data, Cloud Computing, AI"
+327,Develop user interfaces,Data Scientist,Medium,Creative,Moderate,Low,Half-day,Monthly,Intermediate,"Node.js, Git, JavaScript, Agile, React","Tableau, Slack, MySQL","Big Data, AI, DevOps"
+328,Write and execute test cases,DevOps Engineer,High,Managerial,Moderate,Moderate,Half-day,Weekly,Beginner,"Git, React, TensorFlow, JavaScript","MySQL, MongoDB","Big Data, Cloud Computing, DevOps"
+329,Optimize algorithms,Full Stack Developer,Medium,Managerial,High,Low,Half-day,Monthly,Advanced,"React, Docker, Agile, Git, Python",Tableau,"DevOps, Cloud Computing"
+330,Define product roadmaps,Machine Learning Engineer,Medium,Managerial,Low,Moderate,1-3 hours,Daily,Advanced,"Agile, Python","MongoDB, AWS","Big Data, DevOps"
+331,Automate infrastructure,Software Engineer,High,Technical,Low,High,Full-day,Daily,Advanced,"TensorFlow, Python, React","MySQL, MongoDB, Slack","DevOps, Big Data"
+332,Monitor system performance,Data Scientist,High,Creative,High,None,Half-day,Occasionally,Intermediate,"JavaScript, TensorFlow, Agile","Slack, MySQL","DevOps, AI"
+333,Define product roadmaps,UI/UX Designer,High,Creative,Moderate,Moderate,<1 hour,Weekly,Intermediate,"Docker, Node.js, Git","MongoDB, VS Code",AI
+334,Write and execute test cases,Product Manager,Medium,Technical,Low,None,Full-day,Daily,Advanced,"Python, Agile, Docker, JavaScript, SQL","VS Code, Postman, MongoDB","Big Data, Web Development, Cloud Computing"
+335,Optimize algorithms,Frontend Developer,Medium,Technical,Moderate,Moderate,1-3 hours,Monthly,Intermediate,"SQL, React, TensorFlow, Python, Node.js","Slack, MySQL",Cloud Computing
+336,Manage database operations,Machine Learning Engineer,Low,Technical,Moderate,None,<1 hour,Weekly,Beginner,"Git, Docker, Node.js","Jira, Postman","DevOps, Cloud Computing"
+337,Perform code reviews,UI/UX Designer,Low,Technical,High,Low,Full-day,Occasionally,Intermediate,"Docker, React","MongoDB, Slack",Web Development
+338,Build predictive models,Frontend Developer,Medium,Technical,High,High,1-3 hours,Monthly,Intermediate,"Python, React, SQL, JavaScript, Node.js",Slack,"Big Data, DevOps, AI"
+339,Test applications end-to-end,Product Manager,Medium,Technical,High,High,Full-day,Occasionally,Advanced,"JavaScript, React, TensorFlow, Docker","Postman, MySQL, AWS","Cloud Computing, DevOps, Web Development"
+340,Train and fine-tune models,Product Manager,Medium,Technical,Moderate,Moderate,Full-day,Monthly,Beginner,"Docker, SQL","Slack, MySQL, Tableau","Web Development, DevOps, Big Data"
+341,Optimize algorithms,Data Scientist,Low,Managerial,High,Moderate,<1 hour,Weekly,Beginner,"Git, Agile, Node.js","MongoDB, Slack","Cloud Computing, DevOps"
+342,Design wireframes and prototypes,Software Engineer,High,Creative,Moderate,None,1-3 hours,Monthly,Intermediate,"TensorFlow, Docker, Node.js, Git, JavaScript","Jira, VS Code, Tableau","DevOps, Web Development, Big Data"
+343,Automate infrastructure,Software Engineer,Medium,Managerial,Moderate,Moderate,<1 hour,Occasionally,Intermediate,"Python, TensorFlow, Agile, React, Docker",VS Code,"Cloud Computing, Big Data"
+344,Test applications end-to-end,Full Stack Developer,High,Technical,Moderate,Moderate,1-3 hours,Daily,Intermediate,"React, Docker, Node.js",Slack,"Cloud Computing, Web Development"
+345,Develop user interfaces,Software Engineer,Low,Managerial,High,High,Full-day,Monthly,Advanced,"Docker, Python","Jira, VS Code, Tableau",Big Data
+346,Develop user interfaces,Data Scientist,Low,Managerial,High,Low,<1 hour,Monthly,Advanced,"JavaScript, TensorFlow, Git","Slack, Jira, MongoDB","DevOps, Web Development, AI"
+347,Develop user interfaces,Machine Learning Engineer,Low,Technical,Moderate,High,1-3 hours,Daily,Advanced,"Git, Agile, Node.js","MongoDB, Slack, AWS","AI, Web Development"
+348,Define product roadmaps,Product Manager,Low,Technical,Moderate,High,1-3 hours,Occasionally,Advanced,"JavaScript, Node.js, Git","MySQL, VS Code, Tableau","Web Development, Big Data, Cloud Computing"
+349,Write and execute test cases,Machine Learning Engineer,High,Managerial,Moderate,Moderate,Full-day,Daily,Intermediate,"Agile, Python, Node.js, JavaScript, Git","MySQL, Slack",Cloud Computing
+350,Test applications end-to-end,DevOps Engineer,Medium,Technical,Moderate,High,1-3 hours,Monthly,Beginner,"Python, Node.js, Docker, SQL","VS Code, MySQL","Big Data, Web Development, DevOps"
+351,Design wireframes and prototypes,DevOps Engineer,Low,Creative,Moderate,High,Full-day,Monthly,Intermediate,"React, Git, JavaScript, SQL, Docker",Tableau,"DevOps, Cloud Computing"
+352,Design wireframes and prototypes,Frontend Developer,Medium,Creative,Low,Low,Full-day,Daily,Beginner,"Node.js, React, Git",MongoDB,"DevOps, AI, Cloud Computing"
+353,Test applications end-to-end,Product Manager,Medium,Managerial,Low,Low,Half-day,Occasionally,Beginner,"Node.js, SQL, TensorFlow",Tableau,"Web Development, Cloud Computing"
+354,Monitor system performance,Data Scientist,High,Creative,Low,None,Half-day,Occasionally,Intermediate,"Node.js, SQL, JavaScript","MongoDB, VS Code, Postman","Web Development, Big Data, Cloud Computing"
+355,Develop user interfaces,Software Engineer,Low,Technical,Low,None,Full-day,Monthly,Intermediate,"JavaScript, Agile, Node.js, Docker, Git","Tableau, AWS","DevOps, Web Development"
+356,Monitor system performance,DevOps Engineer,Low,Creative,High,Low,<1 hour,Daily,Intermediate,"SQL, JavaScript, Node.js","MongoDB, Slack","Web Development, AI, Cloud Computing"
+357,Train and fine-tune models,Frontend Developer,Medium,Creative,Moderate,Moderate,Full-day,Weekly,Beginner,"Node.js, TensorFlow, Python",MongoDB,"Big Data, Cloud Computing, Web Development"
+358,Design wireframes and prototypes,Backend Developer,Low,Technical,Moderate,None,Half-day,Daily,Intermediate,"TensorFlow, React, Agile, Docker","Tableau, VS Code, Postman",DevOps
+359,Develop user interfaces,Data Scientist,Low,Technical,Low,None,Half-day,Monthly,Advanced,"Python, SQL, TensorFlow, Agile","VS Code, Jira, Postman","Cloud Computing, AI"
+360,Train and fine-tune models,DevOps Engineer,High,Managerial,High,Low,<1 hour,Daily,Beginner,"TensorFlow, Docker, Python, JavaScript, Agile","VS Code, Jira, AWS","DevOps, Web Development"
+361,Perform code reviews,Backend Developer,High,Managerial,Moderate,Moderate,1-3 hours,Monthly,Beginner,"TensorFlow, Agile, React, Python","MySQL, AWS, Slack","Big Data, AI, DevOps"
+362,Define product roadmaps,Data Scientist,Low,Managerial,Moderate,None,Full-day,Occasionally,Advanced,"JavaScript, TensorFlow, Python",Jira,"Web Development, Cloud Computing, DevOps"
+363,Manage database operations,QA Engineer,Low,Managerial,Low,High,Half-day,Weekly,Intermediate,"Python, Node.js, SQL, JavaScript, TensorFlow","Jira, MySQL","Big Data, Cloud Computing, DevOps"
+364,Design APIs,Product Manager,Medium,Technical,High,None,Half-day,Daily,Intermediate,"Docker, TensorFlow, Agile, SQL",AWS,"Big Data, Web Development"
+365,Optimize algorithms,Full Stack Developer,Low,Technical,High,High,<1 hour,Monthly,Beginner,"Docker, Agile, Python","Tableau, AWS","AI, DevOps"
+366,Test applications end-to-end,Machine Learning Engineer,Low,Creative,Low,Low,<1 hour,Weekly,Intermediate,"Git, TensorFlow, React","Slack, MySQL, Postman",AI
+367,Design wireframes and prototypes,Product Manager,Medium,Creative,Low,Moderate,1-3 hours,Daily,Intermediate,"Agile, Git, SQL","VS Code, AWS, Tableau","AI, Web Development"
+368,Define product roadmaps,DevOps Engineer,Low,Technical,Low,Low,Half-day,Weekly,Beginner,"Agile, SQL, Node.js, TensorFlow, Git",Slack,"Web Development, Cloud Computing"
+369,Analyze and clean data,Full Stack Developer,High,Technical,Moderate,None,1-3 hours,Daily,Advanced,"Agile, Node.js, TensorFlow","MongoDB, Jira",DevOps
+370,Perform code reviews,Full Stack Developer,Medium,Creative,Low,High,Half-day,Daily,Advanced,"JavaScript, React, Python",MySQL,"AI, DevOps, Web Development"
+371,Define product roadmaps,UI/UX Designer,High,Technical,Low,Low,Full-day,Daily,Advanced,"SQL, Git, Docker, Python, Node.js","Postman, VS Code","Web Development, DevOps"
+372,Perform code reviews,Product Manager,High,Creative,High,High,Half-day,Daily,Intermediate,"JavaScript, SQL, TensorFlow","MySQL, Jira","Big Data, AI, DevOps"
+373,Automate infrastructure,Backend Developer,High,Managerial,Low,Moderate,Half-day,Weekly,Beginner,"TensorFlow, SQL, Python","Slack, Tableau",Web Development
+374,Monitor system performance,DevOps Engineer,Low,Technical,High,Low,<1 hour,Monthly,Advanced,"React, TensorFlow, Git, Agile, SQL",Slack,Web Development
+375,Test applications end-to-end,Data Scientist,Medium,Technical,High,Low,<1 hour,Monthly,Intermediate,"SQL, Agile, React, TensorFlow","VS Code, AWS","AI, DevOps"
+376,Build predictive models,Full Stack Developer,High,Creative,High,Low,Full-day,Monthly,Advanced,"Docker, JavaScript, Node.js, Python, Agile",Tableau,AI
+377,Automate infrastructure,Machine Learning Engineer,High,Managerial,High,Moderate,1-3 hours,Occasionally,Advanced,"Git, Python, React","Slack, MongoDB",Big Data
+378,Write and debug code,Data Scientist,Medium,Creative,High,High,<1 hour,Weekly,Beginner,"React, TensorFlow, Node.js, JavaScript","VS Code, Jira, AWS","Web Development, Cloud Computing, AI"
+379,Define product roadmaps,Data Scientist,Low,Creative,Moderate,Moderate,Full-day,Occasionally,Intermediate,"Node.js, SQL, Git","MongoDB, Jira","Big Data, Web Development"
+380,Write and execute test cases,Full Stack Developer,High,Managerial,Moderate,Low,Full-day,Daily,Beginner,"Node.js, Docker, Python, SQL","AWS, Tableau, Jira","Big Data, DevOps"
+381,Develop user interfaces,Software Engineer,Medium,Creative,Low,Moderate,1-3 hours,Monthly,Advanced,"JavaScript, Docker, Git","AWS, Slack","Cloud Computing, AI"
+382,Define product roadmaps,QA Engineer,High,Technical,Low,Low,Half-day,Occasionally,Advanced,"SQL, React",AWS,"Cloud Computing, Web Development"
+383,Automate infrastructure,QA Engineer,High,Creative,Moderate,Moderate,Half-day,Daily,Intermediate,"Git, React",Slack,"Web Development, Big Data, AI"
+384,Monitor system performance,Machine Learning Engineer,Medium,Managerial,High,None,Half-day,Monthly,Advanced,"Git, Agile, SQL, Node.js, Docker","MongoDB, VS Code","Web Development, Cloud Computing"
+385,Design wireframes and prototypes,Product Manager,Medium,Creative,Moderate,Low,<1 hour,Monthly,Beginner,"JavaScript, TensorFlow, SQL, Agile, React",VS Code,Big Data
+386,Perform code reviews,DevOps Engineer,Medium,Managerial,Moderate,Low,1-3 hours,Daily,Advanced,"TensorFlow, JavaScript, Node.js, Python","Slack, AWS, Jira","Cloud Computing, AI, Big Data"
+387,Monitor system performance,Data Scientist,Low,Creative,Low,High,1-3 hours,Occasionally,Intermediate,"Python, Docker, TensorFlow, React",AWS,"Web Development, Cloud Computing, AI"
+388,Test applications end-to-end,Product Manager,Low,Technical,Low,High,Half-day,Daily,Beginner,"SQL, Agile, React","Tableau, Jira",Cloud Computing
+389,Train and fine-tune models,Full Stack Developer,Medium,Managerial,High,None,<1 hour,Occasionally,Advanced,"Docker, SQL, React, Python, Agile","Jira, AWS",Cloud Computing
+390,Test applications end-to-end,Frontend Developer,High,Technical,Low,Moderate,Full-day,Monthly,Beginner,"JavaScript, Node.js, TensorFlow, React",MySQL,Web Development
+391,Perform code reviews,QA Engineer,Medium,Managerial,High,Low,Half-day,Monthly,Advanced,"Git, React, Agile, SQL, JavaScript","MongoDB, MySQL, Tableau",Web Development
+392,Automate infrastructure,Data Scientist,Low,Creative,Low,None,Half-day,Monthly,Intermediate,"SQL, Python, TensorFlow, Agile, Node.js",MongoDB,Cloud Computing
+393,Write and execute test cases,Data Scientist,Medium,Creative,High,Low,<1 hour,Weekly,Beginner,"Docker, Python, JavaScript, Agile","Jira, Postman, Slack",Cloud Computing
+394,Optimize algorithms,Product Manager,High,Technical,Low,Moderate,Full-day,Daily,Beginner,"SQL, Agile, Node.js","MongoDB, Tableau, Postman","Web Development, AI, Cloud Computing"
+395,Train and fine-tune models,Full Stack Developer,High,Technical,Low,Low,<1 hour,Daily,Advanced,"Docker, Python, Node.js, JavaScript, Agile",Postman,"Web Development, DevOps"
+396,Build predictive models,DevOps Engineer,Medium,Managerial,High,Low,Full-day,Weekly,Advanced,"Node.js, Python, JavaScript","AWS, MongoDB, Tableau","Big Data, AI"
+397,Build predictive models,Software Engineer,Low,Managerial,Low,Low,<1 hour,Monthly,Intermediate,"Python, SQL",Tableau,"Cloud Computing, AI"
+398,Test applications end-to-end,Software Engineer,Medium,Managerial,High,Low,Full-day,Weekly,Beginner,"SQL, Python, Git, Agile","Slack, MongoDB, Postman","Cloud Computing, DevOps"
+399,Test applications end-to-end,Backend Developer,High,Technical,Moderate,Low,1-3 hours,Daily,Advanced,"Python, JavaScript, Node.js, SQL, Agile","Slack, AWS",Big Data
+400,Develop user interfaces,Software Engineer,Low,Managerial,Moderate,High,<1 hour,Daily,Advanced,"SQL, Node.js, JavaScript",Postman,AI
+401,Monitor system performance,Backend Developer,High,Technical,High,High,Half-day,Weekly,Beginner,"Agile, TensorFlow, Node.js, Git, Docker","Postman, AWS, Slack","Big Data, Web Development"
+402,Define product roadmaps,Machine Learning Engineer,High,Technical,Moderate,Moderate,1-3 hours,Occasionally,Advanced,"SQL, JavaScript, Python, TensorFlow",Jira,DevOps
+403,Write and execute test cases,Machine Learning Engineer,Medium,Creative,High,Moderate,1-3 hours,Monthly,Beginner,"TensorFlow, React",MongoDB,"Web Development, DevOps"
+404,Develop user interfaces,Software Engineer,High,Technical,High,Low,<1 hour,Monthly,Advanced,"Node.js, React, TensorFlow, Git, Python",Postman,Cloud Computing
+405,Develop user interfaces,Machine Learning Engineer,High,Technical,Moderate,Low,1-3 hours,Daily,Beginner,"TensorFlow, Git","Jira, VS Code",Big Data
+406,Build predictive models,DevOps Engineer,High,Managerial,Moderate,None,1-3 hours,Occasionally,Intermediate,"Python, React, Node.js, JavaScript, SQL","Postman, MySQL, Slack","AI, Cloud Computing"
+407,Analyze and clean data,Product Manager,Medium,Managerial,Low,High,Full-day,Weekly,Intermediate,"Docker, Agile, React","VS Code, AWS, MongoDB",AI
+408,Perform code reviews,Software Engineer,Medium,Technical,High,None,<1 hour,Daily,Intermediate,"Docker, Python, TensorFlow, SQL","MySQL, Jira","DevOps, Big Data"
+409,Write and execute test cases,Data Scientist,Medium,Technical,Moderate,Low,<1 hour,Daily,Advanced,"Agile, React, Git, SQL","AWS, Jira, MySQL","Cloud Computing, DevOps, AI"
+410,Monitor system performance,Software Engineer,High,Managerial,High,Low,Full-day,Weekly,Beginner,"Agile, Docker, Python","VS Code, Postman","AI, Web Development, DevOps"
+411,Define product roadmaps,QA Engineer,Low,Technical,Moderate,High,<1 hour,Weekly,Beginner,"JavaScript, Docker, Node.js, Git, Agile","MySQL, Postman","DevOps, Big Data"
+412,Analyze and clean data,DevOps Engineer,Medium,Creative,High,None,Half-day,Weekly,Advanced,"Agile, Python, JavaScript, Docker, Git","MySQL, MongoDB, AWS","AI, Web Development, Big Data"
+413,Design APIs,Product Manager,Low,Managerial,Moderate,Low,Full-day,Daily,Beginner,"Node.js, Agile, React, TensorFlow, SQL",Jira,"DevOps, Cloud Computing"
+414,Monitor system performance,DevOps Engineer,Medium,Creative,Low,Moderate,1-3 hours,Weekly,Beginner,"Node.js, Git, Python","MySQL, Tableau, Slack","DevOps, AI"
+415,Monitor system performance,Data Scientist,High,Managerial,High,Moderate,<1 hour,Weekly,Beginner,"TensorFlow, Git, Agile, Python, Docker","Slack, Jira, VS Code",Cloud Computing
+416,Write and execute test cases,Full Stack Developer,Low,Technical,Low,None,<1 hour,Weekly,Advanced,"Node.js, SQL, Python, TensorFlow","MongoDB, Slack, AWS","DevOps, Cloud Computing"
+417,Conduct user research,QA Engineer,Medium,Managerial,Moderate,High,Half-day,Weekly,Beginner,"React, Docker, Agile, Git, Node.js","Slack, Tableau, Jira","Web Development, Big Data"
+418,Test applications end-to-end,Backend Developer,Low,Creative,Low,Moderate,Full-day,Occasionally,Intermediate,"Docker, TensorFlow, React","AWS, Jira","AI, DevOps"
+419,Build predictive models,QA Engineer,Medium,Managerial,High,Low,Half-day,Monthly,Beginner,"React, SQL, TensorFlow, JavaScript, Agile",MySQL,"Cloud Computing, DevOps"
+420,Perform code reviews,Product Manager,High,Technical,Moderate,Low,<1 hour,Daily,Advanced,"Agile, Git","Postman, Jira","Cloud Computing, Big Data, Web Development"
+421,Train and fine-tune models,QA Engineer,Medium,Creative,Low,High,<1 hour,Occasionally,Beginner,"JavaScript, SQL","MongoDB, Postman",Web Development
+422,Analyze and clean data,Product Manager,Low,Managerial,Low,Low,<1 hour,Monthly,Beginner,"Docker, SQL, React",Postman,"Cloud Computing, Web Development"
+423,Analyze and clean data,Product Manager,Low,Managerial,Low,High,Half-day,Monthly,Advanced,"Git, Node.js","Slack, Tableau, Postman",Web Development
+424,Perform code reviews,QA Engineer,High,Technical,Low,Moderate,Half-day,Daily,Advanced,"Git, SQL, TensorFlow, JavaScript",MySQL,AI
+425,Design APIs,Full Stack Developer,Medium,Managerial,High,Moderate,1-3 hours,Weekly,Beginner,"JavaScript, Docker, React",Jira,DevOps
+426,Build predictive models,Backend Developer,Medium,Creative,Low,Low,<1 hour,Monthly,Beginner,"React, Agile, Node.js",Postman,"Web Development, Big Data, Cloud Computing"
+427,Design wireframes and prototypes,QA Engineer,Medium,Technical,Low,Moderate,Half-day,Monthly,Intermediate,"Python, Agile","VS Code, MySQL, Slack","AI, DevOps, Big Data"
+428,Monitor system performance,Product Manager,Low,Technical,High,Moderate,Full-day,Daily,Intermediate,"Agile, Git, Python","MongoDB, Jira","Big Data, Web Development"
+429,Analyze and clean data,Backend Developer,Low,Managerial,Low,Low,Full-day,Weekly,Beginner,"Python, SQL, Node.js","Postman, MongoDB, MySQL",Big Data
+430,Perform code reviews,DevOps Engineer,High,Technical,Moderate,Low,1-3 hours,Weekly,Advanced,"Docker, SQL",Slack,"Big Data, Web Development"
+431,Define product roadmaps,Full Stack Developer,Medium,Creative,Low,Moderate,<1 hour,Monthly,Intermediate,"Python, Node.js, Docker","Jira, Slack","Big Data, AI"
+432,Monitor system performance,Full Stack Developer,Low,Technical,Moderate,High,Half-day,Occasionally,Advanced,"JavaScript, React, Agile","VS Code, Postman","DevOps, Web Development"
+433,Optimize algorithms,UI/UX Designer,High,Managerial,Moderate,Moderate,Full-day,Weekly,Advanced,"JavaScript, Docker, TensorFlow, Python, React","Postman, VS Code, Tableau","Big Data, Web Development, AI"
+434,Test applications end-to-end,UI/UX Designer,Medium,Technical,High,None,Half-day,Occasionally,Beginner,"Node.js, Git","Tableau, Jira, MongoDB","Big Data, Cloud Computing, Web Development"
+435,Test applications end-to-end,QA Engineer,Low,Technical,Moderate,High,Full-day,Occasionally,Intermediate,"JavaScript, Agile, SQL, TensorFlow","Slack, Jira","Web Development, DevOps"
+436,Automate infrastructure,Machine Learning Engineer,Medium,Creative,Low,Moderate,<1 hour,Daily,Advanced,"Node.js, Python, SQL","MySQL, Jira","AI, DevOps"
+437,Define product roadmaps,Machine Learning Engineer,Low,Managerial,Low,Low,1-3 hours,Monthly,Beginner,"SQL, Git, Python","Tableau, Jira","Web Development, DevOps, AI"
+438,Automate infrastructure,QA Engineer,Low,Technical,Low,High,Full-day,Monthly,Intermediate,"Docker, Node.js",MySQL,AI
+439,Design APIs,UI/UX Designer,Medium,Creative,High,Low,Half-day,Monthly,Advanced,"Git, TensorFlow, React","Slack, VS Code","AI, Web Development, Big Data"
+440,Perform code reviews,Product Manager,Low,Managerial,Low,Low,<1 hour,Occasionally,Beginner,"Node.js, TensorFlow, Docker, Git, Python",Tableau,Web Development
+441,Manage database operations,Software Engineer,Low,Technical,Moderate,None,<1 hour,Monthly,Beginner,"Agile, SQL","MongoDB, Jira, Slack","Big Data, Web Development"
+442,Design wireframes and prototypes,Product Manager,High,Creative,Moderate,High,<1 hour,Monthly,Beginner,"TensorFlow, Python, JavaScript, Node.js","MySQL, AWS, Tableau",Web Development
+443,Write and execute test cases,Machine Learning Engineer,Medium,Managerial,Low,Moderate,<1 hour,Daily,Advanced,"SQL, Agile","MongoDB, Jira, VS Code","AI, Web Development"
+444,Conduct user research,Machine Learning Engineer,Low,Managerial,High,Moderate,Full-day,Occasionally,Advanced,"Python, React, Node.js, Agile, Docker",Slack,"Big Data, Cloud Computing"
+445,Write and debug code,DevOps Engineer,High,Managerial,Low,None,Half-day,Monthly,Intermediate,"TensorFlow, JavaScript, Python, SQL, React",MongoDB,DevOps
+446,Conduct user research,QA Engineer,Medium,Technical,High,None,Half-day,Daily,Advanced,"Agile, Node.js","Jira, VS Code","Web Development, DevOps, Cloud Computing"
+447,Write and debug code,Backend Developer,Medium,Creative,High,Moderate,<1 hour,Daily,Advanced,"JavaScript, React, Git, Agile","Tableau, Postman, AWS","AI, Cloud Computing"
+448,Define product roadmaps,DevOps Engineer,High,Technical,High,None,<1 hour,Daily,Intermediate,"Python, TensorFlow, Agile, SQL, Git","VS Code, MongoDB, AWS",DevOps
+449,Define product roadmaps,DevOps Engineer,Medium,Managerial,Low,Low,<1 hour,Daily,Advanced,"Python, JavaScript, Git, Node.js, Agile","MongoDB, Slack",DevOps
+450,Manage database operations,Data Scientist,Medium,Managerial,Moderate,High,1-3 hours,Daily,Beginner,"Node.js, SQL","MySQL, MongoDB","Cloud Computing, Big Data"
+451,Write and debug code,Data Scientist,Low,Creative,Moderate,Low,Half-day,Occasionally,Intermediate,"Python, TensorFlow, JavaScript, Node.js","Jira, Tableau, MongoDB","Cloud Computing, Big Data, AI"
+452,Define product roadmaps,Frontend Developer,Medium,Managerial,Moderate,None,Full-day,Daily,Intermediate,"Agile, Git, SQL, React, JavaScript","Slack, MongoDB","Cloud Computing, Web Development"
+453,Define product roadmaps,Data Scientist,Medium,Managerial,Low,None,Half-day,Daily,Intermediate,"SQL, Agile, Node.js, React",VS Code,"Web Development, Cloud Computing, Big Data"
+454,Build predictive models,Full Stack Developer,Medium,Technical,High,Moderate,<1 hour,Weekly,Beginner,"TensorFlow, Python, SQL, React, Agile","Jira, AWS, MongoDB",Web Development
+455,Build predictive models,UI/UX Designer,High,Creative,Moderate,Low,Half-day,Weekly,Advanced,"React, Agile, Git, SQL",MongoDB,Web Development
+456,Perform code reviews,UI/UX Designer,Low,Managerial,Low,Low,1-3 hours,Weekly,Intermediate,"Node.js, React, Git, Docker","VS Code, Postman, MySQL",DevOps
+457,Monitor system performance,UI/UX Designer,Low,Managerial,Moderate,Moderate,Half-day,Occasionally,Beginner,"SQL, React, Node.js",Postman,"Big Data, Web Development, Cloud Computing"
+458,Monitor system performance,Backend Developer,Low,Creative,Low,None,1-3 hours,Weekly,Advanced,"Python, Agile, TensorFlow, SQL, Node.js","Tableau, MongoDB",DevOps
+459,Manage database operations,Data Scientist,Low,Technical,Low,Low,1-3 hours,Weekly,Intermediate,"JavaScript, Docker, Agile, Node.js, Git","Jira, MongoDB",Web Development
+460,Define product roadmaps,Backend Developer,Low,Managerial,Moderate,Low,<1 hour,Monthly,Advanced,"Git, Docker, Agile, React, Python","AWS, Postman, Tableau",Big Data
+461,Develop user interfaces,Data Scientist,Low,Technical,Low,Low,Full-day,Daily,Advanced,"Docker, Agile, SQL","AWS, MongoDB, Tableau","AI, DevOps"
+462,Build predictive models,Software Engineer,High,Technical,Low,Moderate,1-3 hours,Daily,Beginner,"Git, React","AWS, VS Code","AI, DevOps"
+463,Develop user interfaces,Product Manager,Medium,Technical,High,Low,1-3 hours,Weekly,Advanced,"React, Agile","MySQL, VS Code, AWS",AI
+464,Optimize algorithms,QA Engineer,High,Creative,Moderate,None,Half-day,Monthly,Advanced,"Python, SQL, Agile, Git, React","Jira, MongoDB","AI, Web Development"
+465,Build predictive models,Backend Developer,High,Managerial,High,Low,Full-day,Weekly,Advanced,"TensorFlow, Python, SQL, JavaScript","Tableau, MySQL","Web Development, AI, Big Data"
+466,Test applications end-to-end,DevOps Engineer,Low,Technical,Moderate,High,Half-day,Occasionally,Advanced,"TensorFlow, Git, Node.js, Agile, Docker","MySQL, Slack","Big Data, Web Development, Cloud Computing"
+467,Develop user interfaces,Machine Learning Engineer,Medium,Managerial,High,Moderate,<1 hour,Monthly,Beginner,"Python, JavaScript, SQL, Agile, Node.js",Slack,"Web Development, Cloud Computing, AI"
+468,Design wireframes and prototypes,Machine Learning Engineer,Low,Creative,Low,None,1-3 hours,Monthly,Beginner,"Agile, Node.js, Docker",Tableau,"Web Development, Cloud Computing"
+469,Define product roadmaps,QA Engineer,Low,Technical,High,High,Half-day,Daily,Beginner,"Python, JavaScript, Agile",AWS,"Big Data, AI"
+470,Train and fine-tune models,QA Engineer,Low,Technical,Low,None,1-3 hours,Monthly,Beginner,"Git, JavaScript, Python, SQL","MongoDB, Jira","AI, Web Development, Cloud Computing"
+471,Analyze and clean data,Backend Developer,High,Managerial,High,None,Half-day,Weekly,Advanced,"Docker, Agile, TensorFlow","Tableau, Postman",Web Development
+472,Manage database operations,Product Manager,High,Creative,Low,None,<1 hour,Monthly,Advanced,"Docker, SQL, JavaScript",MongoDB,"AI, DevOps, Web Development"
+473,Write and debug code,Frontend Developer,High,Managerial,Low,High,<1 hour,Weekly,Beginner,"Git, Node.js, Docker",MySQL,DevOps
+474,Perform code reviews,Frontend Developer,Medium,Technical,Low,High,Full-day,Occasionally,Advanced,"Docker, Git, TensorFlow","MongoDB, MySQL, Tableau","AI, Cloud Computing, DevOps"
+475,Manage database operations,Backend Developer,High,Creative,Low,None,<1 hour,Monthly,Advanced,"Python, Git, Agile","Jira, Tableau, Slack","AI, Cloud Computing"
+476,Build predictive models,Software Engineer,Medium,Creative,High,None,1-3 hours,Daily,Intermediate,"Git, Python","Postman, MySQL, AWS","Big Data, AI"
+477,Design APIs,DevOps Engineer,Low,Technical,Moderate,Moderate,Full-day,Weekly,Intermediate,"Docker, React, Git, JavaScript, TensorFlow","MongoDB, Postman, AWS","Cloud Computing, DevOps"
+478,Automate infrastructure,QA Engineer,Medium,Technical,High,None,Half-day,Daily,Advanced,"React, Git","Slack, MySQL, AWS",AI
+479,Write and execute test cases,Data Scientist,Medium,Creative,Moderate,High,Half-day,Weekly,Advanced,"Docker, Agile","MySQL, Jira, Tableau","Big Data, AI"
+480,Optimize algorithms,Full Stack Developer,Low,Technical,High,Moderate,1-3 hours,Monthly,Beginner,"Agile, Node.js, Python, TensorFlow","Slack, VS Code, Tableau",DevOps
+481,Build predictive models,Full Stack Developer,Medium,Managerial,High,High,1-3 hours,Daily,Advanced,"React, Git, Agile, TensorFlow","VS Code, Postman, Jira","DevOps, Big Data, Cloud Computing"
+482,Manage database operations,QA Engineer,High,Technical,Low,Moderate,<1 hour,Weekly,Beginner,"Python, SQL","Slack, Jira","AI, DevOps"
+483,Monitor system performance,Machine Learning Engineer,Low,Managerial,High,High,<1 hour,Monthly,Advanced,"Agile, Docker, Python, Node.js",Tableau,"Cloud Computing, AI, DevOps"
+484,Design APIs,UI/UX Designer,Medium,Technical,Low,None,Full-day,Monthly,Intermediate,"TensorFlow, Python, React",MongoDB,Web Development
+485,Build predictive models,UI/UX Designer,Medium,Technical,Low,None,1-3 hours,Monthly,Advanced,"Git, TensorFlow, Node.js, Docker, JavaScript","Slack, Jira","AI, DevOps"
+486,Build predictive models,Backend Developer,Medium,Creative,High,None,Half-day,Occasionally,Beginner,"SQL, Python, Git, TensorFlow, Docker",Postman,Web Development
+487,Write and debug code,Backend Developer,Medium,Technical,Low,Moderate,Half-day,Monthly,Beginner,"Git, Agile, Node.js, React, SQL","Postman, MySQL, Slack",Cloud Computing
+488,Write and debug code,Backend Developer,Low,Technical,Moderate,None,Full-day,Weekly,Beginner,"Agile, Docker","VS Code, AWS, Slack",Cloud Computing
+489,Test applications end-to-end,UI/UX Designer,High,Managerial,Low,Moderate,Half-day,Daily,Intermediate,"Python, JavaScript, TensorFlow, Node.js",Jira,"Big Data, Cloud Computing"
+490,Design APIs,Software Engineer,Medium,Managerial,High,None,1-3 hours,Occasionally,Advanced,"React, Git, SQL, Agile, TensorFlow",Jira,Web Development
+491,Train and fine-tune models,Full Stack Developer,Low,Technical,High,High,1-3 hours,Weekly,Intermediate,"JavaScript, Git, TensorFlow, Agile, Python",VS Code,AI
+492,Conduct user research,Full Stack Developer,Medium,Managerial,High,Low,Half-day,Weekly,Advanced,"SQL, JavaScript, Agile, React, Docker","MongoDB, Slack","Web Development, DevOps, Cloud Computing"
+493,Develop user interfaces,Machine Learning Engineer,Medium,Creative,Moderate,Moderate,<1 hour,Monthly,Beginner,"Docker, Git",Slack,"AI, Big Data"
+494,Design APIs,Data Scientist,Medium,Managerial,Low,High,Full-day,Monthly,Advanced,"Python, Git",MongoDB,"Web Development, DevOps"
+495,Develop user interfaces,UI/UX Designer,Low,Managerial,Moderate,None,Half-day,Monthly,Advanced,"Git, Agile","AWS, Postman",AI
+496,Automate infrastructure,Backend Developer,Medium,Technical,Low,High,Half-day,Monthly,Beginner,"React, Node.js","Tableau, Jira","DevOps, Cloud Computing"
+497,Perform code reviews,Full Stack Developer,Low,Technical,High,High,Full-day,Weekly,Beginner,"JavaScript, Git, TensorFlow","MySQL, Slack, Postman","Big Data, Cloud Computing"
+498,Analyze and clean data,Product Manager,Medium,Technical,High,None,Half-day,Monthly,Intermediate,"Python, Git, SQL, JavaScript, Agile","MongoDB, MySQL, VS Code",AI
+499,Perform code reviews,Full Stack Developer,Medium,Creative,Moderate,Moderate,Half-day,Weekly,Intermediate,"JavaScript, Agile","VS Code, MongoDB, Postman",Cloud Computing
+500,Optimize algorithms,UI/UX Designer,Low,Technical,Low,Moderate,Full-day,Occasionally,Beginner,"SQL, TensorFlow, Agile","Slack, AWS, MySQL","AI, DevOps, Web Development"
+501,Define product roadmaps,Product Manager,Medium,Technical,Low,Low,<1 hour,Monthly,Intermediate,"Docker, Python, SQL, React, JavaScript","MongoDB, MySQL, Postman","Web Development, AI, DevOps"
+502,Analyze and clean data,Backend Developer,High,Creative,Low,Moderate,1-3 hours,Occasionally,Beginner,"Node.js, TensorFlow, React, JavaScript","Slack, AWS","Big Data, Cloud Computing"
+503,Monitor system performance,Machine Learning Engineer,Low,Managerial,Moderate,Moderate,<1 hour,Daily,Advanced,"Agile, Git, JavaScript, TensorFlow, SQL","VS Code, MySQL, Jira",AI
+504,Build predictive models,DevOps Engineer,High,Creative,Low,High,Half-day,Daily,Intermediate,"SQL, JavaScript, Node.js, Git","Tableau, MongoDB",AI
+505,Define product roadmaps,Product Manager,High,Managerial,Low,Moderate,1-3 hours,Monthly,Beginner,"Node.js, SQL",Jira,DevOps
+506,Train and fine-tune models,Full Stack Developer,Medium,Managerial,Low,High,<1 hour,Monthly,Beginner,"Python, Docker","Tableau, Postman, Slack",Web Development
+507,Develop user interfaces,Software Engineer,Low,Managerial,Moderate,Low,Half-day,Weekly,Advanced,"Agile, Docker, React, Git, JavaScript","Jira, MySQL","Big Data, Cloud Computing"
+508,Test applications end-to-end,Backend Developer,Medium,Creative,High,High,1-3 hours,Weekly,Advanced,"Agile, TensorFlow, JavaScript, SQL, Git","MySQL, Tableau, VS Code","AI, DevOps, Web Development"
+509,Optimize algorithms,Full Stack Developer,Medium,Managerial,Moderate,Moderate,Full-day,Occasionally,Intermediate,"SQL, Python","Jira, MySQL, Tableau",AI
+510,Write and debug code,Frontend Developer,Medium,Creative,High,High,1-3 hours,Weekly,Advanced,"Git, Docker, SQL","AWS, Tableau","Cloud Computing, DevOps, AI"
+511,Design APIs,Software Engineer,Medium,Technical,High,None,1-3 hours,Daily,Advanced,"Node.js, SQL, TensorFlow","AWS, VS Code",Big Data
+512,Manage database operations,Product Manager,High,Creative,Low,None,Half-day,Daily,Beginner,"Git, React","MySQL, Postman, Tableau","AI, DevOps, Big Data"
+513,Build predictive models,Backend Developer,High,Creative,Low,Moderate,Half-day,Daily,Advanced,"Node.js, Git",Tableau,"AI, DevOps, Web Development"
+514,Design wireframes and prototypes,Machine Learning Engineer,High,Technical,Moderate,High,1-3 hours,Monthly,Beginner,"Node.js, Agile, Docker","Slack, Jira, MongoDB","AI, Web Development, DevOps"
+515,Conduct user research,Product Manager,Medium,Technical,Low,High,Half-day,Monthly,Advanced,"Docker, SQL","Jira, AWS, MongoDB",DevOps
+516,Develop user interfaces,Data Scientist,Low,Managerial,Moderate,High,<1 hour,Daily,Intermediate,"TensorFlow, Git, Node.js",MongoDB,"AI, Big Data, Web Development"
+517,Manage database operations,Software Engineer,Low,Managerial,High,High,<1 hour,Daily,Beginner,"Node.js, Python, Docker, Agile","VS Code, AWS, Slack","Big Data, Cloud Computing, DevOps"
+518,Monitor system performance,QA Engineer,High,Creative,Moderate,Low,<1 hour,Weekly,Advanced,"JavaScript, React, Agile, Git, SQL","AWS, MySQL",Cloud Computing
+519,Design APIs,Software Engineer,Medium,Creative,Low,High,1-3 hours,Occasionally,Beginner,"Node.js, Python, TensorFlow, Git, React","VS Code, MySQL","Big Data, Web Development"
+520,Optimize algorithms,Machine Learning Engineer,Low,Creative,Moderate,High,Full-day,Weekly,Beginner,"TensorFlow, Git, Python","Postman, Jira",Big Data
+521,Optimize algorithms,Frontend Developer,High,Creative,Low,None,Half-day,Occasionally,Beginner,"Python, Docker, React, TensorFlow, Node.js","MongoDB, Tableau",DevOps
+522,Conduct user research,Full Stack Developer,Low,Creative,Low,Moderate,<1 hour,Daily,Beginner,"React, SQL",Slack,"AI, Web Development"
+523,Write and debug code,Frontend Developer,High,Creative,Moderate,High,<1 hour,Occasionally,Intermediate,"React, Node.js","VS Code, MongoDB","Big Data, Cloud Computing, Web Development"
+524,Design wireframes and prototypes,Frontend Developer,Low,Managerial,Moderate,None,1-3 hours,Monthly,Advanced,"Docker, React, Node.js, JavaScript","VS Code, Tableau, MySQL","Big Data, AI"
+525,Define product roadmaps,Frontend Developer,Medium,Technical,Moderate,Low,1-3 hours,Monthly,Intermediate,"SQL, JavaScript, Git","Tableau, MySQL, AWS","AI, Web Development"
+526,Develop user interfaces,Software Engineer,High,Technical,Moderate,Low,Full-day,Weekly,Intermediate,"React, TensorFlow","Postman, MongoDB, Tableau","Cloud Computing, DevOps"
+527,Analyze and clean data,DevOps Engineer,High,Creative,Moderate,Low,<1 hour,Occasionally,Intermediate,"TensorFlow, Git, Agile, Docker, Node.js","Jira, Tableau","AI, Web Development, DevOps"
+528,Write and execute test cases,Machine Learning Engineer,Medium,Managerial,Low,Moderate,Half-day,Daily,Beginner,"Docker, SQL, Git, Python, Node.js","Tableau, Postman",Cloud Computing
+529,Develop user interfaces,Machine Learning Engineer,Low,Managerial,Low,None,<1 hour,Daily,Intermediate,"TensorFlow, React, Python, Node.js, JavaScript",AWS,"Cloud Computing, AI"
+530,Design APIs,UI/UX Designer,High,Creative,High,Moderate,Half-day,Weekly,Intermediate,"JavaScript, Agile, React, Node.js","Slack, Jira, MySQL",Big Data
+531,Design wireframes and prototypes,Full Stack Developer,High,Creative,Moderate,Moderate,1-3 hours,Daily,Advanced,"React, TensorFlow, SQL, Node.js, Docker",Slack,"Big Data, Web Development, Cloud Computing"
+532,Build predictive models,DevOps Engineer,Medium,Managerial,Moderate,Moderate,<1 hour,Daily,Beginner,"Docker, Node.js",Jira,DevOps
+533,Monitor system performance,Software Engineer,High,Managerial,Moderate,Moderate,1-3 hours,Monthly,Beginner,"Git, JavaScript, Agile",Jira,"AI, Big Data"
+534,Build predictive models,Backend Developer,Medium,Managerial,High,High,1-3 hours,Monthly,Advanced,"Docker, JavaScript",Postman,"Big Data, Cloud Computing, Web Development"
+535,Design wireframes and prototypes,Data Scientist,Medium,Technical,Low,None,Half-day,Daily,Advanced,"Node.js, Agile, Python","MySQL, VS Code, Slack","Web Development, Big Data"
+536,Manage database operations,QA Engineer,High,Creative,High,Moderate,Half-day,Daily,Intermediate,"JavaScript, SQL, Node.js, Agile","VS Code, MySQL",DevOps
+537,Design wireframes and prototypes,Software Engineer,High,Technical,Low,High,1-3 hours,Occasionally,Advanced,"SQL, React, Agile, Git, Python",AWS,"Cloud Computing, AI"
+538,Build predictive models,Frontend Developer,Medium,Creative,High,Moderate,Full-day,Weekly,Beginner,"React, SQL, Git","Postman, Slack, Jira","AI, Cloud Computing"
+539,Write and debug code,Product Manager,Medium,Managerial,Low,High,Half-day,Daily,Intermediate,"React, Python, TensorFlow, Docker","Tableau, MySQL","Cloud Computing, Web Development"
+540,Train and fine-tune models,QA Engineer,Low,Creative,Low,None,<1 hour,Monthly,Advanced,"JavaScript, SQL, Python, Git, React","MySQL, Tableau, AWS",Cloud Computing
+541,Conduct user research,Data Scientist,Medium,Managerial,Moderate,Low,1-3 hours,Occasionally,Advanced,"JavaScript, SQL, Node.js","Tableau, Postman, VS Code",DevOps
+542,Develop user interfaces,Frontend Developer,Medium,Creative,Low,Low,<1 hour,Daily,Advanced,"Docker, SQL, Node.js",Jira,Big Data
+543,Analyze and clean data,Full Stack Developer,Medium,Creative,Moderate,Low,Half-day,Monthly,Intermediate,"Git, Python, Agile, Node.js","Slack, MongoDB","AI, Web Development"
+544,Test applications end-to-end,Data Scientist,High,Managerial,Moderate,None,1-3 hours,Daily,Beginner,"SQL, Docker","VS Code, Jira, MongoDB",AI
+545,Develop user interfaces,Product Manager,Low,Creative,Low,None,Full-day,Weekly,Advanced,"Git, JavaScript, TensorFlow, React, Node.js","Slack, AWS, MongoDB","DevOps, Cloud Computing"
+546,Perform code reviews,Software Engineer,High,Managerial,Moderate,Low,1-3 hours,Weekly,Advanced,"SQL, Git",MySQL,"Big Data, AI"
+547,Build predictive models,Data Scientist,Low,Creative,High,High,<1 hour,Monthly,Beginner,"Agile, Node.js, Git","Postman, VS Code",DevOps
+548,Design APIs,Software Engineer,Low,Technical,Low,None,Half-day,Occasionally,Intermediate,"JavaScript, Agile, SQL, Docker, TensorFlow",AWS,"Web Development, Big Data, AI"
+549,Train and fine-tune models,Backend Developer,High,Technical,High,None,Half-day,Weekly,Beginner,"SQL, Agile, TensorFlow","VS Code, Slack, AWS",Big Data
+550,Define product roadmaps,DevOps Engineer,High,Managerial,High,None,Half-day,Occasionally,Beginner,"Agile, Node.js, JavaScript, Docker","VS Code, MySQL","Big Data, DevOps, Web Development"
+551,Perform code reviews,Backend Developer,Medium,Technical,Low,Moderate,Full-day,Weekly,Beginner,"SQL, Docker, React, Python, TensorFlow","MongoDB, Jira, AWS","DevOps, Cloud Computing"
+552,Automate infrastructure,Full Stack Developer,High,Creative,Moderate,Moderate,Half-day,Monthly,Beginner,"TensorFlow, SQL, Agile, React, Git","Jira, MySQL, AWS","Cloud Computing, Big Data"
+553,Write and execute test cases,Backend Developer,Low,Creative,Moderate,Moderate,Full-day,Occasionally,Intermediate,"SQL, Docker, Node.js, JavaScript, Python","VS Code, Tableau, MongoDB","Cloud Computing, Big Data"
+554,Conduct user research,Machine Learning Engineer,High,Technical,Moderate,None,<1 hour,Daily,Intermediate,"React, JavaScript, Python, TensorFlow, Agile","MongoDB, VS Code",Web Development
+555,Automate infrastructure,Frontend Developer,Low,Technical,Moderate,None,Full-day,Weekly,Intermediate,"Git, React, Agile",Jira,Cloud Computing
+556,Optimize algorithms,QA Engineer,Low,Creative,High,High,<1 hour,Monthly,Intermediate,"SQL, TensorFlow, React, Python, Agile","VS Code, MySQL, Postman","Big Data, Cloud Computing"
+557,Conduct user research,QA Engineer,High,Managerial,Low,None,<1 hour,Daily,Advanced,"SQL, Python, JavaScript","MySQL, Tableau",AI
+558,Perform code reviews,Product Manager,Low,Creative,Low,None,1-3 hours,Daily,Advanced,"Node.js, TensorFlow, React, JavaScript, SQL","MySQL, Slack, MongoDB","AI, Big Data, Cloud Computing"
+559,Manage database operations,Frontend Developer,High,Technical,High,Low,1-3 hours,Occasionally,Beginner,"React, Docker, JavaScript","VS Code, AWS, Tableau",Web Development
+560,Write and execute test cases,Frontend Developer,Low,Managerial,Low,Low,1-3 hours,Daily,Intermediate,"Agile, React, Docker, Node.js, JavaScript","Postman, MongoDB","DevOps, Big Data, AI"
+561,Train and fine-tune models,Backend Developer,High,Technical,Low,High,<1 hour,Daily,Intermediate,"Python, SQL, Docker","VS Code, MongoDB","DevOps, Web Development, Cloud Computing"
+562,Define product roadmaps,Frontend Developer,Medium,Managerial,Moderate,Moderate,Half-day,Daily,Intermediate,"Docker, JavaScript, React, Agile, TensorFlow",MySQL,AI
+563,Write and debug code,Machine Learning Engineer,Low,Creative,Moderate,Moderate,<1 hour,Weekly,Intermediate,"TensorFlow, JavaScript, Python, Agile, Docker","Slack, MongoDB","Web Development, AI, Cloud Computing"
+564,Optimize algorithms,UI/UX Designer,Low,Managerial,High,None,Full-day,Weekly,Intermediate,"Agile, Git, Docker, Node.js, SQL","AWS, MySQL",Cloud Computing
+565,Perform code reviews,UI/UX Designer,High,Creative,High,None,<1 hour,Weekly,Advanced,"SQL, TensorFlow, Node.js","Tableau, Postman","AI, Cloud Computing, Web Development"
+566,Conduct user research,QA Engineer,Low,Creative,High,High,Half-day,Daily,Intermediate,"Git, React, Agile, TensorFlow","MongoDB, Jira, AWS","Web Development, Cloud Computing, AI"
+567,Perform code reviews,QA Engineer,Low,Creative,Moderate,None,1-3 hours,Weekly,Beginner,"Python, TensorFlow, Agile",Slack,"DevOps, Web Development, Big Data"
+568,Conduct user research,Software Engineer,High,Creative,Moderate,Moderate,<1 hour,Occasionally,Advanced,"JavaScript, SQL, Node.js, Docker","Postman, AWS","Cloud Computing, Big Data, DevOps"
+569,Design APIs,DevOps Engineer,High,Managerial,Low,Low,Full-day,Monthly,Advanced,"Node.js, Docker",Tableau,"Big Data, AI, DevOps"
+570,Conduct user research,UI/UX Designer,High,Managerial,Moderate,High,<1 hour,Occasionally,Intermediate,"JavaScript, SQL, Python, React, Git","MySQL, Jira, AWS","AI, Cloud Computing, DevOps"
+571,Optimize algorithms,Full Stack Developer,Medium,Managerial,Moderate,None,1-3 hours,Occasionally,Intermediate,"React, JavaScript, Git, Node.js, TensorFlow","Jira, MySQL, Postman",AI
+572,Write and execute test cases,UI/UX Designer,Low,Creative,Moderate,Low,<1 hour,Weekly,Beginner,"Agile, Node.js, Python, Git",Postman,"DevOps, Big Data, AI"
+573,Design APIs,Full Stack Developer,Medium,Managerial,High,Low,Half-day,Weekly,Intermediate,"TensorFlow, SQL","Postman, Slack, Jira","Web Development, Cloud Computing"
+574,Conduct user research,Frontend Developer,Medium,Technical,High,None,1-3 hours,Weekly,Advanced,"React, Python, Git",MySQL,Web Development
+575,Write and debug code,Frontend Developer,Medium,Managerial,High,High,<1 hour,Weekly,Advanced,"Git, React","MongoDB, Jira, Slack","AI, Cloud Computing"
+576,Perform code reviews,Product Manager,High,Managerial,Low,None,<1 hour,Occasionally,Intermediate,"TensorFlow, React, Node.js","MySQL, Postman","DevOps, AI, Web Development"
+577,Analyze and clean data,Product Manager,Medium,Managerial,High,Moderate,<1 hour,Weekly,Beginner,"Node.js, Agile, Python, React, TensorFlow",Tableau,"DevOps, Cloud Computing, Big Data"
+578,Conduct user research,Machine Learning Engineer,Low,Creative,Moderate,None,Full-day,Daily,Intermediate,"Docker, SQL, Python, Agile","Jira, VS Code","Cloud Computing, AI, Big Data"
+579,Test applications end-to-end,Data Scientist,Medium,Technical,Moderate,Low,Full-day,Daily,Advanced,"SQL, TensorFlow, React, Git, JavaScript",Slack,Web Development
+580,Conduct user research,DevOps Engineer,Low,Technical,Moderate,None,<1 hour,Occasionally,Beginner,"Python, React","MongoDB, Postman",DevOps
+581,Design wireframes and prototypes,Backend Developer,High,Technical,Low,Moderate,Full-day,Weekly,Intermediate,"JavaScript, Git, React, Node.js, TensorFlow","Tableau, Jira, MongoDB",Big Data
+582,Conduct user research,Product Manager,Low,Managerial,Low,High,<1 hour,Weekly,Intermediate,"Agile, JavaScript, Python","MySQL, VS Code","DevOps, Big Data"
+583,Conduct user research,Data Scientist,Low,Creative,High,Low,Half-day,Occasionally,Intermediate,"Node.js, Agile, SQL, Docker","MongoDB, Jira, Slack","AI, Cloud Computing"
+584,Optimize algorithms,Full Stack Developer,Medium,Managerial,Moderate,High,<1 hour,Weekly,Intermediate,"TensorFlow, JavaScript","MongoDB, Postman","Big Data, DevOps, AI"
+585,Write and execute test cases,QA Engineer,High,Managerial,Low,None,Half-day,Occasionally,Beginner,"React, Docker",Tableau,"Cloud Computing, Web Development"
+586,Build predictive models,DevOps Engineer,Low,Managerial,Low,Low,Full-day,Weekly,Intermediate,"TensorFlow, SQL","Postman, MongoDB, VS Code","Web Development, Cloud Computing, Big Data"
+587,Train and fine-tune models,Machine Learning Engineer,Low,Creative,Low,Low,Half-day,Weekly,Advanced,"SQL, TensorFlow, Python","AWS, Jira","Cloud Computing, AI"
+588,Conduct user research,Software Engineer,Medium,Managerial,Moderate,High,Full-day,Monthly,Intermediate,"React, Python, TensorFlow, JavaScript",MongoDB,"Cloud Computing, Web Development, DevOps"
+589,Test applications end-to-end,QA Engineer,Medium,Technical,Low,Moderate,<1 hour,Occasionally,Beginner,"Git, Docker, Agile, JavaScript, TensorFlow","Tableau, AWS, MongoDB","Cloud Computing, Big Data, Web Development"
+590,Automate infrastructure,UI/UX Designer,Low,Creative,High,High,Full-day,Occasionally,Beginner,"JavaScript, Docker, Node.js",Slack,"AI, Cloud Computing"
+591,Develop user interfaces,Frontend Developer,Low,Creative,Low,High,Half-day,Daily,Beginner,"Git, TensorFlow","VS Code, AWS, MongoDB","Web Development, DevOps, AI"
+592,Perform code reviews,DevOps Engineer,Medium,Creative,High,None,<1 hour,Occasionally,Beginner,"Agile, TensorFlow, JavaScript, SQL","Postman, Jira, MySQL",Web Development
+593,Design APIs,UI/UX Designer,Low,Technical,Low,High,<1 hour,Monthly,Beginner,"Python, TensorFlow, Git, Docker","MySQL, Postman",Web Development
+594,Design wireframes and prototypes,Machine Learning Engineer,High,Managerial,Low,High,<1 hour,Daily,Advanced,"JavaScript, TensorFlow, Python","MongoDB, Tableau","Web Development, Big Data"
+595,Write and debug code,QA Engineer,Low,Managerial,Moderate,High,Full-day,Monthly,Advanced,"Docker, Git, SQL, React, Agile",VS Code,"Big Data, AI"
+596,Automate infrastructure,Software Engineer,Medium,Managerial,High,None,<1 hour,Monthly,Advanced,"SQL, Agile, Node.js",Tableau,Web Development
+597,Train and fine-tune models,Data Scientist,Low,Creative,Low,High,1-3 hours,Occasionally,Beginner,"TensorFlow, Agile, Git, React, Node.js","AWS, Jira",DevOps
+598,Train and fine-tune models,Software Engineer,High,Technical,High,Moderate,Half-day,Weekly,Advanced,"Docker, Agile, Node.js, Git",Jira,Cloud Computing
+599,Define product roadmaps,Frontend Developer,Medium,Technical,Low,None,Full-day,Daily,Intermediate,"Agile, Docker, Node.js, JavaScript, Git",Slack,"DevOps, Cloud Computing"
+600,Analyze and clean data,Full Stack Developer,Medium,Creative,Moderate,Low,<1 hour,Weekly,Advanced,"Node.js, Agile, Git, React, Python",Tableau,"Cloud Computing, Big Data"
+601,Train and fine-tune models,Backend Developer,High,Creative,High,Low,Full-day,Occasionally,Intermediate,"Node.js, TensorFlow, Git, Docker, SQL","Tableau, Postman, VS Code",AI
+602,Conduct user research,Backend Developer,Medium,Managerial,High,Moderate,1-3 hours,Occasionally,Beginner,"JavaScript, TensorFlow, Git, SQL","Slack, Jira, MySQL",Cloud Computing
+603,Write and debug code,UI/UX Designer,High,Managerial,Low,None,1-3 hours,Monthly,Beginner,"SQL, Python, Agile, Node.js","Postman, MongoDB, AWS",Cloud Computing
+604,Test applications end-to-end,DevOps Engineer,Low,Creative,Low,High,1-3 hours,Weekly,Beginner,"Docker, React, SQL","MySQL, Postman, Tableau","Cloud Computing, Web Development"
+605,Analyze and clean data,Full Stack Developer,High,Managerial,Moderate,High,1-3 hours,Daily,Beginner,"SQL, Docker, Python","Postman, Tableau, MongoDB","AI, Big Data, DevOps"
+606,Perform code reviews,QA Engineer,High,Creative,High,Low,1-3 hours,Weekly,Intermediate,"SQL, Docker, React, Python, Agile","Jira, MySQL, Tableau","Cloud Computing, Web Development"
+607,Write and execute test cases,Product Manager,High,Technical,Low,High,1-3 hours,Daily,Beginner,"Agile, React, Git","Tableau, Slack",AI
+608,Build predictive models,Full Stack Developer,Medium,Managerial,Moderate,High,Half-day,Weekly,Advanced,"SQL, TensorFlow","Slack, Tableau, VS Code",Web Development
+609,Develop user interfaces,Machine Learning Engineer,Medium,Technical,Low,Low,<1 hour,Weekly,Beginner,"JavaScript, Agile, Docker, React","MySQL, Postman, MongoDB","AI, Big Data, Cloud Computing"
+610,Build predictive models,Full Stack Developer,Medium,Managerial,Moderate,None,Half-day,Weekly,Advanced,"JavaScript, Git, React, Agile, Docker","VS Code, MySQL, Jira","Cloud Computing, AI, DevOps"
+611,Build predictive models,Product Manager,Medium,Technical,High,High,Full-day,Monthly,Intermediate,"Python, Docker, React, Git, JavaScript",VS Code,"Big Data, Cloud Computing"
+612,Test applications end-to-end,Data Scientist,High,Managerial,Moderate,Moderate,<1 hour,Occasionally,Beginner,"SQL, Git, React, Agile","MongoDB, Slack, Jira",Web Development
+613,Define product roadmaps,Data Scientist,High,Managerial,Low,Moderate,Full-day,Daily,Advanced,"Git, React, Python, JavaScript, SQL","AWS, Tableau","Big Data, DevOps"
+614,Analyze and clean data,Full Stack Developer,High,Creative,Low,None,Half-day,Occasionally,Beginner,"Node.js, Docker, SQL, Git","Postman, MongoDB, AWS",AI
+615,Define product roadmaps,DevOps Engineer,High,Managerial,Moderate,Low,<1 hour,Occasionally,Beginner,"Git, JavaScript, Docker","Jira, Postman",Big Data
+616,Analyze and clean data,Machine Learning Engineer,Medium,Managerial,Low,High,Half-day,Occasionally,Intermediate,"Git, Docker","MySQL, AWS, VS Code","Web Development, Cloud Computing, AI"
+617,Train and fine-tune models,QA Engineer,Low,Creative,Moderate,Low,Half-day,Occasionally,Intermediate,"Agile, Python, JavaScript, TensorFlow",AWS,"AI, DevOps"
+618,Analyze and clean data,Data Scientist,Low,Creative,Low,None,Full-day,Monthly,Beginner,"Python, Agile","AWS, MongoDB",AI
+619,Write and execute test cases,Product Manager,Medium,Managerial,Moderate,Low,Full-day,Weekly,Advanced,"Git, TensorFlow, React, JavaScript","AWS, Tableau, VS Code",AI
+620,Perform code reviews,Software Engineer,Low,Creative,Low,Moderate,1-3 hours,Daily,Advanced,"SQL, Docker, React, TensorFlow",Tableau,DevOps
+621,Write and debug code,UI/UX Designer,High,Managerial,High,High,<1 hour,Daily,Advanced,"JavaScript, Node.js, Agile",VS Code,Cloud Computing
+622,Test applications end-to-end,UI/UX Designer,Low,Managerial,Moderate,None,1-3 hours,Weekly,Advanced,"JavaScript, Git, Agile, TensorFlow, Node.js","AWS, Slack",Big Data
+623,Write and debug code,DevOps Engineer,Low,Creative,Low,Low,Half-day,Daily,Beginner,"TensorFlow, Python, SQL, Git, JavaScript","AWS, VS Code, Postman","DevOps, AI"
+624,Analyze and clean data,Product Manager,Medium,Managerial,High,Moderate,<1 hour,Weekly,Beginner,"SQL, Node.js, Python, TensorFlow","MongoDB, Jira, Postman","DevOps, Web Development"
+625,Optimize algorithms,Frontend Developer,Low,Managerial,Moderate,Moderate,Half-day,Monthly,Advanced,"Python, React, Git, Docker","Jira, MySQL","Cloud Computing, DevOps"
+626,Write and execute test cases,Backend Developer,Medium,Creative,High,None,Full-day,Daily,Advanced,"TensorFlow, Node.js, SQL, React, Docker",Slack,DevOps
+627,Write and debug code,DevOps Engineer,High,Technical,Low,High,Full-day,Occasionally,Intermediate,"JavaScript, TensorFlow, Docker, Node.js","Slack, MySQL, AWS","DevOps, AI, Cloud Computing"
+628,Conduct user research,UI/UX Designer,High,Creative,Moderate,Moderate,1-3 hours,Weekly,Advanced,"Python, JavaScript","VS Code, Postman, Jira",DevOps
+629,Write and execute test cases,Software Engineer,Medium,Technical,Moderate,Moderate,<1 hour,Monthly,Advanced,"Git, React, Python, Node.js",AWS,"Cloud Computing, Big Data"
+630,Optimize algorithms,QA Engineer,Low,Managerial,Low,Low,Half-day,Occasionally,Advanced,"JavaScript, SQL, Node.js, Agile","AWS, VS Code, Slack",DevOps
+631,Train and fine-tune models,Data Scientist,High,Creative,High,High,Full-day,Weekly,Advanced,"Node.js, Docker, Agile, Git, Python","Postman, Tableau, MySQL","AI, DevOps, Big Data"
+632,Monitor system performance,Software Engineer,Low,Managerial,Moderate,None,Full-day,Weekly,Beginner,"SQL, React, Git",MongoDB,"Cloud Computing, DevOps, Big Data"
+633,Write and debug code,Frontend Developer,Low,Technical,High,Moderate,1-3 hours,Monthly,Intermediate,"SQL, Docker, React, Agile, Node.js","Postman, Jira, MySQL",AI
+634,Analyze and clean data,Software Engineer,Medium,Managerial,Low,High,1-3 hours,Daily,Advanced,"Docker, JavaScript",Jira,"DevOps, Big Data, Web Development"
+635,Analyze and clean data,Backend Developer,Medium,Managerial,Moderate,None,1-3 hours,Weekly,Advanced,"React, Python, Agile, SQL",Postman,Cloud Computing
+636,Design wireframes and prototypes,QA Engineer,Low,Technical,Low,Moderate,<1 hour,Weekly,Intermediate,"JavaScript, Git, TensorFlow","Tableau, Postman, MongoDB",Cloud Computing
+637,Develop user interfaces,Data Scientist,Low,Creative,Low,High,1-3 hours,Daily,Intermediate,"SQL, React, JavaScript",MongoDB,"DevOps, Big Data, AI"
+638,Write and execute test cases,QA Engineer,Low,Managerial,Low,Moderate,Full-day,Monthly,Intermediate,"React, SQL, Docker, JavaScript","Jira, MySQL","Web Development, Big Data"
+639,Monitor system performance,Frontend Developer,Medium,Technical,Moderate,Moderate,1-3 hours,Occasionally,Advanced,"React, Python","Tableau, Jira",Cloud Computing
+640,Conduct user research,Machine Learning Engineer,High,Technical,Low,Low,<1 hour,Occasionally,Beginner,"Git, SQL, TensorFlow, Agile, Python",Tableau,"Cloud Computing, AI"
+641,Design wireframes and prototypes,Product Manager,High,Creative,Moderate,Moderate,1-3 hours,Daily,Advanced,"Agile, JavaScript, Python",AWS,"Cloud Computing, AI"
+642,Test applications end-to-end,QA Engineer,Medium,Creative,Low,High,Half-day,Daily,Intermediate,"Node.js, Docker, Agile, React","Postman, Jira, Tableau","Cloud Computing, Web Development, Big Data"
+643,Define product roadmaps,Backend Developer,High,Creative,High,Moderate,Half-day,Occasionally,Beginner,"Git, Python","Slack, Tableau",Big Data
+644,Manage database operations,Machine Learning Engineer,Low,Managerial,High,None,<1 hour,Weekly,Intermediate,"Node.js, React, SQL",Tableau,Web Development
+645,Train and fine-tune models,QA Engineer,Low,Managerial,Moderate,Low,<1 hour,Monthly,Intermediate,"React, Docker, JavaScript, Agile",VS Code,AI
+646,Write and execute test cases,Product Manager,High,Technical,Low,Low,Half-day,Daily,Intermediate,"Docker, Node.js, Agile, Git","AWS, Jira","AI, DevOps"
+647,Automate infrastructure,Backend Developer,Low,Managerial,Moderate,None,Half-day,Occasionally,Advanced,"SQL, Git","MongoDB, Tableau",Cloud Computing
+648,Train and fine-tune models,QA Engineer,High,Technical,High,High,<1 hour,Occasionally,Advanced,"JavaScript, SQL, Agile","AWS, MongoDB, Jira",Big Data
+649,Manage database operations,Data Scientist,High,Technical,Moderate,None,Full-day,Daily,Advanced,"Python, Node.js, TensorFlow",VS Code,Cloud Computing
+650,Manage database operations,Backend Developer,Medium,Creative,High,None,1-3 hours,Occasionally,Intermediate,"SQL, Agile, React, Git, Docker","Slack, MySQL","Big Data, AI"
+651,Define product roadmaps,Frontend Developer,Low,Creative,Moderate,None,Half-day,Weekly,Beginner,"SQL, JavaScript, Git, Agile, React",MongoDB,"Big Data, Cloud Computing"
+652,Design wireframes and prototypes,Product Manager,Medium,Technical,High,Low,Full-day,Daily,Advanced,"Git, Agile, React, Docker, Node.js","VS Code, Slack, Jira","DevOps, Cloud Computing, AI"
+653,Write and debug code,Software Engineer,High,Technical,Moderate,None,Full-day,Weekly,Advanced,"TensorFlow, Git","Jira, Tableau, VS Code","Big Data, AI"
+654,Write and debug code,DevOps Engineer,Low,Managerial,Low,None,<1 hour,Occasionally,Beginner,"Python, JavaScript, Docker, React, Agile",Tableau,"Cloud Computing, Web Development, Big Data"
+655,Write and execute test cases,Product Manager,Medium,Creative,Low,Moderate,Half-day,Weekly,Advanced,"Agile, SQL","MongoDB, Postman","AI, DevOps"
+656,Develop user interfaces,QA Engineer,Low,Creative,Low,Low,1-3 hours,Monthly,Beginner,"Agile, Docker","MySQL, Postman","Big Data, Web Development"
+657,Design wireframes and prototypes,Backend Developer,High,Creative,Moderate,High,<1 hour,Weekly,Advanced,"Python, TensorFlow, Git",Jira,"Web Development, DevOps, Big Data"
+658,Manage database operations,Product Manager,Low,Managerial,Moderate,Moderate,1-3 hours,Monthly,Beginner,"JavaScript, React, Docker","Slack, MySQL",Cloud Computing
+659,Conduct user research,Data Scientist,Medium,Technical,High,Low,Full-day,Occasionally,Intermediate,"SQL, TensorFlow","Slack, AWS, Postman",Cloud Computing
+660,Optimize algorithms,Frontend Developer,High,Managerial,Moderate,Low,Half-day,Weekly,Intermediate,"Agile, TensorFlow, React","MySQL, MongoDB, VS Code","Big Data, Web Development, DevOps"
+661,Analyze and clean data,Full Stack Developer,High,Managerial,High,None,<1 hour,Monthly,Advanced,"TensorFlow, Git","Postman, VS Code, AWS",Web Development
+662,Train and fine-tune models,DevOps Engineer,Medium,Creative,High,None,Half-day,Weekly,Intermediate,"SQL, Agile, Node.js",AWS,"DevOps, Cloud Computing, Big Data"
+663,Build predictive models,DevOps Engineer,Low,Technical,Moderate,Moderate,Half-day,Occasionally,Advanced,"Python, Docker","Tableau, Postman",DevOps
+664,Manage database operations,Machine Learning Engineer,Medium,Creative,Low,Low,Full-day,Daily,Intermediate,"React, Docker, Python","MySQL, Jira, Tableau","Cloud Computing, DevOps, Big Data"
+665,Write and execute test cases,Frontend Developer,Medium,Creative,Low,High,Half-day,Monthly,Beginner,"TensorFlow, Git, Node.js","AWS, Slack",Big Data
+666,Write and execute test cases,Product Manager,Low,Creative,High,High,Half-day,Occasionally,Beginner,"SQL, Docker, JavaScript, Agile, Node.js",AWS,"Web Development, DevOps, Big Data"
+667,Design APIs,Product Manager,Low,Technical,Moderate,None,1-3 hours,Monthly,Advanced,"Agile, SQL",AWS,"Big Data, Cloud Computing, Web Development"
+668,Develop user interfaces,Full Stack Developer,Low,Creative,High,High,<1 hour,Monthly,Beginner,"Docker, TensorFlow, Git, Python",AWS,"Big Data, Cloud Computing, DevOps"
+669,Manage database operations,Software Engineer,Medium,Managerial,Low,High,1-3 hours,Weekly,Beginner,"Git, Docker, Node.js",MongoDB,AI
+670,Define product roadmaps,Frontend Developer,Low,Creative,Moderate,High,<1 hour,Weekly,Intermediate,"Git, TensorFlow, React, JavaScript","AWS, VS Code, Tableau",Cloud Computing
+671,Develop user interfaces,Backend Developer,High,Technical,Moderate,Moderate,<1 hour,Weekly,Advanced,"React, JavaScript","Tableau, AWS, MySQL","AI, DevOps, Big Data"
+672,Analyze and clean data,Full Stack Developer,High,Managerial,Low,Moderate,Half-day,Weekly,Beginner,"TensorFlow, Docker, SQL, JavaScript",MySQL,"Big Data, DevOps"
+673,Automate infrastructure,Full Stack Developer,Low,Managerial,Low,Low,<1 hour,Occasionally,Intermediate,"Node.js, React","Tableau, VS Code, Slack",Cloud Computing
+674,Manage database operations,QA Engineer,Low,Managerial,High,Low,Full-day,Occasionally,Beginner,"JavaScript, Agile, Docker, Python, TensorFlow",Postman,DevOps
+675,Design APIs,Product Manager,Low,Creative,High,None,Full-day,Occasionally,Intermediate,"Python, Agile, Docker","VS Code, Jira, Tableau",AI
+676,Write and debug code,UI/UX Designer,High,Technical,High,Low,<1 hour,Occasionally,Beginner,"Git, Agile, React","Jira, VS Code, AWS","Cloud Computing, AI"
+677,Manage database operations,Data Scientist,High,Creative,Moderate,High,1-3 hours,Weekly,Advanced,"SQL, React, Git",VS Code,"AI, Cloud Computing, Web Development"
+678,Manage database operations,Product Manager,Medium,Creative,Moderate,High,Half-day,Weekly,Intermediate,"JavaScript, Docker","Jira, Slack, Postman","AI, Cloud Computing"
+679,Conduct user research,UI/UX Designer,Medium,Technical,High,Moderate,Full-day,Occasionally,Beginner,"Docker, Agile, TensorFlow","VS Code, MongoDB","AI, Cloud Computing, Web Development"
+680,Design APIs,Backend Developer,High,Technical,High,High,Full-day,Monthly,Beginner,"Docker, Python, Agile, React, TensorFlow","MongoDB, VS Code, Postman",Web Development
+681,Define product roadmaps,DevOps Engineer,High,Creative,Moderate,Low,<1 hour,Daily,Advanced,"Docker, Python, SQL, Agile, Node.js",VS Code,"Web Development, DevOps, AI"
+682,Conduct user research,Software Engineer,High,Creative,Moderate,Low,Half-day,Monthly,Advanced,"SQL, Docker, Node.js, Git, Agile",VS Code,Big Data
+683,Develop user interfaces,DevOps Engineer,Medium,Technical,Low,None,Half-day,Occasionally,Advanced,"SQL, Python, Agile","MySQL, MongoDB",DevOps
+684,Perform code reviews,Machine Learning Engineer,Medium,Creative,High,None,1-3 hours,Occasionally,Intermediate,"Python, React, Git, Node.js",MySQL,"Big Data, DevOps, Cloud Computing"
+685,Design APIs,Backend Developer,High,Creative,High,High,Full-day,Monthly,Advanced,"JavaScript, Python, Docker, Git, SQL","Slack, Jira, MySQL","AI, Cloud Computing"
+686,Design wireframes and prototypes,DevOps Engineer,Low,Managerial,Low,Moderate,<1 hour,Monthly,Advanced,"Node.js, TensorFlow, Python","MySQL, VS Code","Web Development, AI"
+687,Optimize algorithms,Data Scientist,High,Managerial,Low,None,Half-day,Occasionally,Advanced,"Node.js, React, TensorFlow, SQL, Python",Slack,DevOps
+688,Monitor system performance,Software Engineer,Low,Creative,Low,None,1-3 hours,Occasionally,Intermediate,"Docker, SQL, Python, Agile","Slack, MongoDB, Tableau",DevOps
+689,Design wireframes and prototypes,DevOps Engineer,High,Technical,Low,Low,1-3 hours,Weekly,Intermediate,"Docker, Python, Agile, Node.js, JavaScript",VS Code,Cloud Computing
+690,Optimize algorithms,Product Manager,Medium,Technical,Moderate,None,Half-day,Daily,Beginner,"Node.js, JavaScript",VS Code,"DevOps, AI"
+691,Design APIs,DevOps Engineer,Low,Creative,High,Moderate,Full-day,Monthly,Advanced,"React, Node.js, Docker, Agile, TensorFlow",Postman,AI
+692,Manage database operations,Frontend Developer,High,Technical,Moderate,Moderate,Half-day,Occasionally,Intermediate,"SQL, Git, TensorFlow","Slack, VS Code, Jira",DevOps
+693,Perform code reviews,Product Manager,Low,Technical,High,Moderate,Half-day,Occasionally,Advanced,"JavaScript, SQL, TensorFlow",VS Code,"Cloud Computing, Web Development"
+694,Optimize algorithms,UI/UX Designer,High,Managerial,Moderate,Low,Half-day,Monthly,Intermediate,"React, Docker, SQL","Slack, Postman",Cloud Computing
+695,Test applications end-to-end,Data Scientist,Medium,Technical,High,Low,Half-day,Occasionally,Beginner,"JavaScript, React",Postman,"AI, DevOps"
+696,Develop user interfaces,Machine Learning Engineer,Low,Creative,Moderate,High,1-3 hours,Weekly,Advanced,"JavaScript, TensorFlow, React, Agile, SQL",VS Code,"Web Development, AI"
+697,Develop user interfaces,Frontend Developer,Low,Creative,Moderate,High,1-3 hours,Monthly,Intermediate,"Agile, TensorFlow","Slack, Jira, VS Code","Web Development, Cloud Computing"
+698,Define product roadmaps,Machine Learning Engineer,Low,Technical,Moderate,None,Half-day,Weekly,Intermediate,"Python, Docker, SQL","MySQL, Slack","AI, Cloud Computing"
+699,Design wireframes and prototypes,Software Engineer,Low,Managerial,Low,None,Full-day,Daily,Beginner,"Node.js, Python, React, Agile, Git","AWS, Tableau, VS Code",DevOps
+700,Build predictive models,QA Engineer,High,Technical,Low,High,1-3 hours,Daily,Beginner,"JavaScript, React",Jira,"Web Development, AI, Big Data"
+701,Write and debug code,Frontend Developer,Low,Creative,Moderate,Moderate,<1 hour,Weekly,Advanced,"Python, SQL, Docker",AWS,"Big Data, Web Development"
+702,Define product roadmaps,Full Stack Developer,Low,Managerial,High,High,<1 hour,Weekly,Beginner,"React, SQL, Python, Docker, TensorFlow","AWS, Slack, MySQL",AI
+703,Automate infrastructure,Machine Learning Engineer,High,Managerial,Moderate,Moderate,Full-day,Weekly,Intermediate,"React, Agile, JavaScript, SQL, TensorFlow","Slack, MongoDB, VS Code","Big Data, AI, Cloud Computing"
+704,Manage database operations,Software Engineer,Low,Creative,High,Low,1-3 hours,Monthly,Advanced,"SQL, Python","MySQL, Slack, Jira","Cloud Computing, Big Data"
+705,Build predictive models,Full Stack Developer,Medium,Creative,Moderate,Moderate,Full-day,Monthly,Advanced,"Git, SQL, Node.js, Python",AWS,Web Development
+706,Optimize algorithms,Frontend Developer,High,Creative,High,None,Full-day,Daily,Intermediate,"Node.js, Docker, Git, SQL",Tableau,"Big Data, Web Development, Cloud Computing"
+707,Analyze and clean data,Machine Learning Engineer,Medium,Creative,Low,Moderate,<1 hour,Weekly,Beginner,"Python, JavaScript, TensorFlow, Git, SQL","MySQL, Postman, AWS","Big Data, Cloud Computing"
+708,Automate infrastructure,Software Engineer,Medium,Creative,Moderate,High,Full-day,Monthly,Beginner,"TensorFlow, SQL, Git, Agile",Slack,Big Data
+709,Develop user interfaces,Frontend Developer,High,Creative,High,Moderate,Half-day,Weekly,Beginner,"Git, Docker, React, Node.js","Postman, Jira, MongoDB",AI
+710,Manage database operations,Product Manager,Medium,Managerial,Low,Low,1-3 hours,Weekly,Intermediate,"TensorFlow, React, Node.js, Agile","Jira, AWS, Slack",Cloud Computing
+711,Automate infrastructure,Frontend Developer,Medium,Managerial,Low,Moderate,<1 hour,Weekly,Advanced,"TensorFlow, Git, React","MongoDB, Jira",DevOps
+712,Perform code reviews,Frontend Developer,Medium,Managerial,Moderate,None,Half-day,Daily,Advanced,"React, Node.js, SQL, Python, Git","Postman, MySQL","AI, Big Data, Cloud Computing"
+713,Write and execute test cases,DevOps Engineer,High,Managerial,Low,None,<1 hour,Occasionally,Beginner,"Node.js, JavaScript, React",Postman,"AI, Big Data, DevOps"
+714,Write and execute test cases,Machine Learning Engineer,High,Creative,Moderate,Low,Half-day,Occasionally,Intermediate,"JavaScript, React","MySQL, Slack, Postman",Web Development
+715,Build predictive models,Frontend Developer,Low,Creative,High,None,Half-day,Weekly,Advanced,"Docker, Git, SQL",Postman,DevOps
+716,Design wireframes and prototypes,Backend Developer,Medium,Managerial,High,None,Half-day,Weekly,Advanced,"SQL, Node.js, Agile, React","Postman, MySQL, Slack","AI, Big Data, Cloud Computing"
+717,Write and execute test cases,Machine Learning Engineer,Low,Technical,Low,None,Half-day,Monthly,Advanced,"Docker, Node.js","MySQL, Jira","Web Development, Cloud Computing"
+718,Develop user interfaces,Product Manager,Medium,Creative,Low,High,Half-day,Daily,Intermediate,"Agile, Git, Python, Node.js",Jira,Cloud Computing
+719,Develop user interfaces,Machine Learning Engineer,Medium,Creative,High,Moderate,Full-day,Daily,Intermediate,"TensorFlow, React, Python","Jira, AWS","DevOps, Web Development"
+720,Write and execute test cases,Frontend Developer,Low,Managerial,Moderate,Moderate,Full-day,Weekly,Intermediate,"JavaScript, Agile, Docker, SQL",Slack,"AI, Cloud Computing"
+721,Train and fine-tune models,Frontend Developer,Low,Managerial,Moderate,High,Full-day,Daily,Advanced,"React, Docker, SQL, Python, Node.js",Jira,"Web Development, DevOps, Big Data"
+722,Manage database operations,Full Stack Developer,High,Managerial,High,Low,<1 hour,Monthly,Beginner,"TensorFlow, Agile, Node.js, Docker","MySQL, Tableau, Postman","Web Development, Big Data, Cloud Computing"
+723,Automate infrastructure,Data Scientist,Low,Creative,Low,Low,1-3 hours,Daily,Intermediate,"JavaScript, Git, SQL, TensorFlow","Postman, MongoDB",Big Data
+724,Train and fine-tune models,Frontend Developer,Low,Managerial,Moderate,Low,Full-day,Daily,Intermediate,"SQL, TensorFlow, Agile, Git, Node.js","MongoDB, VS Code","Web Development, AI, Cloud Computing"
+725,Monitor system performance,Frontend Developer,Low,Creative,Moderate,Low,Half-day,Occasionally,Beginner,"Git, Agile",Jira,"AI, Big Data"
+726,Monitor system performance,DevOps Engineer,Medium,Technical,Low,High,Half-day,Weekly,Advanced,"Git, JavaScript","VS Code, Slack, Tableau",AI
+727,Conduct user research,Full Stack Developer,High,Managerial,High,Low,1-3 hours,Weekly,Intermediate,"Docker, Agile, JavaScript, TensorFlow",Jira,"Web Development, Big Data"
+728,Optimize algorithms,Machine Learning Engineer,Medium,Creative,Low,None,<1 hour,Weekly,Intermediate,"React, Node.js, JavaScript, Docker, TensorFlow",Tableau,Web Development
+729,Design APIs,UI/UX Designer,High,Creative,High,None,1-3 hours,Occasionally,Beginner,"TensorFlow, Docker, Git, SQL","MySQL, Slack","AI, Cloud Computing, DevOps"
+730,Analyze and clean data,Machine Learning Engineer,Low,Technical,Low,High,Full-day,Weekly,Intermediate,"Agile, TensorFlow, Git","MySQL, Postman","Big Data, AI, Web Development"
+731,Manage database operations,UI/UX Designer,Medium,Technical,Low,None,<1 hour,Occasionally,Intermediate,"TensorFlow, Git, SQL, Agile",MySQL,"Big Data, Web Development"
+732,Build predictive models,DevOps Engineer,High,Technical,High,Moderate,1-3 hours,Occasionally,Intermediate,"SQL, JavaScript, Agile, React","AWS, MySQL, VS Code","Big Data, DevOps, AI"
+733,Design wireframes and prototypes,QA Engineer,High,Managerial,Low,High,<1 hour,Monthly,Beginner,"Git, TensorFlow",Postman,Cloud Computing
+734,Analyze and clean data,QA Engineer,Low,Managerial,Low,None,Half-day,Occasionally,Beginner,"TensorFlow, Node.js, Python, Agile, JavaScript",Tableau,"AI, DevOps, Web Development"
+735,Write and debug code,UI/UX Designer,Low,Technical,Moderate,Low,1-3 hours,Occasionally,Beginner,"Git, Python",MongoDB,"Cloud Computing, Big Data, AI"
+736,Build predictive models,UI/UX Designer,Medium,Technical,High,Moderate,1-3 hours,Monthly,Advanced,"TensorFlow, JavaScript, Git, React","Slack, MongoDB","DevOps, Big Data, AI"
+737,Design APIs,Backend Developer,Low,Creative,Low,Low,<1 hour,Occasionally,Advanced,"JavaScript, React, Agile, Node.js, TensorFlow","AWS, VS Code, MySQL","AI, DevOps, Cloud Computing"
+738,Manage database operations,QA Engineer,High,Managerial,Low,Moderate,Full-day,Weekly,Intermediate,"Agile, JavaScript","Tableau, Slack, AWS","AI, Big Data"
+739,Write and execute test cases,DevOps Engineer,Medium,Technical,High,Low,Half-day,Monthly,Intermediate,"TensorFlow, React, Node.js, Git, Docker","AWS, Postman","DevOps, Big Data, Cloud Computing"
+740,Define product roadmaps,Full Stack Developer,Low,Creative,Moderate,High,1-3 hours,Monthly,Intermediate,"SQL, Python","Postman, AWS, Jira",Web Development
+741,Automate infrastructure,Product Manager,Medium,Technical,Moderate,High,Full-day,Weekly,Beginner,"Docker, Node.js","Tableau, MySQL","AI, Web Development, Cloud Computing"
+742,Perform code reviews,Product Manager,Low,Managerial,Low,High,<1 hour,Occasionally,Intermediate,"Node.js, TensorFlow, JavaScript, SQL","MySQL, Postman","Big Data, AI, DevOps"
+743,Design wireframes and prototypes,Data Scientist,High,Managerial,Moderate,High,<1 hour,Daily,Intermediate,"Docker, JavaScript, Node.js","Jira, Postman, VS Code","Cloud Computing, Big Data"
+744,Develop user interfaces,Machine Learning Engineer,Medium,Technical,Moderate,None,Half-day,Monthly,Intermediate,"SQL, JavaScript, Node.js, Python","Tableau, VS Code, Postman",Cloud Computing
+745,Write and debug code,UI/UX Designer,High,Creative,Low,High,Full-day,Daily,Advanced,"Docker, TensorFlow, Node.js","AWS, VS Code","AI, DevOps, Web Development"
+746,Build predictive models,UI/UX Designer,High,Creative,Moderate,None,<1 hour,Monthly,Beginner,"TensorFlow, Node.js, React, JavaScript, Python","Jira, Slack","Cloud Computing, Web Development"
+747,Perform code reviews,Machine Learning Engineer,High,Managerial,Low,High,<1 hour,Occasionally,Advanced,"SQL, Agile, TensorFlow",AWS,Web Development
+748,Test applications end-to-end,DevOps Engineer,Low,Managerial,Moderate,Low,1-3 hours,Occasionally,Intermediate,"Agile, Python, Node.js","VS Code, Postman, Slack",Cloud Computing
+749,Perform code reviews,Frontend Developer,Medium,Managerial,Moderate,High,Full-day,Occasionally,Intermediate,"Python, Git",Postman,"Web Development, Big Data, AI"
+750,Define product roadmaps,Data Scientist,Low,Technical,High,Low,Half-day,Occasionally,Beginner,"Docker, Node.js","Postman, Jira","Cloud Computing, Web Development, Big Data"
+751,Define product roadmaps,QA Engineer,High,Managerial,Moderate,Moderate,1-3 hours,Monthly,Beginner,"Git, JavaScript, SQL, Node.js, Docker","AWS, Postman","Web Development, Big Data"
+752,Manage database operations,Backend Developer,High,Technical,Moderate,None,Half-day,Weekly,Advanced,"Git, JavaScript, Node.js, Docker, TensorFlow",MySQL,AI
+753,Define product roadmaps,QA Engineer,High,Managerial,Moderate,High,1-3 hours,Daily,Beginner,"Agile, React, Node.js, SQL, JavaScript","MySQL, AWS","Big Data, Web Development, Cloud Computing"
+754,Automate infrastructure,Machine Learning Engineer,Low,Technical,Low,Moderate,Full-day,Weekly,Advanced,"Python, SQL, TensorFlow, Git","Tableau, Jira","Cloud Computing, AI"
+755,Define product roadmaps,UI/UX Designer,High,Creative,Low,Low,<1 hour,Occasionally,Advanced,"Docker, Agile, Python, SQL","AWS, MongoDB, Tableau","Big Data, Cloud Computing"
+756,Design wireframes and prototypes,Frontend Developer,Low,Creative,High,None,<1 hour,Daily,Intermediate,"JavaScript, Agile, Python, Docker, Node.js","Jira, Tableau","DevOps, Big Data"
+757,Manage database operations,Software Engineer,Low,Creative,High,High,Half-day,Weekly,Advanced,"Python, Docker","Postman, Slack",Big Data
+758,Write and execute test cases,Full Stack Developer,High,Managerial,Low,None,<1 hour,Occasionally,Beginner,"Docker, Node.js","MongoDB, AWS, VS Code",Big Data
+759,Automate infrastructure,Full Stack Developer,Low,Technical,Low,Low,Half-day,Daily,Intermediate,"Git, Docker, React, JavaScript, TensorFlow","Jira, Slack","AI, DevOps"
+760,Define product roadmaps,Frontend Developer,Medium,Creative,High,None,1-3 hours,Weekly,Intermediate,"Node.js, TensorFlow, SQL, Git","MongoDB, Tableau","Big Data, AI, Web Development"
+761,Monitor system performance,Machine Learning Engineer,High,Technical,High,High,Half-day,Daily,Intermediate,"Node.js, React, SQL, Git, Docker","MongoDB, Jira","Cloud Computing, AI"
+762,Design APIs,Frontend Developer,Low,Technical,Moderate,Moderate,Half-day,Weekly,Advanced,"Python, TensorFlow, SQL","MySQL, Jira","Big Data, Cloud Computing, DevOps"
+763,Analyze and clean data,Product Manager,Low,Managerial,High,None,Full-day,Daily,Intermediate,"Docker, Agile",Tableau,Big Data
+764,Manage database operations,Backend Developer,Medium,Managerial,High,High,1-3 hours,Monthly,Beginner,"Node.js, React, TensorFlow",VS Code,"Big Data, AI"
+765,Write and execute test cases,Product Manager,Medium,Technical,Moderate,None,1-3 hours,Occasionally,Beginner,"Git, JavaScript",MongoDB,"AI, DevOps"
+766,Conduct user research,Backend Developer,Medium,Technical,Low,Moderate,Half-day,Weekly,Beginner,"Git, Node.js, JavaScript, SQL, TensorFlow","VS Code, MySQL","DevOps, Web Development"
+767,Test applications end-to-end,Software Engineer,Medium,Creative,High,Low,1-3 hours,Daily,Intermediate,"Git, TensorFlow",MySQL,"Web Development, Big Data, Cloud Computing"
+768,Build predictive models,Machine Learning Engineer,High,Technical,High,None,1-3 hours,Monthly,Beginner,"Agile, React, Node.js, SQL","VS Code, Postman, Slack",DevOps
+769,Analyze and clean data,Frontend Developer,High,Creative,Low,None,<1 hour,Weekly,Intermediate,"Git, Agile, Node.js",Jira,"AI, Big Data"
+770,Write and debug code,Backend Developer,Low,Technical,Moderate,None,Half-day,Daily,Intermediate,"React, Docker, Python, Agile",MySQL,"AI, Web Development, Big Data"
+771,Design APIs,Machine Learning Engineer,High,Technical,Moderate,High,<1 hour,Daily,Intermediate,"Agile, Node.js, React, TensorFlow, Python","Postman, Tableau, AWS",Big Data
+772,Perform code reviews,Software Engineer,High,Technical,Moderate,High,1-3 hours,Weekly,Beginner,"React, Agile","AWS, MongoDB",Web Development
+773,Write and debug code,Product Manager,Low,Managerial,Moderate,Moderate,<1 hour,Occasionally,Beginner,"Agile, Node.js",MySQL,"Web Development, AI, Cloud Computing"
+774,Write and execute test cases,Machine Learning Engineer,High,Technical,Moderate,High,1-3 hours,Weekly,Advanced,"Python, TensorFlow, React",MySQL,AI
+775,Optimize algorithms,UI/UX Designer,Medium,Creative,High,High,Half-day,Occasionally,Advanced,"SQL, Agile, React, TensorFlow",Slack,Big Data
+776,Test applications end-to-end,Product Manager,Low,Creative,Moderate,Low,Half-day,Occasionally,Beginner,"Git, Agile, Python, JavaScript","Postman, VS Code, MongoDB","Cloud Computing, AI, Big Data"
+777,Monitor system performance,DevOps Engineer,High,Technical,Low,Low,Full-day,Monthly,Advanced,"Python, JavaScript","MySQL, Jira, Postman",Big Data
+778,Design APIs,UI/UX Designer,High,Creative,Low,High,<1 hour,Daily,Intermediate,"SQL, React, JavaScript",VS Code,"DevOps, AI, Big Data"
+779,Monitor system performance,Machine Learning Engineer,Medium,Managerial,Low,High,Half-day,Daily,Beginner,"SQL, Python",Slack,"Web Development, AI, DevOps"
+780,Manage database operations,Product Manager,High,Creative,Low,High,1-3 hours,Monthly,Beginner,"Node.js, Python, Agile, SQL, Git","VS Code, Slack","Cloud Computing, DevOps"
+781,Monitor system performance,Full Stack Developer,Medium,Managerial,High,Low,1-3 hours,Weekly,Advanced,"Agile, JavaScript, Git",MongoDB,Web Development
+782,Conduct user research,Backend Developer,Low,Technical,Moderate,None,1-3 hours,Weekly,Intermediate,"JavaScript, Git, React, Node.js","Tableau, AWS","Cloud Computing, Web Development"
+783,Monitor system performance,Full Stack Developer,Medium,Creative,Low,Moderate,Full-day,Monthly,Intermediate,"TensorFlow, Git, Agile, Node.js, Python",AWS,"Web Development, Big Data, Cloud Computing"
+784,Perform code reviews,Frontend Developer,High,Managerial,Moderate,Low,Full-day,Monthly,Advanced,"TensorFlow, Docker","AWS, Jira, MySQL",Web Development
+785,Conduct user research,Machine Learning Engineer,Medium,Creative,High,Low,Half-day,Monthly,Beginner,"React, Agile, Python","VS Code, Postman, Jira",Cloud Computing
+786,Develop user interfaces,Backend Developer,Low,Technical,Moderate,None,Full-day,Monthly,Advanced,"React, Docker, JavaScript, TensorFlow","Tableau, MySQL, AWS","DevOps, Cloud Computing"
+787,Define product roadmaps,Software Engineer,High,Managerial,Moderate,Low,Full-day,Daily,Beginner,"Agile, TensorFlow, React, JavaScript, Git","VS Code, Tableau, Jira",DevOps
+788,Conduct user research,Machine Learning Engineer,High,Managerial,High,Low,1-3 hours,Daily,Advanced,"Git, React, Docker, SQL","Tableau, MongoDB",DevOps
+789,Conduct user research,Data Scientist,Medium,Technical,Moderate,Moderate,Full-day,Weekly,Beginner,"Python, Docker, Git, SQL, JavaScript",Jira,"Web Development, AI"
+790,Manage database operations,DevOps Engineer,High,Managerial,Low,Moderate,<1 hour,Occasionally,Advanced,"SQL, Agile, Git, TensorFlow, Node.js","AWS, Tableau","Web Development, AI"
+791,Design wireframes and prototypes,Frontend Developer,Medium,Technical,Low,Moderate,Full-day,Monthly,Intermediate,"Git, TensorFlow, SQL, React, Agile",Slack,"DevOps, Cloud Computing"
+792,Design APIs,Full Stack Developer,Medium,Creative,High,High,1-3 hours,Weekly,Beginner,"Git, TensorFlow, Node.js, SQL",Tableau,"AI, Cloud Computing, Web Development"
+793,Manage database operations,Machine Learning Engineer,High,Technical,High,None,Full-day,Weekly,Beginner,"JavaScript, SQL, Docker, Node.js","Postman, Tableau","Big Data, DevOps"
+794,Analyze and clean data,Software Engineer,High,Creative,Low,Low,<1 hour,Monthly,Advanced,"Git, Python, SQL","MongoDB, Slack, Postman","AI, Big Data"
+795,Perform code reviews,Full Stack Developer,Medium,Creative,High,Moderate,<1 hour,Occasionally,Intermediate,"Git, Agile, Python, React, Docker","Tableau, Jira, MySQL","DevOps, AI, Big Data"
+796,Write and debug code,Data Scientist,High,Managerial,High,None,Half-day,Weekly,Beginner,"Docker, Node.js, Agile","Jira, MongoDB, AWS",Web Development
+797,Analyze and clean data,Data Scientist,Low,Creative,Moderate,Moderate,Half-day,Weekly,Beginner,"SQL, React, Node.js","AWS, Tableau, Slack","Cloud Computing, Big Data, Web Development"
+798,Design wireframes and prototypes,Backend Developer,High,Managerial,High,Moderate,1-3 hours,Daily,Intermediate,"Node.js, Git, TensorFlow, SQL","Postman, MySQL, Slack",Web Development
+799,Define product roadmaps,QA Engineer,High,Creative,High,Moderate,<1 hour,Monthly,Intermediate,"Python, React","Tableau, MongoDB, Slack","AI, Big Data, Web Development"
+800,Optimize algorithms,QA Engineer,Medium,Managerial,High,High,Half-day,Weekly,Intermediate,"Git, Docker, JavaScript, Node.js","AWS, MongoDB","Big Data, Cloud Computing"
+801,Define product roadmaps,Software Engineer,High,Technical,Moderate,Low,Full-day,Daily,Beginner,"Git, Node.js","MySQL, Jira, Tableau","Web Development, DevOps"
+802,Perform code reviews,UI/UX Designer,High,Managerial,High,Moderate,Full-day,Daily,Intermediate,"Docker, Git, Agile","MongoDB, Jira","AI, Cloud Computing, Big Data"
+803,Optimize algorithms,Product Manager,Medium,Creative,Moderate,High,Half-day,Monthly,Advanced,"Git, Agile, SQL, JavaScript","MySQL, Jira, MongoDB","AI, Cloud Computing, Web Development"
+804,Perform code reviews,UI/UX Designer,High,Technical,Low,Moderate,<1 hour,Monthly,Advanced,"Docker, SQL, Python, Node.js, TensorFlow","AWS, Tableau, MongoDB","Web Development, Big Data"
+805,Write and execute test cases,UI/UX Designer,Medium,Managerial,High,Low,Half-day,Occasionally,Intermediate,"Git, SQL, Node.js, Docker",VS Code,"DevOps, Big Data, Web Development"
+806,Develop user interfaces,Product Manager,Medium,Technical,High,High,Full-day,Monthly,Intermediate,"Git, Docker, SQL","Jira, Slack","Web Development, Cloud Computing"
+807,Build predictive models,UI/UX Designer,Medium,Technical,High,High,<1 hour,Monthly,Intermediate,"SQL, TensorFlow, Node.js, Git, Python","Jira, MongoDB","AI, Cloud Computing"
+808,Write and execute test cases,DevOps Engineer,Medium,Managerial,Low,High,Full-day,Daily,Beginner,"Agile, Python, React, JavaScript, Node.js","MySQL, Slack, Tableau","Big Data, Cloud Computing, AI"
+809,Conduct user research,Backend Developer,High,Technical,Moderate,Moderate,Full-day,Weekly,Beginner,"Node.js, TensorFlow, SQL, Git, JavaScript","Tableau, MySQL, VS Code","Web Development, Big Data, AI"
+810,Manage database operations,Frontend Developer,Low,Creative,Moderate,None,Half-day,Occasionally,Beginner,"TensorFlow, Python, Agile, Node.js","MySQL, MongoDB, VS Code",Big Data
+811,Train and fine-tune models,Data Scientist,High,Technical,Moderate,None,<1 hour,Daily,Advanced,"Python, SQL, Agile, Git, Node.js",Tableau,"Cloud Computing, AI"
+812,Design APIs,Backend Developer,High,Managerial,Moderate,Low,1-3 hours,Weekly,Advanced,"Agile, Node.js",Slack,DevOps
+813,Design APIs,Data Scientist,Medium,Managerial,Low,None,<1 hour,Monthly,Beginner,"JavaScript, Agile, TensorFlow, Git, Node.js",Slack,"DevOps, Cloud Computing"
+814,Monitor system performance,Full Stack Developer,Medium,Managerial,Moderate,High,1-3 hours,Monthly,Beginner,"Agile, JavaScript, Python, Docker, React","MySQL, AWS, Postman","Web Development, DevOps"
+815,Analyze and clean data,Backend Developer,Low,Creative,Low,High,<1 hour,Monthly,Intermediate,"SQL, Python, Agile, Git","Jira, VS Code",DevOps
+816,Automate infrastructure,Full Stack Developer,Medium,Creative,High,High,1-3 hours,Monthly,Intermediate,"React, SQL, JavaScript",MySQL,"Cloud Computing, DevOps, AI"
+817,Automate infrastructure,Backend Developer,Medium,Managerial,High,High,Half-day,Monthly,Beginner,"Node.js, Docker, Git","Jira, VS Code, MongoDB",Big Data
+818,Develop user interfaces,Full Stack Developer,High,Creative,High,Moderate,Full-day,Weekly,Advanced,"JavaScript, Agile","MySQL, Slack",Cloud Computing
+819,Automate infrastructure,Backend Developer,Medium,Technical,High,High,Full-day,Monthly,Intermediate,"Node.js, Docker, JavaScript",Slack,Cloud Computing
+820,Perform code reviews,UI/UX Designer,Medium,Creative,Moderate,Low,Full-day,Occasionally,Advanced,"React, Docker","MongoDB, VS Code","AI, Cloud Computing, Web Development"
+821,Define product roadmaps,Machine Learning Engineer,Low,Managerial,Moderate,None,1-3 hours,Weekly,Advanced,"TensorFlow, React, Node.js, Python",MongoDB,Big Data
+822,Optimize algorithms,Machine Learning Engineer,High,Managerial,Low,High,1-3 hours,Weekly,Advanced,"TensorFlow, JavaScript, Node.js, Git","Slack, Jira, AWS",Big Data
+823,Conduct user research,Data Scientist,Low,Creative,Moderate,None,1-3 hours,Daily,Intermediate,"React, SQL","AWS, VS Code, Slack",AI
+824,Monitor system performance,Backend Developer,High,Managerial,High,None,1-3 hours,Occasionally,Advanced,"TensorFlow, Node.js, Git, Python",VS Code,"Cloud Computing, AI"
+825,Automate infrastructure,Machine Learning Engineer,High,Managerial,Moderate,High,Full-day,Monthly,Intermediate,"Docker, Python, React, JavaScript, SQL","AWS, VS Code",Cloud Computing
+826,Perform code reviews,QA Engineer,Low,Managerial,High,Moderate,<1 hour,Occasionally,Intermediate,"SQL, React, Node.js, TensorFlow, Python","AWS, Jira, MySQL","DevOps, Web Development"
+827,Conduct user research,QA Engineer,Medium,Managerial,Moderate,Low,1-3 hours,Weekly,Advanced,"Docker, Agile, React, TensorFlow",Jira,"AI, Cloud Computing, Web Development"
+828,Perform code reviews,Data Scientist,Low,Managerial,High,None,<1 hour,Daily,Beginner,"TensorFlow, SQL, JavaScript, Node.js, Docker","AWS, MongoDB","Cloud Computing, AI, Big Data"
+829,Write and debug code,Frontend Developer,Medium,Technical,High,High,1-3 hours,Daily,Intermediate,"Agile, TensorFlow, Python, JavaScript, Node.js","Tableau, Jira",AI
+830,Automate infrastructure,QA Engineer,Medium,Managerial,Low,High,Half-day,Occasionally,Intermediate,"TensorFlow, JavaScript, Python, SQL","Tableau, Slack, MongoDB","Big Data, DevOps, Cloud Computing"
+831,Perform code reviews,Full Stack Developer,Low,Managerial,Moderate,None,<1 hour,Occasionally,Intermediate,"JavaScript, Git, React, Node.js, Python",VS Code,Web Development
+832,Write and execute test cases,QA Engineer,Medium,Managerial,Moderate,Moderate,1-3 hours,Daily,Advanced,"TensorFlow, React, JavaScript, Git, Docker","MongoDB, Slack","Big Data, Web Development, AI"
+833,Optimize algorithms,QA Engineer,High,Creative,Moderate,Moderate,Full-day,Monthly,Beginner,"Agile, TensorFlow, Git",MongoDB,"AI, Web Development, Big Data"
+834,Automate infrastructure,Frontend Developer,Medium,Creative,High,Moderate,Full-day,Monthly,Beginner,"Node.js, Docker, Git",VS Code,"DevOps, Big Data, Web Development"
+835,Analyze and clean data,Machine Learning Engineer,High,Technical,High,None,1-3 hours,Monthly,Intermediate,"JavaScript, SQL, React, Git","MySQL, VS Code","Web Development, Big Data"
+836,Design APIs,Software Engineer,High,Creative,Moderate,None,Half-day,Monthly,Beginner,"SQL, TensorFlow","MySQL, Postman","Web Development, DevOps"
+837,Monitor system performance,Backend Developer,Medium,Creative,High,Low,<1 hour,Weekly,Intermediate,"Agile, React, SQL, JavaScript","Jira, Tableau, Postman","Big Data, Cloud Computing, AI"
+838,Build predictive models,Data Scientist,Medium,Managerial,Moderate,Moderate,<1 hour,Weekly,Beginner,"Docker, TensorFlow, SQL, Python, Agile",Jira,"Big Data, AI, Cloud Computing"
+839,Define product roadmaps,Full Stack Developer,High,Managerial,Low,None,Half-day,Occasionally,Advanced,"Docker, Python","MongoDB, Jira, Slack","Big Data, AI, Web Development"
+840,Analyze and clean data,Data Scientist,Low,Technical,Moderate,None,1-3 hours,Occasionally,Intermediate,"SQL, Git, Docker, JavaScript","VS Code, MongoDB","Cloud Computing, Web Development"
+841,Monitor system performance,Data Scientist,High,Creative,High,Low,Full-day,Weekly,Advanced,"Docker, SQL, TensorFlow","MongoDB, Slack, MySQL","Cloud Computing, Web Development, Big Data"
+842,Train and fine-tune models,Full Stack Developer,Medium,Managerial,High,None,Full-day,Occasionally,Advanced,"Agile, Node.js, JavaScript, Docker, Python",VS Code,"DevOps, Web Development, Cloud Computing"
+843,Develop user interfaces,Frontend Developer,Medium,Creative,Moderate,None,Half-day,Monthly,Intermediate,"Agile, TensorFlow, Node.js, Git, JavaScript","Jira, AWS",Cloud Computing
+844,Optimize algorithms,DevOps Engineer,Low,Technical,Moderate,High,Full-day,Daily,Intermediate,"SQL, JavaScript, Python, TensorFlow, Git",MySQL,"AI, DevOps, Big Data"
+845,Manage database operations,DevOps Engineer,Medium,Managerial,High,Moderate,<1 hour,Weekly,Beginner,"React, SQL, Git, Node.js",Postman,"Big Data, Web Development"
+846,Design APIs,Frontend Developer,High,Technical,Low,None,Full-day,Weekly,Beginner,"React, Node.js, Docker, TensorFlow","AWS, Tableau",DevOps
+847,Write and debug code,Software Engineer,Medium,Technical,Moderate,High,1-3 hours,Monthly,Advanced,"SQL, Agile, TensorFlow","Postman, VS Code, Tableau","DevOps, AI"
+848,Perform code reviews,Software Engineer,Medium,Creative,Moderate,Low,<1 hour,Occasionally,Intermediate,"Python, Docker","Jira, AWS",Cloud Computing
+849,Perform code reviews,Backend Developer,Medium,Technical,Low,Moderate,Full-day,Daily,Beginner,"SQL, Docker",AWS,"DevOps, AI"
+850,Conduct user research,UI/UX Designer,Low,Managerial,High,High,Full-day,Daily,Advanced,"Git, Node.js, SQL, Agile, JavaScript","VS Code, MongoDB, Tableau","Big Data, DevOps"
+851,Test applications end-to-end,DevOps Engineer,High,Managerial,High,None,Full-day,Weekly,Intermediate,"Python, JavaScript, Git",VS Code,"Cloud Computing, DevOps"
+852,Design wireframes and prototypes,Product Manager,High,Creative,High,Low,Full-day,Monthly,Intermediate,"Git, React, SQL, Docker, Python",Jira,"Cloud Computing, Web Development, Big Data"
+853,Manage database operations,UI/UX Designer,High,Managerial,Moderate,Low,<1 hour,Monthly,Advanced,"React, TensorFlow",MySQL,DevOps
+854,Test applications end-to-end,Frontend Developer,High,Managerial,High,Low,1-3 hours,Daily,Advanced,"Node.js, SQL, Agile, JavaScript","Tableau, Jira, AWS","DevOps, Web Development, Cloud Computing"
+855,Write and execute test cases,Backend Developer,Medium,Technical,Moderate,Low,<1 hour,Monthly,Beginner,"Git, Python, TensorFlow","Postman, AWS, Tableau","Cloud Computing, DevOps, AI"
+856,Conduct user research,QA Engineer,High,Creative,Moderate,Moderate,Full-day,Occasionally,Advanced,"SQL, Python","Postman, MongoDB, VS Code","Web Development, DevOps, Big Data"
+857,Train and fine-tune models,Frontend Developer,High,Managerial,Moderate,Low,Half-day,Weekly,Intermediate,"React, Python, SQL, Node.js","Slack, MySQL, AWS","Cloud Computing, DevOps"
+858,Analyze and clean data,Machine Learning Engineer,Medium,Creative,Low,None,1-3 hours,Occasionally,Intermediate,"Docker, TensorFlow",Tableau,Big Data
+859,Conduct user research,Software Engineer,Medium,Creative,High,High,Half-day,Weekly,Beginner,"JavaScript, Docker, Node.js, Git, React","Tableau, MongoDB","Big Data, Web Development, Cloud Computing"
+860,Optimize algorithms,Machine Learning Engineer,Medium,Managerial,High,Moderate,1-3 hours,Daily,Beginner,"Agile, TensorFlow, JavaScript","MongoDB, Tableau, Slack","Web Development, Big Data, DevOps"
+861,Design APIs,QA Engineer,Medium,Managerial,High,Moderate,Half-day,Occasionally,Beginner,"Agile, SQL, Git, JavaScript","VS Code, Slack, MongoDB","Big Data, DevOps, Web Development"
+862,Monitor system performance,QA Engineer,Medium,Managerial,Low,Low,Full-day,Monthly,Advanced,"Docker, Python, Node.js, TensorFlow, Git",Jira,"AI, Big Data"
+863,Test applications end-to-end,Full Stack Developer,Low,Managerial,Moderate,None,Full-day,Occasionally,Intermediate,"Node.js, TensorFlow, Docker, JavaScript, Python","Postman, MongoDB, AWS",DevOps
+864,Monitor system performance,Machine Learning Engineer,Medium,Managerial,Moderate,None,1-3 hours,Occasionally,Beginner,"Agile, Python, Git","Postman, Tableau, MySQL","Big Data, Web Development, Cloud Computing"
+865,Write and execute test cases,Product Manager,High,Creative,High,High,<1 hour,Monthly,Beginner,"Docker, React, Node.js, TensorFlow, Python","Jira, Postman, Tableau",Web Development
+866,Write and debug code,Software Engineer,Low,Managerial,High,Moderate,1-3 hours,Occasionally,Beginner,"TensorFlow, Git, JavaScript, SQL","Postman, MongoDB, AWS","AI, Cloud Computing"
+867,Develop user interfaces,Data Scientist,Medium,Technical,Moderate,None,1-3 hours,Weekly,Beginner,"React, TensorFlow, Node.js","Postman, Jira, MySQL","Big Data, Web Development"
+868,Develop user interfaces,Frontend Developer,High,Technical,Moderate,None,1-3 hours,Daily,Advanced,"Node.js, Git, Docker, Python","Postman, Jira","DevOps, Web Development"
+869,Write and debug code,Backend Developer,High,Creative,High,Moderate,1-3 hours,Monthly,Beginner,"Python, JavaScript, Docker, Git, SQL","MySQL, VS Code","AI, Big Data"
+870,Define product roadmaps,Full Stack Developer,High,Technical,Low,Low,1-3 hours,Daily,Beginner,"TensorFlow, Python, Docker, Agile",Jira,"Cloud Computing, Big Data, DevOps"
+871,Build predictive models,Software Engineer,High,Managerial,High,Moderate,Full-day,Daily,Beginner,"SQL, Git, TensorFlow, JavaScript, Agile","MySQL, VS Code, Tableau","AI, Web Development"
+872,Test applications end-to-end,Product Manager,High,Managerial,High,Moderate,<1 hour,Daily,Beginner,"Docker, Node.js","Jira, Postman, VS Code","Cloud Computing, AI, DevOps"
+873,Build predictive models,UI/UX Designer,Medium,Creative,High,High,<1 hour,Daily,Intermediate,"JavaScript, SQL, TensorFlow",Postman,"Big Data, AI"
+874,Perform code reviews,Software Engineer,High,Managerial,Low,Moderate,Half-day,Monthly,Advanced,"TensorFlow, SQL, Python, React, JavaScript",VS Code,"AI, Big Data, DevOps"
+875,Test applications end-to-end,QA Engineer,High,Managerial,Low,Moderate,Full-day,Monthly,Intermediate,"JavaScript, Agile, SQL","Jira, Slack",AI
+876,Build predictive models,Data Scientist,Low,Technical,High,High,1-3 hours,Monthly,Intermediate,"TensorFlow, JavaScript, Git, Node.js, React","Tableau, MongoDB","AI, Cloud Computing"
+877,Analyze and clean data,Product Manager,Low,Managerial,Low,Low,1-3 hours,Weekly,Advanced,"Git, Docker","Postman, Slack, MySQL",Big Data
+878,Monitor system performance,DevOps Engineer,Medium,Technical,High,None,Half-day,Daily,Beginner,"Git, Python, Agile, React, Node.js",Postman,Big Data
+879,Design wireframes and prototypes,DevOps Engineer,Low,Technical,Moderate,Low,Half-day,Weekly,Beginner,"JavaScript, TensorFlow, Docker, Python","AWS, MySQL","DevOps, AI"
+880,Build predictive models,UI/UX Designer,Medium,Technical,High,Moderate,Full-day,Weekly,Intermediate,"Python, JavaScript, TensorFlow, SQL","VS Code, MongoDB","Big Data, Web Development"
+881,Monitor system performance,UI/UX Designer,Medium,Managerial,High,High,1-3 hours,Daily,Intermediate,"Docker, SQL, React, Agile",Jira,Web Development
+882,Train and fine-tune models,Machine Learning Engineer,Medium,Creative,Moderate,Moderate,1-3 hours,Weekly,Beginner,"SQL, Agile, Python, React, Git",Postman,DevOps
+883,Design wireframes and prototypes,Full Stack Developer,Medium,Technical,High,Moderate,<1 hour,Weekly,Advanced,"Git, SQL",Tableau,Web Development
+884,Write and debug code,Software Engineer,Low,Creative,Low,Moderate,<1 hour,Occasionally,Advanced,"React, SQL, Git, TensorFlow, Docker","MySQL, VS Code, Jira","DevOps, AI, Cloud Computing"
+885,Develop user interfaces,Data Scientist,Low,Managerial,Moderate,None,1-3 hours,Weekly,Advanced,"Python, Git, JavaScript, Agile, React","AWS, Postman, Slack",DevOps
+886,Develop user interfaces,Frontend Developer,Low,Technical,High,Moderate,<1 hour,Weekly,Beginner,"Agile, JavaScript",Postman,"Web Development, Big Data"
+887,Perform code reviews,Machine Learning Engineer,Medium,Creative,Moderate,High,Full-day,Monthly,Advanced,"TensorFlow, Docker, Node.js, Python","MySQL, MongoDB",AI
+888,Analyze and clean data,UI/UX Designer,Medium,Technical,High,Moderate,Full-day,Daily,Beginner,"Git, SQL","VS Code, Jira",Web Development
+889,Optimize algorithms,Product Manager,Medium,Technical,High,Low,<1 hour,Occasionally,Advanced,"Node.js, React",VS Code,"Big Data, AI, Web Development"
+890,Optimize algorithms,DevOps Engineer,Low,Managerial,High,Low,Full-day,Daily,Advanced,"JavaScript, Git, Docker, Agile, SQL",MongoDB,AI
+891,Optimize algorithms,UI/UX Designer,High,Managerial,High,Moderate,Full-day,Occasionally,Beginner,"TensorFlow, Python","Jira, Slack",Cloud Computing
+892,Analyze and clean data,DevOps Engineer,Low,Technical,Low,Moderate,Full-day,Occasionally,Advanced,"SQL, Agile, React, JavaScript","VS Code, AWS","Cloud Computing, Web Development, DevOps"
+893,Build predictive models,UI/UX Designer,Low,Managerial,Moderate,None,Half-day,Monthly,Advanced,"Node.js, Python, Docker","Jira, VS Code, Tableau","Web Development, Cloud Computing, DevOps"
+894,Optimize algorithms,Frontend Developer,Low,Creative,High,Low,1-3 hours,Occasionally,Intermediate,"Python, SQL",Jira,"Web Development, Cloud Computing"
+895,Perform code reviews,Software Engineer,Medium,Creative,Moderate,Low,Full-day,Occasionally,Beginner,"SQL, Docker, React",Tableau,"Big Data, AI, Web Development"
+896,Develop user interfaces,Software Engineer,Medium,Creative,Moderate,Low,1-3 hours,Monthly,Beginner,"React, Docker, Git, Node.js, TensorFlow","VS Code, Slack",AI
+897,Develop user interfaces,Backend Developer,High,Managerial,High,Moderate,1-3 hours,Daily,Advanced,"Docker, JavaScript, TensorFlow, Git, Agile","AWS, Jira","Web Development, AI, DevOps"
+898,Manage database operations,Frontend Developer,Medium,Technical,Low,Moderate,Full-day,Weekly,Intermediate,"JavaScript, Python, Git, Docker, TensorFlow","AWS, Slack, VS Code","AI, DevOps, Big Data"
+899,Build predictive models,Frontend Developer,Low,Managerial,High,Low,<1 hour,Monthly,Advanced,"React, SQL, TensorFlow, Git, Python","AWS, Tableau","AI, Web Development, Big Data"
+900,Optimize algorithms,Software Engineer,Medium,Technical,Moderate,None,Full-day,Daily,Intermediate,"Python, Node.js","MongoDB, VS Code, MySQL","AI, Web Development"
+901,Define product roadmaps,Full Stack Developer,Medium,Technical,Low,Moderate,1-3 hours,Weekly,Advanced,"TensorFlow, Node.js, React, Docker",Slack,"DevOps, Cloud Computing"
+902,Perform code reviews,QA Engineer,Low,Creative,Low,Low,Full-day,Occasionally,Advanced,"Node.js, JavaScript, SQL, Git, Agile","MySQL, AWS",Web Development
+903,Optimize algorithms,Machine Learning Engineer,Medium,Technical,Moderate,Low,Full-day,Weekly,Intermediate,"Agile, JavaScript, Git, Node.js, Docker","Postman, VS Code, Slack",AI
+904,Manage database operations,DevOps Engineer,Medium,Managerial,Moderate,Low,Full-day,Weekly,Intermediate,"Git, Docker, SQL, Python, TensorFlow",AWS,Cloud Computing
+905,Perform code reviews,UI/UX Designer,Medium,Creative,Low,Moderate,<1 hour,Monthly,Intermediate,"Git, SQL, Agile","AWS, Postman","Big Data, DevOps, Cloud Computing"
+906,Test applications end-to-end,Frontend Developer,Low,Managerial,High,None,1-3 hours,Daily,Intermediate,"React, Agile, Docker, TensorFlow","MongoDB, MySQL, Jira","Big Data, Cloud Computing"
+907,Develop user interfaces,Backend Developer,Medium,Creative,Low,Moderate,Full-day,Weekly,Intermediate,"Python, JavaScript, Git","AWS, MySQL","Cloud Computing, DevOps"
+908,Automate infrastructure,Full Stack Developer,Medium,Creative,Moderate,None,Full-day,Occasionally,Advanced,"Python, Git, React, Docker, JavaScript",Slack,"Cloud Computing, Web Development, AI"
+909,Design APIs,Frontend Developer,High,Managerial,High,Low,<1 hour,Occasionally,Advanced,"React, SQL, Git, Agile","MongoDB, AWS","DevOps, Big Data"
+910,Define product roadmaps,DevOps Engineer,High,Technical,High,High,Half-day,Monthly,Advanced,"Agile, Git, JavaScript","Tableau, MongoDB, Jira","Big Data, Cloud Computing"
+911,Automate infrastructure,UI/UX Designer,Medium,Technical,Moderate,High,Half-day,Occasionally,Beginner,"TensorFlow, JavaScript, Agile, Node.js","MongoDB, VS Code",Big Data
+912,Define product roadmaps,QA Engineer,Low,Creative,Low,Low,<1 hour,Weekly,Beginner,"Git, Node.js, SQL, Agile, JavaScript","MongoDB, AWS, VS Code","Cloud Computing, Web Development"
+913,Build predictive models,Software Engineer,Medium,Technical,High,Moderate,<1 hour,Daily,Beginner,"TensorFlow, Git, Docker",MySQL,"Big Data, AI, DevOps"
+914,Optimize algorithms,QA Engineer,High,Creative,Low,Moderate,<1 hour,Daily,Advanced,"Node.js, Python, TensorFlow, React, SQL","Slack, AWS","DevOps, Big Data, AI"
+915,Analyze and clean data,Product Manager,Medium,Managerial,Moderate,Low,Full-day,Monthly,Intermediate,"Docker, TensorFlow, Python","MongoDB, Postman","DevOps, Web Development"
+916,Conduct user research,Product Manager,High,Managerial,Low,Moderate,Half-day,Occasionally,Advanced,"Git, Python, Node.js",MySQL,Web Development
+917,Monitor system performance,Data Scientist,High,Creative,Moderate,Low,Half-day,Daily,Advanced,"JavaScript, Git, Docker, Node.js","MySQL, Postman, Jira","Web Development, DevOps"
+918,Write and execute test cases,QA Engineer,Medium,Technical,Moderate,Moderate,<1 hour,Occasionally,Intermediate,"Agile, React","Jira, AWS, Tableau","Big Data, Cloud Computing, Web Development"
+919,Perform code reviews,Data Scientist,Medium,Managerial,Moderate,Moderate,<1 hour,Weekly,Advanced,"SQL, Python, TensorFlow, React","MongoDB, VS Code, Slack",DevOps
+920,Manage database operations,Machine Learning Engineer,Medium,Managerial,High,High,Half-day,Monthly,Intermediate,"Git, React, Docker, SQL, Agile",Slack,"Big Data, AI, Cloud Computing"
+921,Automate infrastructure,Software Engineer,High,Managerial,High,Low,<1 hour,Monthly,Advanced,"JavaScript, Python, Git",Slack,AI
+922,Analyze and clean data,DevOps Engineer,Low,Creative,Low,Moderate,1-3 hours,Monthly,Beginner,"JavaScript, Python","VS Code, MongoDB",Big Data
+923,Develop user interfaces,DevOps Engineer,Low,Technical,Low,Moderate,Half-day,Weekly,Beginner,"Python, SQL, React, Agile","Jira, MongoDB, Slack",Web Development
+924,Conduct user research,Full Stack Developer,Medium,Managerial,Low,None,Full-day,Occasionally,Intermediate,"SQL, TensorFlow, Agile","AWS, Jira",Web Development
+925,Monitor system performance,Frontend Developer,Low,Creative,Low,Moderate,<1 hour,Monthly,Intermediate,"Python, Agile, React","Slack, Tableau, Jira","Web Development, DevOps"
+926,Optimize algorithms,Full Stack Developer,Medium,Technical,Moderate,High,Full-day,Monthly,Advanced,"Node.js, JavaScript, TensorFlow, Python, Agile",Postman,"Big Data, DevOps"
+927,Write and debug code,Machine Learning Engineer,Medium,Technical,High,Low,1-3 hours,Occasionally,Intermediate,"Agile, Git, TensorFlow, Python, React","Postman, MongoDB","AI, Big Data, Cloud Computing"
+928,Test applications end-to-end,DevOps Engineer,High,Managerial,High,Low,<1 hour,Daily,Beginner,"TensorFlow, Agile","Jira, Slack","Big Data, Web Development"
+929,Develop user interfaces,Product Manager,Low,Creative,High,None,1-3 hours,Occasionally,Beginner,"Docker, Node.js",AWS,"Web Development, Big Data"
+930,Monitor system performance,Full Stack Developer,Medium,Technical,Moderate,Moderate,<1 hour,Weekly,Advanced,"Python, Docker, TensorFlow","MongoDB, Tableau",DevOps
+931,Manage database operations,Machine Learning Engineer,High,Creative,Moderate,Moderate,<1 hour,Weekly,Intermediate,"Agile, TensorFlow, React, SQL","AWS, Tableau, Jira","Cloud Computing, AI, Big Data"
+932,Write and debug code,Data Scientist,High,Creative,Moderate,None,<1 hour,Monthly,Intermediate,"Git, Python, Agile, Node.js, TensorFlow",AWS,Web Development
+933,Optimize algorithms,DevOps Engineer,Medium,Managerial,High,None,1-3 hours,Monthly,Intermediate,"TensorFlow, SQL, JavaScript, Agile, Python",AWS,"Web Development, AI"
+934,Design APIs,Machine Learning Engineer,Medium,Technical,High,Low,<1 hour,Weekly,Intermediate,"Docker, SQL","MongoDB, Jira","AI, Cloud Computing, Web Development"
+935,Define product roadmaps,Full Stack Developer,High,Managerial,High,High,Half-day,Occasionally,Advanced,"Docker, TensorFlow, Git","VS Code, MySQL","AI, DevOps"
+936,Perform code reviews,Machine Learning Engineer,Medium,Creative,Moderate,Low,<1 hour,Occasionally,Beginner,"SQL, React, Git",MySQL,Big Data
+937,Write and execute test cases,Full Stack Developer,Low,Managerial,High,High,Full-day,Monthly,Advanced,"Node.js, React, JavaScript, TensorFlow, SQL","VS Code, Slack, AWS",AI
+938,Write and execute test cases,QA Engineer,Low,Creative,Low,Moderate,Half-day,Monthly,Advanced,"Node.js, JavaScript, React, SQL",Postman,Cloud Computing
+939,Analyze and clean data,UI/UX Designer,High,Creative,High,Moderate,Half-day,Weekly,Advanced,"React, SQL, TensorFlow, Agile, Git","Slack, Postman","Web Development, Big Data, Cloud Computing"
+940,Optimize algorithms,Product Manager,Low,Creative,High,Moderate,Full-day,Weekly,Intermediate,"JavaScript, SQL, React","MySQL, Postman",Cloud Computing
+941,Monitor system performance,Full Stack Developer,Low,Technical,High,Moderate,Full-day,Weekly,Advanced,"SQL, Python","Slack, Tableau, MongoDB","Cloud Computing, DevOps, Web Development"
+942,Optimize algorithms,Machine Learning Engineer,High,Managerial,Low,Moderate,Full-day,Weekly,Beginner,"Node.js, Python","VS Code, AWS",Web Development
+943,Write and execute test cases,Full Stack Developer,High,Technical,Moderate,None,Full-day,Daily,Beginner,"TensorFlow, Agile, Python, Docker","VS Code, Tableau","Big Data, Cloud Computing, DevOps"
+944,Train and fine-tune models,Machine Learning Engineer,Medium,Technical,Low,Moderate,Full-day,Weekly,Beginner,"SQL, JavaScript, Node.js, Git",Jira,"Cloud Computing, Web Development, DevOps"
+945,Conduct user research,Machine Learning Engineer,High,Technical,High,Low,Half-day,Occasionally,Beginner,"SQL, React, Node.js, Agile","MongoDB, VS Code, MySQL",Web Development
+946,Optimize algorithms,Frontend Developer,High,Creative,Low,Low,<1 hour,Monthly,Advanced,"SQL, Agile, Git",AWS,"Big Data, Web Development, DevOps"
+947,Perform code reviews,Software Engineer,High,Managerial,Moderate,High,Full-day,Weekly,Advanced,"React, TensorFlow","Slack, AWS, VS Code","DevOps, Web Development, Big Data"
+948,Write and debug code,Machine Learning Engineer,Low,Technical,Low,Moderate,<1 hour,Daily,Intermediate,"Python, Node.js, JavaScript, Docker, Git","Postman, Tableau","Web Development, DevOps, Cloud Computing"
+949,Write and debug code,Machine Learning Engineer,High,Managerial,High,Moderate,1-3 hours,Weekly,Beginner,"Python, Git","Postman, VS Code, AWS","Cloud Computing, DevOps"
+950,Write and debug code,Backend Developer,High,Managerial,Moderate,High,Half-day,Occasionally,Beginner,"Docker, JavaScript, SQL, Python","Tableau, Postman","AI, DevOps"
+951,Develop user interfaces,Product Manager,Medium,Technical,Low,High,<1 hour,Weekly,Advanced,"JavaScript, React, SQL","Slack, Jira, MySQL",Web Development
+952,Design wireframes and prototypes,Backend Developer,Low,Technical,Moderate,High,1-3 hours,Occasionally,Beginner,"React, Docker, Python, Agile","Postman, VS Code","DevOps, AI, Cloud Computing"
+953,Write and debug code,Frontend Developer,Low,Managerial,Low,Low,1-3 hours,Monthly,Advanced,"SQL, Agile, Node.js, Git","Jira, Postman","DevOps, Big Data"
+954,Define product roadmaps,Frontend Developer,Low,Technical,Low,High,Full-day,Monthly,Intermediate,"JavaScript, React","VS Code, AWS, Jira","Big Data, AI"
+955,Conduct user research,Full Stack Developer,High,Technical,High,High,Full-day,Occasionally,Advanced,"Docker, Node.js","Jira, AWS, MongoDB","Cloud Computing, Web Development"
+956,Design wireframes and prototypes,QA Engineer,Low,Technical,Moderate,High,Half-day,Daily,Advanced,"Python, TensorFlow","Slack, MySQL",AI
+957,Conduct user research,UI/UX Designer,Low,Managerial,High,None,<1 hour,Daily,Intermediate,"TensorFlow, Docker","AWS, MySQL, Tableau","Web Development, AI, Big Data"
+958,Write and execute test cases,Software Engineer,Low,Creative,High,Low,Half-day,Weekly,Beginner,"Node.js, JavaScript, SQL, Docker","Tableau, AWS, Jira","Cloud Computing, Web Development"
+959,Manage database operations,Product Manager,Low,Creative,High,High,Full-day,Daily,Advanced,"Git, JavaScript","MongoDB, Jira, Slack",Web Development
+960,Design wireframes and prototypes,Product Manager,High,Creative,Low,High,Full-day,Weekly,Beginner,"Agile, TensorFlow, Node.js, React","Postman, AWS, MongoDB","Cloud Computing, Web Development, AI"
+961,Train and fine-tune models,Software Engineer,Low,Creative,Moderate,None,<1 hour,Daily,Advanced,"Node.js, React, Git, JavaScript",Jira,"Big Data, AI, DevOps"
+962,Automate infrastructure,Full Stack Developer,High,Creative,Moderate,Moderate,Full-day,Monthly,Advanced,"SQL, Git, Node.js, JavaScript, React","MySQL, MongoDB, AWS",DevOps
+963,Test applications end-to-end,DevOps Engineer,Low,Managerial,Low,High,<1 hour,Occasionally,Advanced,"Agile, React",Jira,"Cloud Computing, AI, Big Data"
+964,Train and fine-tune models,QA Engineer,Medium,Technical,High,High,1-3 hours,Daily,Advanced,"Node.js, TensorFlow, Agile","Tableau, Slack",Cloud Computing
+965,Optimize algorithms,UI/UX Designer,Low,Creative,Moderate,High,1-3 hours,Daily,Intermediate,"TensorFlow, Node.js, Agile",Slack,"Web Development, Big Data, Cloud Computing"
+966,Design APIs,Machine Learning Engineer,Medium,Creative,Low,None,Full-day,Weekly,Intermediate,"Agile, JavaScript",MongoDB,AI
+967,Test applications end-to-end,Frontend Developer,Low,Technical,Low,Moderate,<1 hour,Weekly,Advanced,"TensorFlow, SQL, Node.js","AWS, MySQL, Jira","AI, Cloud Computing"
+968,Define product roadmaps,QA Engineer,Low,Managerial,Low,High,<1 hour,Occasionally,Beginner,"Docker, SQL, Node.js, JavaScript","Jira, Tableau, MongoDB","Cloud Computing, Web Development, Big Data"
+969,Perform code reviews,QA Engineer,Low,Managerial,Low,None,1-3 hours,Daily,Intermediate,"Node.js, SQL, Docker, React, Python","Tableau, MySQL, Postman","DevOps, Web Development, Big Data"
+970,Test applications end-to-end,Data Scientist,Medium,Managerial,Low,Moderate,Half-day,Monthly,Beginner,"TensorFlow, Agile",VS Code,"Cloud Computing, AI"
+971,Develop user interfaces,Full Stack Developer,Low,Technical,Low,Low,1-3 hours,Occasionally,Beginner,"TensorFlow, React, Python, Node.js","Postman, AWS",Web Development
+972,Design APIs,Backend Developer,High,Creative,Moderate,Low,1-3 hours,Monthly,Beginner,"React, Node.js",MongoDB,"Cloud Computing, Big Data"
+973,Analyze and clean data,QA Engineer,Medium,Creative,Moderate,Moderate,1-3 hours,Occasionally,Advanced,"Git, React, Docker","VS Code, AWS",Big Data
+974,Write and execute test cases,Data Scientist,Medium,Creative,Moderate,Moderate,1-3 hours,Weekly,Beginner,"Agile, Node.js, React, JavaScript, Docker","Slack, Jira, VS Code","Cloud Computing, Web Development, Big Data"
+975,Test applications end-to-end,Backend Developer,Medium,Managerial,Low,Low,Full-day,Monthly,Advanced,"Python, TensorFlow, React, SQL","AWS, Jira, Postman","Web Development, Cloud Computing, AI"
+976,Design wireframes and prototypes,Software Engineer,Low,Technical,High,Moderate,Full-day,Weekly,Advanced,"Git, TensorFlow, React, Docker","Jira, VS Code, Slack",Web Development
+977,Monitor system performance,Frontend Developer,Low,Creative,Moderate,Moderate,1-3 hours,Weekly,Advanced,"Docker, TensorFlow, SQL, React","Postman, MongoDB, Tableau","Big Data, Web Development"
+978,Write and execute test cases,QA Engineer,Medium,Managerial,High,None,1-3 hours,Occasionally,Beginner,"Python, Docker, SQL","AWS, MySQL",Web Development
+979,Analyze and clean data,Backend Developer,Low,Technical,High,None,<1 hour,Daily,Intermediate,"Docker, TensorFlow, JavaScript, Node.js, Git","MongoDB, VS Code","AI, Web Development"
+980,Define product roadmaps,DevOps Engineer,High,Technical,Moderate,Moderate,<1 hour,Occasionally,Beginner,"SQL, Node.js, Python, Docker, Agile","Jira, AWS","Web Development, DevOps"
+981,Develop user interfaces,DevOps Engineer,Low,Managerial,Low,High,<1 hour,Occasionally,Beginner,"Python, Docker",MySQL,Big Data
+982,Monitor system performance,Data Scientist,Low,Managerial,Moderate,None,Full-day,Occasionally,Beginner,"Docker, JavaScript","VS Code, MySQL, MongoDB",AI
+983,Test applications end-to-end,Frontend Developer,Low,Technical,Low,High,<1 hour,Monthly,Beginner,"React, JavaScript, Docker","Jira, VS Code, Slack","DevOps, Cloud Computing"
+984,Define product roadmaps,Product Manager,Medium,Technical,High,Low,Half-day,Weekly,Beginner,"Docker, SQL, Git, Agile","MongoDB, Slack, AWS","Web Development, AI, Big Data"
+985,Analyze and clean data,Full Stack Developer,High,Creative,Moderate,None,<1 hour,Daily,Intermediate,"Agile, Docker",Slack,"DevOps, Web Development, Cloud Computing"
+986,Conduct user research,UI/UX Designer,Low,Managerial,High,Moderate,<1 hour,Weekly,Beginner,"TensorFlow, React, Python, SQL, JavaScript",Jira,Big Data
+987,Automate infrastructure,DevOps Engineer,Low,Creative,Low,High,1-3 hours,Monthly,Intermediate,"Docker, React, TensorFlow, JavaScript, SQL","MongoDB, Postman, AWS",AI
+988,Perform code reviews,Data Scientist,Low,Technical,High,High,<1 hour,Monthly,Beginner,"SQL, Agile, React, JavaScript",Tableau,"Cloud Computing, Big Data"
+989,Design wireframes and prototypes,QA Engineer,Medium,Creative,High,Moderate,1-3 hours,Occasionally,Advanced,"Agile, Git",Slack,Web Development
+990,Conduct user research,Full Stack Developer,Medium,Technical,Moderate,None,1-3 hours,Weekly,Beginner,"Docker, TensorFlow","Slack, Postman","DevOps, Web Development, AI"
+991,Build predictive models,Product Manager,Low,Technical,Moderate,High,1-3 hours,Occasionally,Beginner,"Agile, Python, React, JavaScript, Node.js","VS Code, Slack",Web Development
+992,Conduct user research,Backend Developer,High,Creative,Low,High,<1 hour,Monthly,Advanced,"JavaScript, React, SQL","AWS, Postman","Web Development, AI"
+993,Define product roadmaps,Data Scientist,Low,Managerial,Low,None,Half-day,Monthly,Advanced,"Python, Agile, React, SQL","Jira, Slack, MySQL","Big Data, Web Development"
+994,Conduct user research,Data Scientist,Low,Technical,Low,None,Full-day,Weekly,Intermediate,"React, TensorFlow, Agile","Jira, MySQL",Big Data
+995,Design wireframes and prototypes,UI/UX Designer,High,Technical,Moderate,Moderate,Half-day,Daily,Beginner,"React, Docker, TensorFlow","Slack, Postman, VS Code",Web Development
+996,Develop user interfaces,Software Engineer,Medium,Managerial,Low,Low,Half-day,Monthly,Advanced,"Python, Agile, Node.js, JavaScript, TensorFlow",MongoDB,DevOps
+997,Automate infrastructure,QA Engineer,Low,Managerial,Moderate,High,Full-day,Weekly,Beginner,"SQL, Node.js",Jira,DevOps
+998,Analyze and clean data,Product Manager,High,Managerial,Moderate,Low,<1 hour,Weekly,Advanced,"Agile, Python, SQL","Postman, MySQL",Cloud Computing
+999,Test applications end-to-end,Data Scientist,Low,Managerial,Moderate,None,Half-day,Monthly,Beginner,"Docker, JavaScript, SQL, Git","Jira, Tableau, Slack","AI, Cloud Computing, Big Data"
+1000,Monitor system performance,Software Engineer,Low,Creative,Low,Low,Half-day,Weekly,Intermediate,"Agile, React, Python, SQL",Postman,"Cloud Computing, AI"
