@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Job Recommendations</h1>
+            <p>We’ve found roles you might love!</p>
+        </div>
+    </header>
+    <main>
+        <div class="recommendations-container">
+            <h2>Recommended Roles</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Job Role</th>
+                        <th>Automation Risk</th>
+                        <th>Mapped Skills</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for rec in recommendations %}
+                    <tr>
+                        <td>{{ rec['job_role'] }}</td>
+                        <td>{{ rec['Automation_Risk'] }}</td>
+                        <td>{{ rec['Mapped_Skills'] }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <a href="/" class="back-button">Back to Home</a>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Job Recommender. Crafted with ❤️ for job seekers.</p>
+    </footer>
+</body>
+</html>
