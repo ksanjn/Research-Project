@@ -1,8 +1,7 @@
-/* Add this to your Tailwind CSS setup (src/index.css or styles.css) */
 
 /* Center the container for better alignment */
 .container {
-    max-width: 800px;
+    max-width: 500px;
     margin: 0 auto;
   }
   

@@ -1,7 +1,7 @@
 import pandas as pd
 
 #Load the dataset
-job_data = pd.read_csv('../data/job_roles.csv')
+job_roles_data = pd.read_csv('../data/job_roles.csv')
 
 # Convert to dictionary for quick lookup
 job_dict = {
@@ -13,7 +13,7 @@ job_dict = {
             row['answers'].split(';')
         ))
     }
-    for _, row in job_data.iterrows()
+    for _, row in job_roles_data.iterrows()
 }
 
 #Display the first few rows of the dataset to check(single file)
