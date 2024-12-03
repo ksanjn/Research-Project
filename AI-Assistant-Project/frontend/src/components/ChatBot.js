@@ -3,7 +3,6 @@ import { getQuestions, evaluateAnswers } from "../api";
 import AssessmentForm from "./AssessmentForm";
 import Results from "./Result";
 import "../styles/chatbot.css"
-
 const ChatBot = () => {
   const [jobRole, setJobRole] = useState("");
   const [questions, setQuestions] = useState([]);

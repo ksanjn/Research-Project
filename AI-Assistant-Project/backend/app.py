@@ -31,7 +31,6 @@ def preprocess_input(user_input):
     sequence = tokenizer.texts_to_sequences([user_input])
     padded_sequence = pad_sequences(sequence, maxlen=100, padding='post')
     return padded_sequence
-
 # Fetch questions for a job role
 @app.route('/get_questions', methods=['POST'])
 def get_questions():
@@ -68,6 +67,7 @@ def evaluate_answers():
         correct_answers
     ))
 
+    
     # Debug: Log the correct answers
     print(f"Correct Answers: {correct_answers_dict}")
 
