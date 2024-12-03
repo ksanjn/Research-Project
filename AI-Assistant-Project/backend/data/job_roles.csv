@@ -1,0 +1,4 @@
+job_title,required_skills,assessment_questions,answers
+Data Scientist,"Python, SQL, Machine Learning","Q1: What is supervised learning?;Q2: Write a Python function.","A1: Supervised learning is training on labeled data.;A2: def add(a, b): return a + b"
+Frontend Developer,"HTML, CSS, JavaScript","Q1: What is the box model?;Q2: Create a responsive webpage.","A1: The box model includes margin, padding, border, and content.;A2: Use CSS media queries."
+Backend Developer,"Node.js, MongoDB, REST APIs","Q1: What is a REST API?;Q2: Optimize a MongoDB query.","A1: A REST API uses HTTP methods for CRUD operations.;A2: Create indexes on frequently queried fields."
