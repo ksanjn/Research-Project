@@ -21,3 +21,31 @@ The main idea is broken down to four specific components as,
 - NodeJS
 - MongoDB
 - Google Cloud Platform
+
+# Job Role Skill Assessment Chatbot
+
+## Description
+A real-time chatbot that evaluates skills for specific job roles, provides assessments, scores user answers, and recommends ways to improve.
+
+## Features
+- Real-time chatbot interaction.
+- Assessment question generation.
+- Answer evaluation and scoring.
+- Skill improvement recommendations.
+
+## Models used
+- Multinomial Naive Bayes
+- Logistic Regression
+
+## Algorithm used
+- TF-IDF (Term Frequency-Inverse Document Frequency)
+- Cosine Similarity
+- Jaccard Similarity 
+
+## Technologies Used
+- Frontend: React.js, Tailwind CSS.
+- Backend: Flask, TensorFlow, Pandas.
+
+## AI-Assistant diagram
+![image](https://github.com/user-attachments/assets/d0d59aa3-da62-4da8-98b7-43d6732e08c3)
+
