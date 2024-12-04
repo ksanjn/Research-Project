@@ -133,7 +133,7 @@ A real-time chatbot that evaluates skills for specific job roles, provides asses
 - Frontend: React.js, Tailwind CSS.
 - Backend: Flask, TensorFlow, Pandas.
 
-# AI-Assitant sample output
+## AI-Assitant sample output
 -Enter the job role for the chatbot 
 ![image](https://github.com/user-attachments/assets/448901df-a2ec-4363-9151-a9984ed4b2b7)
 
