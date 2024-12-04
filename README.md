@@ -53,6 +53,59 @@ print(f"Prediction: {'Automated' if prediction[0] == 1 else 'Not Automated'}")
 Prediction: Automated
 ```
 
+# COMPONENT#2 - Identify alternative software engineering jobs with tasks similar to the user's current tasks that are less likely to be automated by AI using a ML approach.
+
+## Description
+Develop an ML model to recommend alternative job roles less likely to be automated, based on a user's current role and tasks.
+
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/b63b5b5b-cae5-4904-9eb0-31b6a86fd367)
+
+Automation risk was calculated by considering below data:
+- complexity
+- task_type
+- creativity
+- human_interaction
+- time_taken
+- frequency
+
+
+## Algorithm used
+- Random Forest
+
+## Techniques used
+- TF-IDF (Term Frequency-Inverse Document Frequency)
+- Cosine Similarity
+
+
+### Sample input for identifying similar job roles:
+```
+job_description = input("Enter a task or description: ")
+recommendations = get_recommendations_from_input(job_description)
+print("Recommendations:\n", recommendations)
+```
+```
+Enter a task or description: Conduct user research
+```
+### Sample output:
+```
+Recommendations:
+                job_role Automation_Risk  \
+579     DevOps Engineer     Medium Risk   
+126   Software Engineer     Medium Risk   
+573  Frontend Developer     Medium Risk   
+257     DevOps Engineer        Low Risk   
+556         QA Engineer        Low Risk   
+
+                                      Mapped_Skills  
+579                        [other, teamwork, other]  
+126                        [other, teamwork, other]  
+573  [technical skills, teamwork, technical skills]  
+257                 [other, other, teamwork, other]  
+556                        [other, teamwork, other]  
+```
+
 # COMPONENT#3 - Job Role Skill Assessment Chatbot
 
 ## Description
