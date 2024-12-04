@@ -52,6 +52,7 @@ def train_model(data, labels, tokenizer, label_encoder, num_classes):
     model = build_model(input_dim=len(tokenizer.word_index) + 1, num_classes=num_classes)
     model.fit(X_train, y_train, epochs=10, validation_data=(X_test, y_test), batch_size=32)
 
+
     # Save model and artifacts
     model.save(MODEL_SAVE_PATH)
     with open(TOKENIZER_SAVE_PATH, 'wb') as tok_file:
@@ -60,6 +61,11 @@ def train_model(data, labels, tokenizer, label_encoder, num_classes):
         pickle.dump(label_encoder, le_file)
 
     print("Model, tokenizer, and label encoder saved successfully!")
+
+    predictions = model.predict(X_test)
+    print("Predictions:", predictions[:5])
+    print("True Labels:", y_test[:5])
+
 
 # Main Script
 if __name__ == "__main__":
