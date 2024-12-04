@@ -108,6 +108,9 @@ Recommendations:
 
 # COMPONENT#3 - Job Role Skill Assessment Chatbot
 
+## AI-Assistant diagram
+![image](https://github.com/user-attachments/assets/d0d59aa3-da62-4da8-98b7-43d6732e08c3)
+
 ## Description
 A real-time chatbot that evaluates skills for specific job roles, provides assessments, scores user answers, and recommends ways to improve.
 
@@ -118,18 +121,36 @@ A real-time chatbot that evaluates skills for specific job roles, provides asses
 - Skill improvement recommendations.
 
 ## Models used
-- Multinomial Naive Bayes
-- Logistic Regression
+- Natural Language Processing (NLP) and LSTM
 
 ## Algorithm used
-- TF-IDF (Term Frequency-Inverse Document Frequency)
+- Multinomial Naive Bayes
 - Cosine Similarity
-- Jaccard Similarity 
+- Jaccard Similarity
+- Logistic Regression
 
 ## Technologies Used
 - Frontend: React.js, Tailwind CSS.
 - Backend: Flask, TensorFlow, Pandas.
 
-## AI-Assistant diagram
-![image](https://github.com/user-attachments/assets/d0d59aa3-da62-4da8-98b7-43d6732e08c3)
+# AI-Assitant sample output
+-Enter the job role for the chatbot 
+![image](https://github.com/user-attachments/assets/448901df-a2ec-4363-9151-a9984ed4b2b7)
+
+-Provide assessment(MCQs, coding questions, structure question) based on job roles
+![image](https://github.com/user-attachments/assets/9edc82f5-5454-4954-b0a0-b7f1f1aef728)
+
+-Evaluate user answers, calculate scores, and categorize skill levels ( Low, Intermediate, High).
+![image](https://github.com/user-attachments/assets/6b1df5c1-294e-46c3-bfcc-97268bf9c97d)
+
+# COMPONENT#4 - 
+
+
+
+
+
+
+
+
+
 
