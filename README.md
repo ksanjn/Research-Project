@@ -22,7 +22,38 @@ The main idea is broken down to four specific components as,
 - MongoDB
 - Google Cloud Platform
 
-# Job Role Skill Assessment Chatbot
+# COMPONENT#1 - Identifying Job Roles At Risk Of Automation
+
+## Architecture Diagram
+
+<img width="648" alt="my-arch" src="https://github.com/user-attachments/assets/02cbfb12-db98-4c2c-9b7d-5403d43c1f63">
+
+####
+Achieved by identifying the specific individual tasks under particular job roles and evaluating the individual task automation probability.
+
+Real-world software engineer data will be used for the prediction.
+
+Automation probability is calculated using the following considerations:
+
+- Has the task already been automated by AI?
+- If not does it have a chance of being automated by AI in the future?
+
+Two separate Logistic Regression ML models will be used for the predictions.
+
+### Sample input for identifying already automated tasks
+```
+new_task = ["integration tests"]
+new_task_vectorized = vectorizer.transform(new_task)
+prediction = model.predict(new_task_vectorized)
+print(f"Prediction: {'Automated' if prediction[0] == 1 else 'Not Automated'}")
+```
+
+### Sample Output
+```
+Prediction: Automated
+```
+
+# COMPONENT#3 - Job Role Skill Assessment Chatbot
 
 ## Description
 A real-time chatbot that evaluates skills for specific job roles, provides assessments, scores user answers, and recommends ways to improve.
