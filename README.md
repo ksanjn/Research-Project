@@ -8,7 +8,7 @@ The main idea is broken down to four specific components as,
  - Identifying the current software engineering tasks that are replaced by AI and tasks that could be replaced in future by AI.
  - Identifying alternative software engineering jobs with tasks similar to the user's current tasks that are less likely to be automated by AI.
  - Assessing the current skillset of the user and identifying the skills that the user is lacking that is needed for the new suggested role.
- - Identifying the user preferences and recommending the best suited pathways to achieving the new skills.
+ - Identifying the user preferences and recommending the best suited pathways to achieving the new skills..
 
 ## Architecture Diagram
 
