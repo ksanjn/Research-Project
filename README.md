@@ -134,13 +134,13 @@ A real-time chatbot that evaluates skills for specific job roles, provides asses
 - Backend: Flask, TensorFlow, Pandas.
 
 ## AI-Assitant sample output
--Enter the job role for the chatbot 
+- Enter the job role for the chatbot 
 ![image](https://github.com/user-attachments/assets/448901df-a2ec-4363-9151-a9984ed4b2b7)
 
--Provide assessment(MCQs, coding questions, structure question) based on job roles
+- Provide assessment(MCQs, coding questions, structure question) based on job roles
 ![image](https://github.com/user-attachments/assets/9edc82f5-5454-4954-b0a0-b7f1f1aef728)
 
--Evaluate user answers, calculate scores, and categorize skill levels ( Low, Intermediate, High).
+- Evaluate user answers, calculate scores, and categorize skill levels ( Low, Intermediate, High).
 ![image](https://github.com/user-attachments/assets/6b1df5c1-294e-46c3-bfcc-97268bf9c97d)
 
 # COMPONENT#4 - 
