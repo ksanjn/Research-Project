@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e70dbd5e-20c1-4b43-864b-9a0a4df815aa)
 # 24-25J-113 Research-Project
 
 As an overview, the aim of this research project is to try and identify the various software engineering jobs that are at risk of getting automated by AI and suggesting better jobs that are at less risk of getting automated while providing necessary help to bridge the knowledge gap between the jobs.
@@ -132,6 +132,122 @@ A real-time chatbot that evaluates skills for specific job roles, provides asses
 ## Technologies Used
 - Frontend: React.js, Tailwind CSS.
 - Backend: Flask, TensorFlow, Pandas.
+
+## The way of create AI-Assistent
+- Processing and structuring the job role data
+```
+import pandas as pd
+```
+#Load the dataset
+job_roles_data = pd.read_csv('../data/job_roles.csv')
+```
+# Convert to dictionary for quick lookup
+job_dict = {
+    row['job_title']: {
+        "required_skills": row['required_skills'].split(', '),
+        "assessment_questions": row['assessment_questions'].split(';'),
+        "answers": dict(zip(
+            [f"Q{i+1}" for i in range(len(row['assessment_questions'].split(';')))],
+            row['answers'].split(';')
+        ))
+    }
+    for _, row in job_roles_data.iterrows()
+}
+```
+#Display the first few rows of the dataset to check(single file)
+print("Job data loaded successfully!")
+
+- Training a ML model for Job role to using NLP and LSTM 
+```
+# Preprocess Data
+def preprocess_data(df):
+    df['text'] = df['job_title'] + " " + df['required_skills'] + " " + df['assessment_questions'] # Combine the text columns into single text column
+    tokenizer = Tokenizer(num_words=5000, oov_token="<OOV>") # A tokenizer convert the text into numerical sequences
+    tokenizer.fit_on_texts(df['text'])
+    sequences = tokenizer.texts_to_sequences(df['text'])
+    padded_sequences = pad_sequences(sequences, maxlen=100, padding='post')
+```
+    label_encoder = LabelEncoder()
+    labels = label_encoder.fit_transform(df['job_title'])  # Ensure labels start from 0
+    num_classes = len(label_encoder.classes_)  # Number of unique classes
+```
+    return padded_sequences, labels, tokenizer, label_encoder, num_classes
+
+This model process text input and predict job role.
+``
+# Build Model
+def build_model(input_dim, num_classes):
+```
+    model = Sequential([
+        Embedding(input_dim=input_dim, output_dim=128, input_length=100),
+        LSTM(128, return_sequences=True),
+        Dropout(0.2),
+        LSTM(64),
+        Dense(32, activation='relu'),
+        Dense(num_classes, activation='softmax')  # Softmax for multi-class classification
+    ])
+```
+# The metrics=[‘accuracy’] specifies that the model should calculate the accuracy during the training and validation
+    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    return model
+
+Train the model using following steps and finally save the trained model 
+``
+# Train Model
+def train_model(data, labels, tokenizer, label_encoder, num_classes):
+    X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2, random_state=42)
+    model = build_model(input_dim=len(tokenizer.word_index) + 1, num_classes=num_classes)
+    model.fit(X_train, y_train, epochs=10, validation_data=(X_test, y_test), batch_size=32)
+```
+    # Save model and artifacts
+    model.save(MODEL_SAVE_PATH) # “chatbot_model.h5”, tokenizer and label encoder for future use.
+    with open(TOKENIZER_SAVE_PATH, 'wb') as tok_file:
+        pickle.dump(tokenizer, tok_file)
+    with open(LABEL_ENCODER_PATH, 'wb') as le_file:
+        pickle.dump(label_encoder, le_file)
+```
+    print("Model, tokenizer, and label encoder saved successfully!")
+```
+    predictions = model.predict(X_test)
+    print("Predictions:", predictions[:5])
+    print("True Labels:", y_test[:5])
+
+- Building a Flask-based job role with ML integration
+```
+# Preprocess user input
+def preprocess_input(user_input):
+    sequence = tokenizer.texts_to_sequences([user_input])
+    padded_sequence = pad_sequences(sequence, maxlen=100, padding='post')
+    return padded_sequence
+``
+# Fetch questions for a job role
+@app.route('/get_questions', methods=['POST'])
+def get_questions():
+    job_role = request.json.get('job_role', '').strip()  # User input job role
+```
+    # Filter dataset for the requested job role
+    job_row = job_roles_data[job_roles_data['job_title'].str.lower() == job_role.lower()]
+    if job_row.empty:
+        return jsonify({"response": f"No data found for job role '{job_role}'."}), 404
+```
+    questions = job_row.iloc[0]['assessment_questions'].split(';')
+    return jsonify({"questions": questions})
+
+# Evaluate answers submitted by the user
+@app.route('/evaluate_answers', methods=['POST'])
+def evaluate_answers():
+    user_data = request.json
+    job_role = user_data.get('job_role', '').strip()
+    user_answers = user_data.get('answers', {})  # User-submitted answers
+
+    # Debug: Log user inputs
+    print(f"Job Role: {job_role}")
+    print(f"User Answers: {user_answers}")
+
+Use fuzz.ratio to compare answers with a similarity threshold of 90%
+```
+ if fuzz.ratio(user_answer_normalized, correct_answer) > 90:  # Threshold is 90%
+            score += 1
 
 ## AI-Assitant sample output
 - Enter the job role for the chatbot 
