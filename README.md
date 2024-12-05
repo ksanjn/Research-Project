@@ -172,8 +172,9 @@ def preprocess_data(df):
 
     return padded_sequences, labels, tokenizer, label_encoder, num_classes
 ```
-```
+
 This model process text input and predict job role.
+```
 # Build Model
 def build_model(input_dim, num_classes):
     model = Sequential([
@@ -189,8 +190,8 @@ def build_model(input_dim, num_classes):
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
     return model
 ```
-```
 Train the model using following steps and finally save the trained model 
+```
 # Train Model
 def train_model(data, labels, tokenizer, label_encoder, num_classes):
     X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2, random_state=42)
