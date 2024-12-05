@@ -249,7 +249,7 @@ Use fuzz.ratio to compare answers with a similarity threshold of 90%
 ```
  if fuzz.ratio(user_answer_normalized, correct_answer) > 90:  # Threshold is 90%
             score += 1
-
+```
 ## AI-Assitant sample output
 - Enter the job role for the chatbot 
 ![image](https://github.com/user-attachments/assets/448901df-a2ec-4363-9151-a9984ed4b2b7)
