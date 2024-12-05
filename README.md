@@ -143,14 +143,54 @@ A real-time chatbot that evaluates skills for specific job roles, provides asses
 - Evaluate user answers, calculate scores, and categorize skill levels ( Low, Intermediate, High).
 ![image](https://github.com/user-attachments/assets/6b1df5c1-294e-46c3-bfcc-97268bf9c97d)
 
-# COMPONENT#4 - 
+# COMPONENT#4 -  Recommending Tailor-Made Learning Pathways
+
+## Overview
+
+This component focuses on recommending personalized learning pathways to help software engineers achieve new skillsets tailored to their preferences. Staying updated with new skills is vital in the software engineering domain, and this module aims to fill skill gaps by creating targeted pathways that align with individual needs.
+
+### Key Highlights
+- Emphasis on user-specific preferences and career goals.
+- Addressing the gap in current AI tools that overlook personalization in learning pathways.
+- Recommends skills and courses based on user availability, budget, and existing knowledge.
+
+---
+
+## **Architecture Diagram**
 
 
+---
 
+## **Technologies**
+- **Programming Language**: Python
+- **Frontend**: React, CSS, JS
+- **Database**: MySQL
+- **Platforms**: Google Colab
 
+---
 
+## **Techniques and Algorithms**
+- **Supervised Learning Techniques**:
+  - K-Nearest Neighbors (KNN)
+  - Linear Regression
+- **Natural Language Processing (NLP)** for content alignment
+- Filtering and Clustering
 
+---
 
+## **Completed Work**
+1. Problem definition and research focus.
+2. Data collection and preprocessing.
+3. Integration of user preferences such as:
+   - Budget
+   - Time slots
+   - Learning mode (online/on-premises)
+4. Training and testing the KNN & Linear Regression models.
+5. Basic analysis and insights generation.
 
+---
 
+## **Future Work**
+1. Advanced model refinements.
+2. Creating APIs and integrating them with the web application.
 
