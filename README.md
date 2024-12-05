@@ -250,6 +250,47 @@ Use fuzz.ratio to compare answers with a similarity threshold of 90%
  if fuzz.ratio(user_answer_normalized, correct_answer) > 90:  # Threshold is 90%
             score += 1
 ```
+Determines the skill level(low, intermediate, advanced intermediate and high) and provides tailored recommendation based on the percentage of correct answers.
+```
+# Determine skill level and recommendations
+    if percentage < 30:
+        skill_level = "Low"
+        recommendation = "Practice basic coding concepts and revisit foundational skills."
+    elif 30 <= percentage < 50:
+        skill_level = "Intermediate"
+        recommendation = "Focus on intermediate projects and work on problem-solving."
+    elif 50 <= percentage < 80:
+        skill_level = "Advanced Intermediate"
+        recommendation = "Learn advanced topics and contribute to open-source projects."
+    else:
+        skill_level = "High"
+        recommendation = "Explore leadership opportunities and specialize in advanced topics."
+
+    # Debug: Log the final output
+    print(f"Percentage: {percentage}, Skill Level: {skill_level}, Recommendation: {recommendation}")
+
+    return jsonify({
+        "score": percentage,
+        "skill_level": skill_level,
+        "recommendation": recommendation
+    })
+```
+```
+# Predict job role based on user input
+@app.route('/predict_job_role', methods=['POST'])
+def predict_job_role():
+    user_input = request.json.get('user_input', '').strip()
+    if not user_input:
+        return jsonify({"response": "No input provided."}), 400
+
+    # Preprocess and predict
+    processed_input = preprocess_input(user_input)
+    prediction = model.predict(processed_input)
+    predicted_label = label_encoder.inverse_transform([prediction.argmax()])[0]
+
+    return jsonify({"predicted_job_role": predicted_label})
+```
+
 ## AI-Assitant sample output
 - Enter the job role for the chatbot 
 ![image](https://github.com/user-attachments/assets/448901df-a2ec-4363-9151-a9984ed4b2b7)
