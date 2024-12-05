@@ -291,7 +291,7 @@ def predict_job_role():
     return jsonify({"predicted_job_role": predicted_label})
 ```
 
-## AI-Assitant sample output
+## AI-Assitant output
 - Enter the job role for the chatbot 
 ![image](https://github.com/user-attachments/assets/448901df-a2ec-4363-9151-a9984ed4b2b7)
 
