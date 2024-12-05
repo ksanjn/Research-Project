@@ -301,6 +301,17 @@ def predict_job_role():
 - Evaluate user answers, calculate scores, and categorize skill levels ( Low, Intermediate, High).
 ![image](https://github.com/user-attachments/assets/6b1df5c1-294e-46c3-bfcc-97268bf9c97d)
 
+## **Completed Work**
+1. Collecting the data.
+2. Choosing a methodology/algorithm.
+3. Develop the model to suggest necessary skills needed for the predicted job role.
+
+## **Future Work**
+1. Cleaning the data ,Organizing  and the labeling of data
+2. Integrate advanced NLP models for better intent recognition.
+3. Expand the dataset with more questions and job roles.
+
+
 # COMPONENT#4 -  Recommending Tailor-Made Learning Pathways
 
 ## Overview
@@ -315,6 +326,7 @@ This component focuses on recommending personalized learning pathways to help so
 ---
 
 ## **Architecture Diagram**
+![image](https://github.com/user-attachments/assets/23312533-8dc6-4409-886a-4a8c0bcac67c)
 
 
 ---
