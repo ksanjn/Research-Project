@@ -21,7 +21,7 @@ The main idea is broken down to four specific components as,
 - MongoDB
 - Google Cloud Platform
 
-# COMPONENT#1 - Identifying Job Roles At Risk Of Automation
+# COMPONENT#1 - Identifying Job Roles At Risk Of Automation(IT21106088)
 
 ## Architecture Diagram
 
@@ -52,7 +52,7 @@ print(f"Prediction: {'Automated' if prediction[0] == 1 else 'Not Automated'}")
 Prediction: Automated
 ```
 
-# COMPONENT#2 - Identify alternative software engineering jobs with tasks similar to the user's current tasks that are less likely to be automated by AI using a ML approach.
+# COMPONENT#2 - Identify alternative software engineering jobs with tasks similar to the user's current tasks that are less likely to be automated by AI using a ML approach(IT21106088)
 
 ## Description
 Develop an ML model to recommend alternative job roles less likely to be automated, based on a user's current role and tasks.
@@ -105,13 +105,13 @@ Recommendations:
 556                        [other, teamwork, other]  
 ```
 
-# COMPONENT#3 - Job Role Skill Assessment Chatbot
+# COMPONENT#3 - Job Role Skill Assessment Chatbot(IT21165016)
 
 ## AI-Assistant diagram
 ![image](https://github.com/user-attachments/assets/d0d59aa3-da62-4da8-98b7-43d6732e08c3)
 
 ## Description
-A real-time chatbot that evaluates skills for specific job roles, provides assessments, scores user answers, and recommends ways to improve.
+The above component output should take the job role as input, then provide a real-time assessment based on that job role. It should evaluate the user's skill level, score their responses, and recommend ways to develop the required skills.(A real-time chatbot that evaluates skills for specific job roles, conducts assessments, scores user responses, and offers personalized skill improvement recommendations.)
 
 ## Features
 - Real-time chatbot interaction.
@@ -301,22 +301,13 @@ def predict_job_role():
 - Evaluate user answers, calculate scores, and categorize skill levels ( Low, Intermediate, High).
 ![image](https://github.com/user-attachments/assets/6b1df5c1-294e-46c3-bfcc-97268bf9c97d)
 
-## **Completed Work**
-1. Collecting the data.
-2. Choosing a methodology/algorithm.
-3. Develop the model to suggest necessary skills needed for the predicted job role.
-
-## **Future Work**
-1. Cleaning the data ,Organizing  and the labeling of data
-2. Integrate advanced NLP models for better intent recognition.
-3. Expand the dataset with more questions and job roles.
 
 
-# COMPONENT#4 -  Recommending Tailor-Made Learning Pathways
+# COMPONENT#4 -  Recommending Tailor-Made Learning Pathways(IT21178436)
 
 ## Overview
 
-This component focuses on recommending personalized learning pathways to help software engineers achieve new skillsets tailored to their preferences. Staying updated with new skills is vital in the software engineering domain, and this module aims to fill skill gaps by creating targeted pathways that align with individual needs.
+This component focuses on recommending personalized learning pathways to help software engineers achieve new skillsets tailored to their preferences. Staying updated with new skills is vital in the software engineering domain, and this module aims to fill skill gaps by creating targeted pathways that align with individual needs.(Get the above output of the recommendation)
 
 ### Key Highlights
 - Emphasis on user-specific preferences and career goals.
