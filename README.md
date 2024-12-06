@@ -111,7 +111,7 @@ Recommendations:
 ![image](https://github.com/user-attachments/assets/d0d59aa3-da62-4da8-98b7-43d6732e08c3)
 
 ## Description
-The above component output should take the job role as input, then provide a real-time assessment based on that job role. It should evaluate the user's skill level, score their responses, and recommend ways to develop the required skills.(A real-time chatbot that evaluates skills for specific job roles, conducts assessments, scores user responses, and offers personalized skill improvement recommendations.)
+The above component output should take the job role as input, then provide a real-time skill assessment based on that job role. It should evaluate the user's skill level, score their responses, and recommend ways to develop the required skills.
 
 ## Features
 - Real-time chatbot interaction.
