@@ -1,0 +1,710 @@
+{
+  "roles": [
+    {
+      "role": "Software Engineer",
+      "skills": ["Java", "Python", "C++", "Data Structures", "Algorithms"]
+    },
+    {
+      "role": "Frontend Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Angular"]
+    },
+    {
+      "role": "Backend Developer",
+      "skills": ["Node.js", "Express", "Django", "Ruby on Rails", "Java"]
+    },
+    {
+      "role": "Full Stack Developer",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"]
+    },
+    {
+      "role": "DevOps Engineer",
+      "skills": ["Docker", "Kubernetes", "CI/CD", "AWS", "Terraform"]
+    },
+    {
+      "role": "Database Administrator",
+      "skills": ["MySQL", "PostgreSQL", "Oracle", "SQL Server", "NoSQL"]
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "skills": ["Python", "TensorFlow", "Keras", "Scikit-learn", "PyTorch"]
+    },
+    {
+      "role": "Data Scientist",
+      "skills": ["Python", "R", "Data Analysis", "Machine Learning", "SQL"]
+    },
+    {
+      "role": "Mobile App Developer",
+      "skills": ["Swift", "Kotlin", "React Native", "Flutter", "Android SDK"]
+    },
+    {
+      "role": "Cloud Engineer",
+      "skills": ["AWS", "Azure", "Google Cloud", "Terraform", "Docker"]
+    },
+    {
+      "role": "Security Engineer",
+      "skills": ["Cybersecurity", "Penetration Testing", "Firewalls", "Encryption", "SIEM"]
+    },
+    {
+      "role": "Systems Engineer",
+      "skills": ["Linux", "Unix", "Networking", "Automation", "Cloud"]
+    },
+    {
+      "role": "Quality Assurance Engineer",
+      "skills": ["Testing", "Automation", "Selenium", "JUnit", "CI/CD"]
+    },
+    {
+      "role": "Scrum Master",
+      "skills": ["Agile", "Scrum", "Project Management", "Jira", "Team Leadership"]
+    },
+    {
+      "role": "Product Manager",
+      "skills": ["Product Strategy", "Market Research", "Agile", "Roadmap", "UX/UI"]
+    },
+    {
+      "role": "UX/UI Designer",
+      "skills": ["Sketch", "Figma", "Adobe XD", "Wireframing", "Prototyping"]
+    },
+    {
+      "role": "Technical Support Engineer",
+      "skills": ["Troubleshooting", "Networking", "Linux", "Customer Service", "Scripting"]
+    },
+    {
+      "role": "Game Developer",
+      "skills": ["C#", "Unity", "Unreal Engine", "Game Design", "3D Modeling"]
+    },
+    {
+      "role": "Embedded Systems Engineer",
+      "skills": ["C", "C++", "Embedded Linux", "Microcontrollers", "RTOS"]
+    },
+    {
+      "role": "Blockchain Developer",
+      "skills": ["Blockchain", "Ethereum", "Smart Contracts", "Solidity", "Cryptography"]
+    },
+    {
+      "role": "AI Engineer",
+      "skills": ["Python", "Deep Learning", "Natural Language Processing", "TensorFlow", "PyTorch"]
+    },
+    {
+      "role": "IT Manager",
+      "skills": ["Leadership", "Project Management", "Networking", "Systems Administration", "Security"]
+    },
+    {
+      "role": "Network Engineer",
+      "skills": ["Networking", "Cisco", "TCP/IP", "VPN", "Firewall"]
+    },
+    {
+      "role": "Site Reliability Engineer",
+      "skills": ["Linux", "Monitoring", "Cloud", "Automation", "Incident Management"]
+    },
+    {
+      "role": "Sales Engineer",
+      "skills": ["Technical Sales", "Customer Relationships", "Software Demos", "Solution Architecture", "Networking"]
+    },
+    {
+      "role": "Business Intelligence Developer",
+      "skills": ["SQL", "ETL", "Data Warehousing", "Power BI", "Tableau"]
+    },
+    {
+      "role": "Technical Writer",
+      "skills": ["Documentation", "Technical Communication", "APIs", "Markdown", "Version Control"]
+    },
+    {
+      "role": "IT Consultant",
+      "skills": ["Consulting", "Networking", "Cloud Solutions", "Business Analysis", "Security"]
+    },
+    {
+      "role": "Cloud Architect",
+      "skills": ["AWS", "Azure", "Google Cloud", "Infrastructure as Code", "Cloud Security"]
+    },
+    {
+      "role": "Network Administrator",
+      "skills": ["Networking", "Windows Server", "Cisco", "Firewall", "DNS"]
+    },
+    {
+      "role": "Hardware Engineer",
+      "skills": ["Circuit Design", "PCB Design", "Embedded Systems", "Testing", "Hardware Prototyping"]
+    },
+    {
+      "role": "Software Architect",
+      "skills": ["Software Design", "System Architecture", "Microservices", "Cloud", "Leadership"]
+    },
+    {
+      "role": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+    },
+    {
+      "role": "iOS Developer",
+      "skills": ["Swift", "Objective-C", "Xcode", "Cocoa Touch", "Core Data"]
+    },
+    {
+      "role": "Android Developer",
+      "skills": ["Kotlin", "Java", "Android SDK", "Gradle", "Firebase"]
+    },
+    {
+      "role": "JavaScript Developer",
+      "skills": ["JavaScript", "ES6", "React", "Node.js", "Vue.js"]
+    },
+    {
+      "role": "PHP Developer",
+      "skills": ["PHP", "MySQL", "Laravel", "Symfony", "JavaScript"]
+    },
+    {
+      "role": "Ruby Developer",
+      "skills": ["Ruby", "Rails", "Rake", "RSpec", "SQL"]
+    },
+    {
+      "role": "Python Developer",
+      "skills": ["Python", "Django", "Flask", "SQLAlchemy", "Pandas"]
+    },
+    {
+      "role": "C++ Developer",
+      "skills": ["C++", "Data Structures", "STL", "Boost", "Linux"]
+    },
+    {
+      "role": "Java Developer",
+      "skills": ["Java", "Spring", "Hibernate", "JPA", "Maven"]
+    },
+    {
+      "role": "React Developer",
+      "skills": ["React", "JavaScript", "Redux", "Webpack", "Node.js"]
+    },
+    {
+      "role": "Vue.js Developer",
+      "skills": ["Vue.js", "JavaScript", "Vuex", "Nuxt.js", "Node.js"]
+    },
+    {
+      "role": "Angular Developer",
+      "skills": ["Angular", "TypeScript", "RxJS", "HTML", "CSS"]
+    },
+    {
+      "role": "C# Developer",
+      "skills": ["C#", "ASP.NET", "MVC", "Entity Framework", "LINQ"]
+    },
+    {
+      "role": "Swift Developer",
+      "skills": ["Swift", "Objective-C", "iOS SDK", "Xcode", "Cocoa Touch"]
+    },
+    {
+      "role": "Objective-C Developer",
+      "skills": ["Objective-C", "iOS SDK", "Cocoa", "Xcode", "Memory Management"]
+    },
+    {
+      "role": "Go Developer",
+      "skills": ["Go", "Concurrency", "Golang", "Go Routines", "API Design"]
+    },
+    {
+      "role": "Rust Developer",
+      "skills": ["Rust", "Concurrency", "Memory Safety", "Cargo", "WebAssembly"]
+    },
+    {
+      "role": "Perl Developer",
+      "skills": ["Perl", "CGI", "Regular Expressions", "DBI", "Moose"]
+    },
+    {
+      "role": "Scala Developer",
+      "skills": ["Scala", "Akka", "Play Framework", "Spark", "Functional Programming"]
+    },
+    {
+      "role": "Kotlin Developer",
+      "skills": ["Kotlin", "Android SDK", "Jetpack", "Coroutines", "Firebase"]
+    },
+    {
+      "role": "Android SDK Developer",
+      "skills": ["Java", "Kotlin", "Android SDK", "Gradle", "Firebase"]
+    },
+    {
+      "role": "Web Designer",
+      "skills": ["HTML", "CSS", "Adobe Photoshop", "Wireframing", "UI/UX"]
+    },
+    {
+      "role": "UI Designer",
+      "skills": ["UI Design", "Sketch", "Adobe XD", "Prototyping", "User Research"]
+    },
+    {
+      "role": "UX Designer",
+      "skills": ["UX Design", "Wireframing", "Prototyping", "User Research", "User Testing"]
+    },
+    {
+      "role": "SEO Specialist",
+      "skills": ["SEO", "Google Analytics", "Keyword Research", "Content Strategy", "Link Building"]
+    },
+    {
+      "role": "Digital Marketing Specialist",
+      "skills": ["SEO", "SEM", "Google Ads", "Social Media", "Content Marketing"]
+    },
+    {
+      "role": "Content Writer",
+      "skills": ["Content Writing", "SEO", "Copywriting", "Blogging", "Research"]
+    },
+    {
+      "role": "Business Analyst",
+      "skills": ["Business Analysis", "Agile", "Jira", "Data Analysis", "Requirements Gathering"]
+    },
+    {
+      "role": "Product Designer",
+      "skills": ["Product Design", "UI/UX", "Sketch", "Prototyping", "Wireframing"]
+    },
+    {
+      "role": "DevOps Architect",
+      "skills": ["DevOps", "CI/CD", "Docker", "Kubernetes", "AWS"]
+    },
+    {
+      "role": "Cloud Consultant",
+      "skills": ["AWS", "Azure", "Google Cloud", "Cloud Architecture", "Consulting"]
+    },
+    {
+      "role": "IT Security Specialist",
+      "skills": ["Firewalls", "Penetration Testing", "Cryptography", "Networking", "Security Tools"]
+    },
+    {
+      "role": "Penetration Tester",
+      "skills": ["Ethical Hacking", "Vulnerability Assessment", "Exploit Development", "Metasploit", "Wireshark"]
+    },
+    {
+      "role": "Blockchain Architect",
+      "skills": ["Blockchain", "Smart Contracts", "Ethereum", "Hyperledger", "Cryptocurrency"]
+    },
+    {
+      "role": "Data Engineer",
+      "skills": ["SQL", "ETL", "Data Pipelines", "Big Data", "Apache Hadoop"]
+    },
+    {
+      "role": "Big Data Engineer",
+      "skills": ["Hadoop", "Spark", "Kafka", "MapReduce", "NoSQL"]
+    },
+    {
+      "role": "Product Owner",
+      "skills": ["Agile", "Scrum", "Stakeholder Management", "Product Roadmap", "Jira"]
+    },
+    {
+      "role": "Test Automation Engineer",
+      "skills": ["Automation", "Selenium", "JUnit", "TestNG", "CI/CD"]
+    },
+    {
+      "role": "Build Engineer",
+      "skills": ["CI/CD", "Automation", "Jenkins", "Maven", "Docker"]
+    },
+    {
+      "role": "Data Analyst",
+      "skills": ["SQL", "Excel", "Data Visualization", "Power BI", "Tableau"]
+    },
+    {
+      "role": "Network Security Engineer",
+      "skills": ["Firewalls", "VPN", "Intrusion Detection", "Security Protocols", "Networking"]
+    },
+    {
+      "role": "Cloud Security Engineer",
+      "skills": ["Cloud Security", "AWS", "Azure", "Google Cloud", "IAM"]
+    },
+    {
+      "role": "Application Support Engineer",
+      "skills": ["Troubleshooting", "SQL", "Customer Support", "Java", "Unix"]
+    },
+    {
+      "role": "Game Developer",
+      "skills": ["C#", "Unity", "Unreal Engine", "Game Design", "3D Modeling"]
+    },
+    {
+      "role": "Embedded Systems Engineer",
+      "skills": ["C", "C++", "Embedded Linux", "Microcontrollers", "RTOS"]
+    },
+    {
+      "role": "Blockchain Developer",
+      "skills": ["Blockchain", "Ethereum", "Smart Contracts", "Solidity", "Cryptography"]
+    },
+    {
+      "role": "AI Engineer",
+      "skills": ["Python", "Deep Learning", "Natural Language Processing", "TensorFlow", "PyTorch"]
+    },
+    {
+      "role": "AI Research Scientist",
+      "skills": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "TensorFlow"]
+    },
+    {
+      "role": "AI Data Analyst",
+      "skills": ["Data Analysis", "Python", "SQL", "Big Data", "Machine Learning"]
+    },
+    {
+      "role": "AI Product Manager",
+      "skills": ["Product Strategy", "AI Models", "Business Development", "AI Research", "Machine Learning"]
+    },
+    {
+      "role": "AI Architect",
+      "skills": ["Cloud Computing", "AI Model Development", "Big Data", "Scalable Systems", "AI Frameworks"]
+    },
+    {
+      "role": "Robotics Engineer",
+      "skills": ["Robotics", "C++", "Python", "Embedded Systems", "ROS"]
+    },
+    {
+      "role": "Computer Vision Engineer",
+      "skills": ["Computer Vision", "OpenCV", "Python", "TensorFlow", "Deep Learning"]
+    },
+    {
+      "role": "Natural Language Processing (NLP) Engineer",
+      "skills": ["NLP", "Python", "Deep Learning", "TensorFlow", "SpaCy"]
+    },
+    {
+      "role": "Reinforcement Learning Engineer",
+      "skills": ["Reinforcement Learning", "Deep Learning", "Python", "TensorFlow", "Gym"]
+    },
+    {
+      "role": "AI Business Analyst",
+      "skills": ["Business Analysis", "Data Science", "Machine Learning", "AI Strategy", "AI Use Cases"]
+    },
+    {
+      "role": "AI Software Engineer",
+      "skills": ["Python", "Java", "AI Development", "Machine Learning", "TensorFlow"]
+    },
+    {
+      "role": "Machine Learning Researcher",
+      "skills": ["Machine Learning", "Deep Learning", "Python", "Research", "Statistics"]
+    },
+    {
+      "role": "AI/ML Engineer",
+      "skills": ["Machine Learning", "Python", "TensorFlow", "Scikit-learn", "Keras"]
+    },
+    {
+      "role": "AI Solutions Architect",
+      "skills": ["AI Solutions", "Architecture", "Cloud", "Big Data", "Machine Learning"]
+    },
+    {
+      "role": "AI Developer",
+      "skills": ["AI Programming", "Python", "C++", "TensorFlow", "Keras"]
+    },
+    {
+      "role": "AI Trainer",
+      "skills": ["Training Models", "Deep Learning", "TensorFlow", "Data Annotation", "AI Models"]
+    },
+    {
+      "role": "AI Consultant",
+      "skills": ["AI Strategy", "Consulting", "Machine Learning", "NLP", "AI Use Cases"]
+    },
+    {
+      "role": "AI Data Engineer",
+      "skills": ["Data Engineering", "Python", "SQL", "ETL", "Machine Learning"]
+    },
+    {
+      "role": "AI Business Consultant",
+      "skills": ["AI Business Strategy", "Market Research", "Data Science", "Machine Learning", "AI Models"]
+    },
+    {
+      "role": "AI Data Scientist",
+      "skills": ["Data Science", "AI", "Machine Learning", "Deep Learning", "Python"]
+    },
+    {
+      "role": "AI Ethics Specialist",
+      "skills": ["AI Ethics", "Data Privacy", "Machine Learning", "Ethical AI", "AI Policy"]
+    },
+    {
+      "role": "AI Operations Engineer",
+      "skills": ["AI Systems", "Machine Learning", "Automation", "Python", "Cloud Computing"]
+    },
+    {
+      "role": "AI Deployment Engineer",
+      "skills": ["AI Model Deployment", "Python", "Cloud", "Containerization", "DevOps"]
+    },
+    {
+      "role": "AI Application Engineer",
+      "skills": ["AI Applications", "Machine Learning", "Data Science", "Python", "Software Engineering"]
+    },
+    {
+      "role": "AI Systems Architect",
+      "skills": ["System Design", "AI", "Machine Learning", "Cloud", "Big Data"]
+    },
+    {
+      "role": "AI Test Engineer",
+      "skills": ["AI Testing", "Automation", "Machine Learning", "Python", "Selenium"]
+    },
+    {
+      "role": "AI Data Analyst",
+      "skills": ["Data Analysis", "AI", "Machine Learning", "SQL", "Python"]
+    },
+    {
+      "role": "AI Product Designer",
+      "skills": ["Product Design", "AI", "Machine Learning", "Prototyping", "User Research"]
+    },
+    {
+      "role": "AI Research Engineer",
+      "skills": ["Research", "Machine Learning", "Deep Learning", "NLP", "Python"]
+    },
+    {
+      "role": "AI Modeler",
+      "skills": ["Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Data Modeling"]
+    },
+    {
+      "role": "AI Software Architect",
+      "skills": ["Software Architecture", "AI Systems", "Machine Learning", "Cloud Computing", "Python"]
+    },
+    {
+      "role": "AI Performance Engineer",
+      "skills": ["AI Optimization", "Performance Tuning", "Machine Learning", "Cloud Computing", "Python"]
+    },
+    {
+      "role": "AI Trainer and Data Scientist",
+      "skills": ["Training AI Models", "Data Science", "Python", "Machine Learning", "Deep Learning"]
+    },
+    {
+      "role": "AI Platform Engineer",
+      "skills": ["AI Platform", "Machine Learning", "Cloud Computing", "Infrastructure", "Python"]
+    },
+    {
+      "role": "AI Integration Engineer",
+      "skills": ["Integration", "Machine Learning", "AI", "Python", "Cloud"]
+    },
+    {
+      "role": "Junior Software Engineer",
+      "skills": [
+        "Java",
+        "C++",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Basic Data Structures",
+        "Algorithms",
+        "Object-Oriented Programming (OOP)"
+      ]
+    },
+    {
+      "role": "Junior Frontend Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Vue.js",
+        "Git",
+        "Basic Responsive Design",
+        "Version Control",
+        "Bootstrap"
+      ]
+    },
+    {
+      "role": "Junior Backend Developer",
+      "skills": [
+        "Node.js",
+        "Express",
+        "Python",
+        "Java",
+        "RESTful APIs",
+        "MySQL",
+        "PostgreSQL",
+        "Version Control",
+        "Database Design"
+      ]
+    },
+    {
+      "role": "Junior Full Stack Developer",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express",
+        "RESTful APIs",
+        "Version Control"
+      ]
+    },
+    {
+      "role": "Senior Software Engineer",
+      "skills": [
+        "Java",
+        "C++",
+        "Python",
+        "Advanced Data Structures",
+        "Algorithms",
+        "System Design",
+        "Architecture Design",
+        "Microservices",
+        "Cloud Computing",
+        "CI/CD",
+        "Agile Development"
+      ]
+    },
+    {
+      "role": "Senior Frontend Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Vue.js",
+        "Angular",
+        "TypeScript",
+        "Responsive Web Design",
+        "Version Control",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "role": "Senior Backend Developer",
+      "skills": [
+        "Node.js",
+        "Express",
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Ruby on Rails",
+        "RESTful APIs",
+        "GraphQL",
+        "Microservices",
+        "Database Management",
+        "NoSQL Databases"
+      ]
+    },
+    {
+      "role": "Senior Full Stack Developer",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Angular",
+        "CSS",
+        "HTML",
+        "MongoDB",
+        "SQL Databases",
+        "Microservices",
+        "GraphQL",
+        "DevOps",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "role": "Senior DevOps Engineer",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Terraform",
+        "Linux",
+        "Networking",
+        "Automation",
+        "Infrastructure as Code"
+      ]
+    },
+    {
+      "role": "Senior Software Architect",
+      "skills": [
+        "System Design",
+        "Architecture Patterns",
+        "Microservices",
+        "Cloud Computing",
+        "API Design",
+        "Security",
+        "Scalability",
+        "Performance Tuning",
+        "Leadership",
+        "Mentorship"
+      ]
+    },
+    {
+      "role": "Intern Software Engineer",
+      "skills": [
+        "Java",
+        "C++",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Basic Data Structures",
+        "Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "Version Control",
+        "SQL",
+        "Problem Solving",
+        "Basic Web Development"
+      ]
+    },
+    {
+      "role": "Intern Frontend Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Basic React",
+        "Version Control (Git)",
+        "Responsive Web Design",
+        "Basic CSS Frameworks (Bootstrap)",
+        "UI/UX Basics",
+        "Cross-Browser Compatibility"
+      ]
+    },
+    {
+      "role": "Intern Backend Developer",
+      "skills": [
+        "Node.js",
+        "Express",
+        "Python",
+        "RESTful APIs",
+        "SQL",
+        "MongoDB",
+        "Basic Server-Side Development",
+        "Version Control (Git)",
+        "Database Querying",
+        "Basic Authentication and Authorization"
+      ]
+    },
+    {
+      "role": "Intern Full Stack Developer",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Basic RESTful API Development",
+        "Version Control (Git)",
+        "Database Management"
+      ]
+    },
+    {
+      "role": "Intern DevOps Engineer",
+      "skills": [
+        "Linux",
+        "Git",
+        "Docker (Basic)",
+        "CI/CD Basics",
+        "Cloud Platforms (AWS, Azure)",
+        "Basic Networking",
+        "Scripting (Bash, Python)",
+        "Version Control",
+        "Automation Tools"
+      ]
+    },
+    {
+      "role": "Intern Software Tester",
+      "skills": [
+        "Manual Testing",
+        "Test Case Design",
+        "Bug Reporting",
+        "Automation Basics (Selenium, Jest)",
+        "Version Control (Git)",
+        "Basic SQL",
+        "UI/UX Testing",
+        "Cross-Platform Testing"
+      ]
+    },
+    {
+      "role": "Intern Database Engineer",
+      "skills": [
+        "SQL",
+        "Basic Database Design",
+        "Relational Databases (MySQL, PostgreSQL)",
+        "NoSQL (MongoDB)",
+        "Version Control (Git)",
+        "Data Modeling",
+        "Basic Query Optimization",
+        "Backup and Restore"
+      ]
+    }
+  ]
+}

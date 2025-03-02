@@ -1,12 +1,18 @@
 import React from "react";
+import "../styles/chatbot.css";
 
 const Results = ({ results }) => {
   return (
-    <div className="mt-6 p-4 border rounded">
-      <h2 className="text-xl font-semibold">Results</h2>
-      <p><strong>Score:</strong> {results.score}%</p>
-      <p><strong>Skill Level:</strong> {results.skill_level}</p>
-      <p><strong>Recommendation:</strong> {results.recommendation}</p>
+    <div className="results-container">
+      <h2 className="results-title">Skill Assessment Results</h2>
+      <div className="results-content">
+        <p className="results-text">Your Skill Level: <span className="skill-level">{results.predicted_skill_level}</span></p>
+        <div className="progress-bar-container">
+          <div className={`progress-bar level-${results.predicted_skill_level.toLowerCase()}`}></div>
+        </div>
+        <p className="improvement-tips">{results.improvement_tips}</p>
+      </div>
+      <button className="retry-button" onClick={() => window.location.reload()}>Try Again</button>
     </div>
   );
 };

@@ -2,73 +2,78 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Embedding, LSTM, Dropout
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sentence_transformers import SentenceTransformer
 import pickle
 
 # Paths
-DATA_PATH = "../data/job_roles.csv"
-MODEL_SAVE_PATH = "../models/chatbot_model.h5"
-TOKENIZER_SAVE_PATH = "../models/tokenizer.pkl"
+DATA_PATH = "../data/skill_assessment.csv"
+MODEL_SAVE_PATH = "../models/skill_classifier.pkl"
 LABEL_ENCODER_PATH = "../models/label_encoder.pkl"
 
 # Load Dataset
 def load_data(file_path):
-    df = pd.read_csv(file_path)
-    return df
+    try:
+        df = pd.read_csv(file_path)
+        df.dropna(subset=['Question', 'Answer'], inplace=True)  # Remove rows with missing values
+        df.drop_duplicates(inplace=True)  # Remove duplicate questions
+        return df
+    except Exception as e:
+        print(f"Error loading dataset: {e}")
+        return None
 
 # Preprocess Data
-def preprocess_data(df):
-    df['text'] = df['job_title'] + " " + df['required_skills'] + " " + df['assessment_questions']
-    tokenizer = Tokenizer(num_words=5000, oov_token="<OOV>")
-    tokenizer.fit_on_texts(df['text'])
-    sequences = tokenizer.texts_to_sequences(df['text'])
-    padded_sequences = pad_sequences(sequences, maxlen=100, padding='post')
+def preprocess_data(df, model):
+    if 'Question' not in df.columns or 'Answer' not in df.columns:
+        raise ValueError("Dataset missing required columns: 'Question' or 'Answer'")
 
+    # Batch encoding for efficiency
+    question_embeddings = model.encode(df['Question'].tolist(), convert_to_numpy=True)
+
+    # Encode skill levels
     label_encoder = LabelEncoder()
-    labels = label_encoder.fit_transform(df['job_title'])  # Ensure labels start from 0
-    num_classes = len(label_encoder.classes_)  # Number of unique classes
+    df['skill_level'] = label_encoder.fit_transform(df['Answer'])  
 
-    return padded_sequences, labels, tokenizer, label_encoder, num_classes
-
-# Build Model
-def build_model(input_dim, num_classes):
-    model = Sequential([
-        Embedding(input_dim=input_dim, output_dim=128, input_length=100),
-        LSTM(128, return_sequences=True),
-        Dropout(0.2),
-        LSTM(64),
-        Dense(32, activation='relu'),
-        Dense(num_classes, activation='softmax')  # Softmax for multi-class classification
-    ])
-    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-    return model
+    return question_embeddings, df['skill_level'].values, label_encoder
 
 # Train Model
-def train_model(data, labels, tokenizer, label_encoder, num_classes):
-    X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2, random_state=42)
-    model = build_model(input_dim=len(tokenizer.word_index) + 1, num_classes=num_classes)
-    model.fit(X_train, y_train, epochs=10, validation_data=(X_test, y_test), batch_size=32)
+def train_model(features, labels, label_encoder):
+    X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=42)
 
+    model = RandomForestClassifier(n_estimators=100, random_state=42)
+    model.fit(X_train, y_train)
 
-    # Save model and artifacts
-    model.save(MODEL_SAVE_PATH)
-    with open(TOKENIZER_SAVE_PATH, 'wb') as tok_file:
-        pickle.dump(tokenizer, tok_file)
+    # Model evaluation
+    y_pred = model.predict(X_test)
+    print(f"Accuracy: {accuracy_score(y_test, y_pred):.4f}")
+    print(f"Precision: {precision_score(y_test, y_pred, average='weighted'):.4f}")
+    print(f"Recall: {recall_score(y_test, y_pred, average='weighted'):.4f}")
+    print(f"F1 Score: {f1_score(y_test, y_pred, average='weighted'):.4f}")
+
+    # Save model and label encoder
+    with open(MODEL_SAVE_PATH, 'wb') as model_file:
+        pickle.dump(model, model_file)
     with open(LABEL_ENCODER_PATH, 'wb') as le_file:
         pickle.dump(label_encoder, le_file)
 
-    print("Model, tokenizer, and label encoder saved successfully!")
-
-    predictions = model.predict(X_test)
-    print("Predictions:", predictions[:5])
-    print("True Labels:", y_test[:5])
-
+    print("✅ Model and label encoder saved successfully!")
 
 # Main Script
 if __name__ == "__main__":
+    print("🚀 Loading dataset...")
     df = load_data(DATA_PATH)
-    data, labels, tokenizer, label_encoder, num_classes = preprocess_data(df)
-    train_model(data, labels, tokenizer, label_encoder, num_classes)
+
+    if df is not None:
+        print("✅ Dataset loaded successfully!")
+       
+        print("🚀 Loading Sentence Transformer model...")
+        model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+       
+        print("🚀 Preprocessing data...")
+        features, labels, label_encoder = preprocess_data(df, model)
+       
+        print("🚀 Training model...")
+        train_model(features, labels, label_encoder)
+    else:
+        print("❌ Failed to load dataset. Check the CSV file.")
