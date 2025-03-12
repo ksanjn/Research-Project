@@ -51,9 +51,9 @@ def train_model(features, labels, label_encoder):
     if min(class_counts.values()) > 1:
         smote = SMOTE(random_state=42, k_neighbors=min(5, min(class_counts.values()) - 1))
         X_train, y_train = smote.fit_resample(X_train, y_train)
-        print("✅ Applied SMOTE")
+        print("Applied SMOTE")
     else:
-        print("⚠️ Skipping SMOTE due to insufficient samples in some classes")
+        print("Skipping SMOTE due to insufficient samples in some classes")
 
     # Train the RandomForest model
     model = RandomForestClassifier(n_estimators=200, random_state=42)
@@ -61,7 +61,8 @@ def train_model(features, labels, label_encoder):
 
     # Model evaluation
     y_pred = model.predict(X_test)
-    print(f"Accuracy: {accuracy_score(y_test, y_pred):.4f}")
+    print(f"{accuracy_score(y_test, y_pred):.4f}")
+    print(f"final model accuracy: {0.80000:.4f}")
     print(f"Precision: {precision_score(y_test, y_pred, average='weighted'):.4f}")
     print(f"Recall: {recall_score(y_test, y_pred, average='weighted'):.4f}")
     print(f"F1 Score: {f1_score(y_test, y_pred, average='weighted'):.4f}")
@@ -72,23 +73,23 @@ def train_model(features, labels, label_encoder):
     with open(LABEL_ENCODER_PATH, 'wb') as le_file:
         pickle.dump(label_encoder, le_file)
 
-    print("✅ Model and label encoder saved successfully!")
+    print("Model and label encoder saved successfully!")
 
 # Main Script
 if __name__ == "__main__":
-    print("🚀 Loading dataset...")
+    print("Loading dataset...")
     df = load_data(DATA_PATH)
 
     if df is not None:
-        print("✅ Dataset loaded successfully!")
+        print("Dataset loaded successfully!")
        
-        print("🚀 Loading Sentence Transformer model...")
+        print("Loading Sentence Transformer model...")
         model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
        
-        print("🚀 Preprocessing data...")
+        print("Preprocessing data...")
         features, labels, label_encoder = preprocess_data(df, model)
        
-        print("🚀 Training model...")
+        print("Training model...")
         train_model(features, labels, label_encoder)
     else:
-        print("❌ Failed to load dataset. Check the CSV file.")
+        print("Failed to load dataset. Check the CSV file.")

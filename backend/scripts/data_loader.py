@@ -28,13 +28,30 @@ if skill_assessment_df is not None:
         else:  # Numerical data
             skill_assessment_df[column] = skill_assessment_df[column].fillna(skill_assessment_df[column].median())
 
-# Debugging: Print column names
-if job_skills_df is not None:
-    print("Job Skills Columns:", job_skills_df.columns)
-if skill_assessment_df is not None:
-    print("Skill Assessment Columns:", skill_assessment_df.columns)
+# Skill Gap Analysis Function
+def analyze_skill_gap(user_skills, job_role):
+    """ Compares user's existing skills with required skills for a job role """
+    if job_skills_df is not None:
+        job_role_row = job_skills_df[job_skills_df['job_role'].str.lower() == job_role.lower()]
+       
+        if not job_role_row.empty:
+            required_skills = set(job_role_row.iloc[0]['skill'].split(','))
+            user_skills_set = set(user_skills)
+
+            missing_skills = required_skills - user_skills_set
+            acquired_skills = required_skills & user_skills_set
+
+            return {
+                "required_skills": list(required_skills),
+                "missing_skills": list(missing_skills),
+                "acquired_skills": list(acquired_skills)
+            }
+        else:
+            return {"error": f"No skills found for job role '{job_role}'"}
+    return {"error": "Job skills dataset is not loaded"}
 
 # Convert job skills data to dictionary for quick lookup
+job_dict = {}
 if job_skills_df is not None:
     job_dict = {
         row['job_role']: {
@@ -42,8 +59,6 @@ if job_skills_df is not None:
         }
         for _, row in job_skills_df.iterrows()
     }
-else:
-    job_dict = {}
 
 # Convert skill assessment data into structured format
 skill_assessments = {}
@@ -66,11 +81,5 @@ if skill_assessment_df is not None:
             "options": options,
             "answer": row['Answer']
         })
-
-# Debugging: Print sample data
-if job_dict:
-    print("\nSample Job Role Data:", list(job_dict.items())[:2])
-if skill_assessments:
-    print("\nSample Skill Assessment Data:", list(skill_assessments.items())[:2])
 
 print("\n✅ Datasets loaded and processed successfully!")

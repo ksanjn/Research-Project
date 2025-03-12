@@ -132,12 +132,12 @@ const ChatBot = () => {
 
           {/* Render Open-Ended (Short Answer) */}
           {questionType === "open-ended" && (
-            <input
-              type="text"
+            <textarea
               className="w-full p-2 border rounded-md"
-              placeholder="Your answer..."
+              placeholder="Write your answer here..."
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
+              rows={6}
             />
           )}
 
