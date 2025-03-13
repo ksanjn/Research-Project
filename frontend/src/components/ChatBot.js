@@ -1,4 +1,7 @@
 import React, { useState } from "react";
+import { motion } from "framer-motion";
+import { ArrowRight } from "lucide-react";
+import Swal from "sweetalert2";
 import { startAssessment, submitAnswer } from "../api";
 
 const ChatBot = () => {
@@ -11,9 +14,40 @@ const ChatBot = () => {
   const [answer, setAnswer] = useState("");
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [showResults, setShowResults] = useState(false); // State for showing results
+
+  const showCountdown = async () => {
+  await Swal.fire({
+    title: "🕒 Your Assessment is Starting!",
+    html: "<b>3</b>",
+    timer: 3000, // Total 3 seconds
+    showConfirmButton: false,
+    allowOutsideClick: false, // Prevent closing
+    didOpen: () => {
+      let count = 3;
+      const countdownInterval = setInterval(() => {
+        count--;
+        const swalContent = Swal.getHtmlContainer();
+        if (swalContent) {
+          swalContent.innerHTML = `<b>${count}</b>`;
+        }
+        if (count <= 0) {
+          clearInterval(countdownInterval);
+        }
+      }, 1000);
+    },
+  });
+};
 
   const startQuiz = async () => {
+    if (!jobRole.trim()) {
+      Swal.fire("⚠️ Error", "Please enter a job role!", "error");
+      return;
+    }
+
     setLoading(true);
+    await showCountdown();
+   
     try {
       const response = await startAssessment(jobRole);
       setQuestion(response.question);
@@ -23,14 +57,14 @@ const ChatBot = () => {
       setTotalQuestions(response.total_questions);
       setResults(null);
     } catch (error) {
-      alert("Error starting assessment. Please try again.");
+      Swal.fire("❌ Error", "Error starting assessment. Please try again.", "error");
     }
     setLoading(false);
   };
 
   const handleSubmit = async () => {
     if (!answer.trim()) {
-      alert("Please enter an answer before submitting.");
+      Swal.fire("⚠️ Error", "Please enter an answer before submitting.", "warning");
       return;
     }
 
@@ -49,10 +83,21 @@ const ChatBot = () => {
           skill_level: response.skill_level,
           recommendation: response.recommendation,
         });
-        setQuestion("");
+
+        // 🎉 Show Final Alert Before Results
+        Swal.fire({
+          title: "🎉 Assessment Completed!",
+          text: "Click 'View Results' to see your score.",
+          icon: "success",
+          confirmButtonText: "View Results",
+        }).then(() => {
+          setShowResults(true); // Show results only after user clicks "View Results"
+        });
+
+        setQuestion(""); // Hide questions
       }
     } catch (error) {
-      alert("Error submitting answer. Please try again.");
+      Swal.fire("❌ Error", "Error submitting answer. Please try again.", "error");
     }
     setLoading(false);
   };
@@ -63,7 +108,6 @@ const ChatBot = () => {
         🎯 Skill Assessment
       </h2>
 
-      {/* Input for Job Role */}
       <input
         type="text"
         className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
@@ -73,7 +117,6 @@ const ChatBot = () => {
         disabled={question !== ""}
       />
 
-      {/* Start Assessment Button */}
       <button
         className="w-full mt-4 py-3 bg-gradient-to-r from-blue-500 to-blue-600 text-white font-semibold rounded-lg hover:shadow-md hover:from-blue-600 hover:to-blue-700 transition"
         onClick={startQuiz}
@@ -82,7 +125,6 @@ const ChatBot = () => {
         {loading ? "Starting..." : "🚀 Start Assessment"}
       </button>
 
-      {/* Display Question */}
       {question && (
         <div className="mt-6 p-5 bg-gray-50 rounded-xl shadow-md">
           <h3 className="text-lg font-semibold text-gray-800">
@@ -90,7 +132,6 @@ const ChatBot = () => {
           </h3>
           <p className="mt-2 text-gray-700">{question}</p>
 
-          {/* MCQ Options */}
           {questionType === "mcq" && options.length > 0 && (
             <div className="mt-4 space-y-2">
               {options.map((opt, index) => (
@@ -115,7 +156,6 @@ const ChatBot = () => {
             </div>
           )}
 
-          {/* Coding Input */}
           {questionType === "coding" && (
             <textarea
               className="w-full p-3 border border-gray-300 rounded-lg font-mono bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
@@ -126,7 +166,6 @@ const ChatBot = () => {
             />
           )}
 
-          {/* Open-Ended Input */}
           {questionType === "open-ended" && (
             <textarea
               className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
@@ -137,7 +176,6 @@ const ChatBot = () => {
             />
           )}
 
-          {/* Submit Answer Button */}
           <button
             className="w-full mt-4 py-3 bg-green-500 text-white font-semibold rounded-lg hover:shadow-md hover:bg-green-600 transition"
             onClick={handleSubmit}
@@ -148,10 +186,9 @@ const ChatBot = () => {
         </div>
       )}
 
-      {/* Show Final Results */}
-      {results && (
+      {showResults && results && (
         <div className="mt-6 p-5 bg-green-50 border border-green-400 text-green-700 rounded-xl shadow-md">
-          <h3 className="text-xl font-bold">🎉 Assessment Completed!</h3>
+          <h3 className="text-xl font-bold">🎉 Assessment Results</h3>
           <p>
             <strong>🏆 Score:</strong> {results.score}%
           </p>
@@ -162,19 +199,17 @@ const ChatBot = () => {
             <strong>🔍 Recommendation:</strong> {results.recommendation}
           </p>
 
-          {/* Learning Pathway Button */}
           <button
-            className="w-full mt-4 py-3 bg-purple-500 text-white font-semibold rounded-lg hover:shadow-md hover:bg-purple-600 transition"
-            onClick={() => alert("Learning Pathway coming soon!")} // Placeholder action
+            className="w-full mt-4 py-3 flex items-center justify-center bg-purple-600 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300"
+            onClick={() => alert("Learning Pathway coming soon!")}
           >
             📚 Learning Pathway
+            <motion.div animate={{ x: [0, 5, 0] }} transition={{ duration: 0.5, repeat: Infinity }} className="ml-2">
+              <ArrowRight size={22} />
+            </motion.div>
           </button>
-          
         </div>
       )}
-
-      
-
     </div>
   );
 };
