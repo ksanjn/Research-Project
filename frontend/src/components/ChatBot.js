@@ -2,18 +2,16 @@ import React, { useState } from "react";
 import { startAssessment, submitAnswer } from "../api";
 
 const ChatBot = () => {
-  const [jobRole, setJobRole] = useState(""); // Store user input for job role
-  const [question, setQuestion] = useState(""); // Current question
-  const [questionType, setQuestionType] = useState(""); // Question Type (MCQ, Coding, Open-Ended)
-  const [options, setOptions] = useState([]); // Options for MCQ
-  const [questionIndex, setQuestionIndex] = useState(0); // Track current question
-  const [totalQuestions, setTotalQuestions] = useState(0); // Total questions
-  const [answers, setAnswers] = useState({}); // Store all answers
-  const [answer, setAnswer] = useState(""); // Store current answer
-  const [results, setResults] = useState(null); // Store final results
-  const [loading, setLoading] = useState(false); // Track API loading state
+  const [jobRole, setJobRole] = useState("");
+  const [question, setQuestion] = useState("");
+  const [questionType, setQuestionType] = useState("");
+  const [options, setOptions] = useState([]);
+  const [questionIndex, setQuestionIndex] = useState(0);
+  const [totalQuestions, setTotalQuestions] = useState(0);
+  const [answer, setAnswer] = useState("");
+  const [results, setResults] = useState(null);
+  const [loading, setLoading] = useState(false);
 
-  // Start assessment and get first question
   const startQuiz = async () => {
     setLoading(true);
     try {
@@ -23,15 +21,13 @@ const ChatBot = () => {
       setOptions(response.options || []);
       setQuestionIndex(response.index);
       setTotalQuestions(response.total_questions);
-      setAnswers({}); // Reset previous answers
-      setResults(null); // Clear previous results
+      setResults(null);
     } catch (error) {
       alert("Error starting assessment. Please try again.");
     }
     setLoading(false);
   };
 
-  // Submit current answer and get next question
   const handleSubmit = async () => {
     if (!answer.trim()) {
       alert("Please enter an answer before submitting.");
@@ -40,27 +36,20 @@ const ChatBot = () => {
 
     setLoading(true);
     try {
-      // Store the current answer in the answers object
-      setAnswers((prev) => ({ ...prev, [question]: answer }));
-
-      // Send answer to backend
       const response = await submitAnswer(jobRole, answer);
-
       if (response.next_question) {
-        // Continue to next question
         setQuestion(response.next_question);
         setQuestionType(response.question_type);
         setOptions(response.options || []);
         setQuestionIndex(response.index);
-        setAnswer(""); // Clear input for new answer
+        setAnswer("");
       } else {
-        // All questions answered → Show final score & recommendations
         setResults({
           score: response.final_score,
           skill_level: response.skill_level,
           recommendation: response.recommendation,
         });
-        setQuestion(""); // Remove current question from UI
+        setQuestion("");
       }
     } catch (error) {
       alert("Error submitting answer. Please try again.");
@@ -69,15 +58,15 @@ const ChatBot = () => {
   };
 
   return (
-    <div className="max-w-xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-10">
-      <h2 className="text-2xl font-bold text-center mb-4">
-        Skill Assessment Chatbot
+    <div className="max-w-lg mx-auto p-8 bg-white shadow-2xl rounded-2xl mt-10 border border-gray-200">
+      <h2 className="text-3xl font-extrabold text-center text-gray-800 mb-5">
+        🎯 Skill Assessment
       </h2>
 
       {/* Input for Job Role */}
       <input
         type="text"
-        className="w-full p-2 border rounded-md focus:outline-none focus:ring focus:border-blue-300"
+        className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
         placeholder="Enter Job Role..."
         value={jobRole}
         onChange={(e) => setJobRole(e.target.value)}
@@ -86,32 +75,39 @@ const ChatBot = () => {
 
       {/* Start Assessment Button */}
       <button
-        className="w-full mt-3 p-2 bg-blue-500 text-white font-bold rounded-md hover:bg-blue-600"
+        className="w-full mt-4 py-3 bg-gradient-to-r from-blue-500 to-blue-600 text-white font-semibold rounded-lg hover:shadow-md hover:from-blue-600 hover:to-blue-700 transition"
         onClick={startQuiz}
         disabled={loading || question !== ""}
       >
-        {loading ? "Starting..." : "Start Assessment"}
+        {loading ? "Starting..." : "🚀 Start Assessment"}
       </button>
 
       {/* Display Question */}
       {question && (
-        <div className="mt-4">
-          <h3 className="text-lg font-semibold">
+        <div className="mt-6 p-5 bg-gray-50 rounded-xl shadow-md">
+          <h3 className="text-lg font-semibold text-gray-800">
             Question {questionIndex + 1} of {totalQuestions}
           </h3>
-          <p className="font-medium">{question}</p>
+          <p className="mt-2 text-gray-700">{question}</p>
 
-          {/* Render MCQ Options */}
+          {/* MCQ Options */}
           {questionType === "mcq" && options.length > 0 && (
-            <div className="mt-2">
+            <div className="mt-4 space-y-2">
               {options.map((opt, index) => (
-                <label key={index} className="block p-2 border rounded-md cursor-pointer">
+                <label
+                  key={index}
+                  className={`block p-3 rounded-lg border cursor-pointer transition ${
+                    answer === opt
+                      ? "bg-blue-500 text-white border-blue-600"
+                      : "border-gray-300 hover:bg-gray-100"
+                  }`}
+                >
                   <input
                     type="radio"
                     name="mcq"
                     value={opt}
                     onChange={(e) => setAnswer(e.target.value)}
-                    className="mr-2"
+                    className="hidden"
                   />
                   {opt}
                 </label>
@@ -119,10 +115,10 @@ const ChatBot = () => {
             </div>
           )}
 
-          {/* Render Coding Input (Large Text Area) */}
+          {/* Coding Input */}
           {questionType === "coding" && (
             <textarea
-              className="w-full p-2 border rounded-md font-mono"
+              className="w-full p-3 border border-gray-300 rounded-lg font-mono bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
               placeholder="Write your code here..."
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
@@ -130,20 +126,20 @@ const ChatBot = () => {
             />
           )}
 
-          {/* Render Open-Ended (Short Answer) */}
+          {/* Open-Ended Input */}
           {questionType === "open-ended" && (
             <textarea
-              className="w-full p-2 border rounded-md"
+              className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
               placeholder="Write your answer here..."
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
-              rows={6}
+              rows={4}
             />
           )}
 
           {/* Submit Answer Button */}
           <button
-            className="w-full mt-3 p-2 bg-green-500 text-white font-bold rounded-md hover:bg-green-600"
+            className="w-full mt-4 py-3 bg-green-500 text-white font-semibold rounded-lg hover:shadow-md hover:bg-green-600 transition"
             onClick={handleSubmit}
             disabled={loading || answer.trim() === ""}
           >
@@ -154,10 +150,17 @@ const ChatBot = () => {
 
       {/* Show Final Results */}
       {results && (
-        <div className="mt-4 p-3 bg-green-100 border border-green-500 text-green-700 rounded">
-          <strong>Score:</strong> {results.score}% <br />
-          <strong>Skill Level:</strong> {results.skill_level} <br />
-          <strong>Recommendation:</strong> {results.recommendation}
+        <div className="mt-6 p-5 bg-green-50 border border-green-400 text-green-700 rounded-xl shadow-md">
+          <h3 className="text-xl font-bold">🎉 Assessment Completed!</h3>
+          <p>
+            <strong>🏆 Score:</strong> {results.score}%
+          </p>
+          <p>
+            <strong>📊 Skill Level:</strong> {results.skill_level}
+          </p>
+          <p>
+            <strong>🔍 Recommendation:</strong> {results.recommendation}
+          </p>
         </div>
       )}
     </div>
