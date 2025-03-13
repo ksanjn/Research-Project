@@ -79,3 +79,21 @@ export const evaluateAnswers = async (jobRole, answers) => {
   }
 };
 
+export const skillGapAnalysis = async (jobRole, userSkills) => {
+  try {
+    const response = await fetch(`${BASE_URL}/skill_gap_analysis`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ job_role: jobRole, user_skills: userSkills }),
+    });
+
+    if (!response.ok) {
+      throw new Error("Error performing skill gap analysis");
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error("Error performing skill gap analysis:", error);
+    return { message: "Failed to analyze skill gap. Please try again." };
+  }
+};

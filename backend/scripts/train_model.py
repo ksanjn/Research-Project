@@ -61,8 +61,8 @@ def train_model(features, labels, label_encoder):
 
     # Model evaluation
     y_pred = model.predict(X_test)
-    print(f"{accuracy_score(y_test, y_pred):.4f}")
-    print(f"final model accuracy: {0.80000:.4f}")
+    print(f"Accuracy: {accuracy_score(y_test, y_pred):.4f}")
+    # print(f"final model accuracy: {0.80000:.4f}")
     print(f"Precision: {precision_score(y_test, y_pred, average='weighted'):.4f}")
     print(f"Recall: {recall_score(y_test, y_pred, average='weighted'):.4f}")
     print(f"F1 Score: {f1_score(y_test, y_pred, average='weighted'):.4f}")
