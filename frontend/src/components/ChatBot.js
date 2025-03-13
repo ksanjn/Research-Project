@@ -161,8 +161,20 @@ const ChatBot = () => {
           <p>
             <strong>🔍 Recommendation:</strong> {results.recommendation}
           </p>
+
+          {/* Learning Pathway Button */}
+          <button
+            className="w-full mt-4 py-3 bg-purple-500 text-white font-semibold rounded-lg hover:shadow-md hover:bg-purple-600 transition"
+            onClick={() => alert("Learning Pathway coming soon!")} // Placeholder action
+          >
+            📚 Learning Pathway
+          </button>
+          
         </div>
       )}
+
+      
+
     </div>
   );
 };

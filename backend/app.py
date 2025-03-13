@@ -4,6 +4,8 @@ import pandas as pd
 import random
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+from transformers import AutoModel, AutoTokenizer
+import torch
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -18,11 +20,28 @@ SKILL_ASSESSMENT_PATH = "./data/skill_assessment.csv"
 job_skills_data = pd.read_csv(JOB_SKILLS_PATH)
 skill_assessment_data = pd.read_csv(SKILL_ASSESSMENT_PATH)
 
-# Load NLP model
+# Load NLP model for open-ended questions
 sentence_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+
+# Load CodeBERT Model for coding similarity evaluation
+code_tokenizer = AutoTokenizer.from_pretrained("microsoft/codebert-base")
+code_model = AutoModel.from_pretrained("microsoft/codebert-base")
 
 # Store user progress in session
 user_sessions = {}
+
+# Function to compare code similarity using CodeBERT
+def code_similarity(user_code, correct_code):
+    user_tokens = code_tokenizer(user_code, return_tensors="pt", padding=True, truncation=True)
+    correct_tokens = code_tokenizer(correct_code, return_tensors="pt", padding=True, truncation=True)
+
+    with torch.no_grad():
+        user_embedding = code_model(**user_tokens).last_hidden_state.mean(dim=1)
+        correct_embedding = code_model(**correct_tokens).last_hidden_state.mean(dim=1)
+
+    similarity = torch.nn.functional.cosine_similarity(user_embedding, correct_embedding).item()
+   
+    return similarity > 0.75  # Mark correct if similarity > 75%
 
 # Start assessment and send the first question
 @app.route('/start_assessment', methods=['POST'])
@@ -78,8 +97,10 @@ def submit_answer():
     questions = session_data["questions"]
 
     question_data = questions[current_index]
-    correct_answer = question_data["Answer"].strip().lower()
+    correct_answer = question_data["Answer"].strip()
     question_type = question_data["Type"]
+
+    is_correct = False  # Default False
 
     # MCQ: Direct answer matching
     if question_type == "mcq":
@@ -90,11 +111,11 @@ def submit_answer():
         user_embedding = sentence_model.encode([user_answer])
         correct_embedding = sentence_model.encode([correct_answer])
         similarity = cosine_similarity(user_embedding, correct_embedding)[0][0]
-        is_correct = similarity > 0.75
+        is_correct = similarity > 0.75  # Mark correct if similarity > 75%
 
-    # Coding: Placeholder for logic validation
+    # Coding: Use CodeBERT for code similarity evaluation
     elif question_type == "coding":
-        is_correct = user_answer.strip().lower() == correct_answer
+        is_correct = code_similarity(user_answer, correct_answer)
 
     # Track correct answers
     if is_correct:
@@ -113,7 +134,7 @@ def submit_answer():
         })
 
     # Final Score Calculation
-    final_score = (session_data["correct_answers"] / session_data["total_questions"]) * 100
+    final_score = round((session_data["correct_answers"] / session_data["total_questions"]) * 100, 2)
 
     # Determine skill level
     if final_score < 30:
@@ -127,7 +148,7 @@ def submit_answer():
         recommendation = "Learn advanced topics and contribute to open-source projects."
     else:
         skill_level = "Expert"
-        recommendation = "You’ve demonstrated a high level of skill and knowledge. Keep pushing boundaries, learning new technologies, and contributing to the tech community! 🚀🔥"
+        recommendation = "You’ve demonstrated a high level of skill and knowledge. Keep pushing boundaries, learning new technologies, and contributing to the tech community!"
 
     del user_sessions[job_role]
 
